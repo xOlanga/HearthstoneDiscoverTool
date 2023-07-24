@@ -1,0 +1,767 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 61189,
+          "popularity": 57.14,
+          "win_rate": 25.0,
+          "name": "Hammer of the Naaru"
+        },
+        {
+          "dbf_id": 43369,
+          "popularity": 50.0,
+          "win_rate": 66.66,
+          "name": "Rhok'delar"
+        },
+        {
+          "dbf_id": 39694,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Spirit Claws"
+        },
+        {
+          "dbf_id": 64964,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Leatherworking Kit"
+        },
+        {
+          "dbf_id": 56900,
+          "popularity": 40.0,
+          "win_rate": 0.0,
+          "name": "Warglaives of Azzinoth"
+        },
+        {
+          "dbf_id": 67204,
+          "popularity": 40.0,
+          "win_rate": 0.0,
+          "name": "Dreadprison Glaive"
+        },
+        {
+          "dbf_id": 2004,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Powermace"
+        },
+        {
+          "dbf_id": 90781,
+          "popularity": 60.0,
+          "win_rate": 66.66,
+          "name": "Jazz Bass"
+        },
+        {
+          "dbf_id": 86671,
+          "popularity": 60.0,
+          "win_rate": 66.66,
+          "name": "Calamity's Grasp"
+        },
+        {
+          "dbf_id": 50595,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Overlord's Whip"
+        },
+        {
+          "dbf_id": 74755,
+          "popularity": 60.0,
+          "win_rate": 0.0,
+          "name": "Harpoon Gun"
+        },
+        {
+          "dbf_id": 62926,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sword of the Fallen"
+        },
+        {
+          "dbf_id": 63732,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Shadowcloth Needle"
+        },
+        {
+          "dbf_id": 67574,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Bloodseeker"
+        },
+        {
+          "dbf_id": 58790,
+          "popularity": 75.0,
+          "win_rate": 0.0,
+          "name": "Rune Dagger"
+        },
+        {
+          "dbf_id": 70264,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Cavalry Horn"
+        },
+        {
+          "dbf_id": 311,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Gladiator's Longbow"
+        },
+        {
+          "dbf_id": 90996,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Felstring Harp"
+        },
+        {
+          "dbf_id": 35025,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Cursed Blade"
+        },
+        {
+          "dbf_id": 78357,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Corrupted Ashbringer"
+        },
+        {
+          "dbf_id": 77311,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Imbued Axe"
+        },
+        {
+          "dbf_id": 78314,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Soulbreaker"
+        },
+        {
+          "dbf_id": 50056,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Sul'thraze"
+        },
+        {
+          "dbf_id": 50014,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Farraki Battleaxe"
+        },
+        {
+          "dbf_id": 2011,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Glaivezooka"
+        },
+        {
+          "dbf_id": 38279,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Tentacles for Arms"
+        },
+        {
+          "dbf_id": 2720,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Argent Lance"
+        },
+        {
+          "dbf_id": 304,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Arcanite Reaper"
+        },
+        {
+          "dbf_id": 847,
+          "popularity": 100.0,
+          "win_rate": 66.66,
+          "name": "Truesilver Champion"
+        },
+        {
+          "dbf_id": 64688,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Lion's Frenzy"
+        },
+        {
+          "dbf_id": 51738,
+          "popularity": 100.0,
+          "win_rate": 33.33,
+          "name": "Wrenchcalibur"
+        },
+        {
+          "dbf_id": 91495,
+          "popularity": 66.66,
+          "win_rate": 0.0,
+          "name": "Jungle Jammer"
+        },
+        {
+          "dbf_id": 58979,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Reaper's Scythe"
+        },
+        {
+          "dbf_id": 55006,
+          "popularity": 66.66,
+          "win_rate": 0.0,
+          "name": "Ancharrr"
+        },
+        {
+          "dbf_id": 2756,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "King's Defender"
+        },
+        {
+          "dbf_id": 383,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Light's Justice"
+        },
+        {
+          "dbf_id": 84245,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Souleater's Scythe"
+        },
+        {
+          "dbf_id": 46077,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Woecleaver"
+        },
+        {
+          "dbf_id": 40529,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Jade Claws"
+        },
+        {
+          "dbf_id": 63099,
+          "popularity": 66.66,
+          "win_rate": 100.0,
+          "name": "Seedcloud Buckler"
+        },
+        {
+          "dbf_id": 56413,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Boggspine Knuckles"
+        },
+        {
+          "dbf_id": 46107,
+          "popularity": 66.66,
+          "win_rate": 0.0,
+          "name": "Twig of the World Tree"
+        },
+        {
+          "dbf_id": 56443,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Underlight Angling Rod"
+        },
+        {
+          "dbf_id": 90688,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Disco Maul"
+        },
+        {
+          "dbf_id": 84400,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Hope of Quel'Thalas"
+        },
+        {
+          "dbf_id": 46305,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "The Runespear"
+        },
+        {
+          "dbf_id": 38270,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Hammer of Twilight"
+        },
+        {
+          "dbf_id": 43426,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Aluneth"
+        },
+        {
+          "dbf_id": 2027,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Coghammer"
+        },
+        {
+          "dbf_id": 960,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Stormforged Axe"
+        },
+        {
+          "dbf_id": 45528,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Dragon Soul"
+        },
+        {
+          "dbf_id": 53661,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Splitting Axe"
+        },
+        {
+          "dbf_id": 64367,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Lightbringer's Hammer"
+        },
+        {
+          "dbf_id": 90356,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Record Scratcher"
+        },
+        {
+          "dbf_id": 64013,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Counterfeit Blade"
+        },
+        {
+          "dbf_id": 56294,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "The Fist of Ra-den"
+        },
+        {
+          "dbf_id": 56583,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Aldrachi Warblades"
+        },
+        {
+          "dbf_id": 59089,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Marrowslicer"
+        },
+        {
+          "dbf_id": 1805,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Death's Bite"
+        },
+        {
+          "dbf_id": 59233,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Trueaim Crescent"
+        },
+        {
+          "dbf_id": 69630,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Doomhammer"
+        },
+        {
+          "dbf_id": 47201,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Silver Sword"
+        },
+        {
+          "dbf_id": 50550,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Likkim"
+        },
+        {
+          "dbf_id": 61839,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Rinling's Rifle"
+        },
+        {
+          "dbf_id": 64554,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Prismatic Jewel Kit"
+        },
+        {
+          "dbf_id": 41420,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Molten Blade"
+        },
+        {
+          "dbf_id": 63677,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Runed Mithril Rod"
+        },
+        {
+          "dbf_id": 42808,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ice Breaker"
+        },
+        {
+          "dbf_id": 40683,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Piranha Launcher"
+        },
+        {
+          "dbf_id": 64197,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Blacksmithing Hammer"
+        },
+        {
+          "dbf_id": 50608,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Headhunter's Hatchet"
+        },
+        {
+          "dbf_id": 61951,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Spiked Wheel"
+        },
+        {
+          "dbf_id": 643,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Sword of Justice"
+        },
+        {
+          "dbf_id": 50512,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Bloodclaw"
+        },
+        {
+          "dbf_id": 54389,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Livewire Lance"
+        },
+        {
+          "dbf_id": 80649,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rimefang Sword"
+        },
+        {
+          "dbf_id": 78169,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Frostmourne"
+        },
+        {
+          "dbf_id": 61246,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ringmaster's Baton"
+        },
+        {
+          "dbf_id": 46263,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Val'anyr"
+        },
+        {
+          "dbf_id": 43277,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Bladed Gauntlet"
+        },
+        {
+          "dbf_id": 53860,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Desert Spear"
+        },
+        {
+          "dbf_id": 47511,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Woodcutter's Axe"
+        },
+        {
+          "dbf_id": 1662,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Eaglehorn Bow"
+        },
+        {
+          "dbf_id": 62893,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Swinetusk Shank"
+        },
+        {
+          "dbf_id": 72113,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Azsharan Trident"
+        },
+        {
+          "dbf_id": 48526,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Supercollider"
+        },
+        {
+          "dbf_id": 47594,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Spectral Cutlass"
+        },
+        {
+          "dbf_id": 42735,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Light's Sorrow"
+        },
+        {
+          "dbf_id": 63632,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Venomstrike Bow"
+        },
+        {
+          "dbf_id": 2022,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Ogre Warmaul"
+        },
+        {
+          "dbf_id": 54923,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Stormhammer"
+        },
+        {
+          "dbf_id": 52617,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Waggle Pick"
+        },
+        {
+          "dbf_id": 56587,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Umberwing"
+        },
+        {
+          "dbf_id": 52496,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Mysterious Blade"
+        },
+        {
+          "dbf_id": 63673,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Celestial Ink Set"
+        },
+        {
+          "dbf_id": 45782,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Unidentified Maul"
+        },
+        {
+          "dbf_id": 61227,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Whack-A-Gnoll Hammer"
+        },
+        {
+          "dbf_id": 90368,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Cosmic Keyboard"
+        },
+        {
+          "dbf_id": 45537,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Candleshot"
+        },
+        {
+          "dbf_id": 78123,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Magnifying Glaive"
+        },
+        {
+          "dbf_id": 352,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Doomhammer"
+        },
+        {
+          "dbf_id": 63118,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Outrider's Axe"
+        },
+        {
+          "dbf_id": 48478,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Necrium Blade"
+        },
+        {
+          "dbf_id": 1989,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Cogmaster's Wrench"
+        },
+        {
+          "dbf_id": 64214,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Auctionhouse Gavel"
+        },
+        {
+          "dbf_id": 90532,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Glaivetar"
+        },
+        {
+          "dbf_id": 90681,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Idol's Adoration"
+        },
+        {
+          "dbf_id": 38745,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rallying Blade"
+        },
+        {
+          "dbf_id": 61133,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dreadlord's Bite"
+        },
+        {
+          "dbf_id": 81961,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Might of Menethil"
+        },
+        {
+          "dbf_id": 2763,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Poisoned Blade"
+        },
+        {
+          "dbf_id": 2617,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Charged Hammer"
+        },
+        {
+          "dbf_id": 61949,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Libram of Judgment"
+        },
+        {
+          "dbf_id": 65597,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Blackwater Cutlass"
+        },
+        {
+          "dbf_id": 39417,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Fool's Bane"
+        },
+        {
+          "dbf_id": 77210,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Swordfish"
+        },
+        {
+          "dbf_id": 59408,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ceremonial Maul"
+        },
+        {
+          "dbf_id": 69533,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Truesilver Champion"
+        },
+        {
+          "dbf_id": 47035,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Kingsbane"
+        },
+        {
+          "dbf_id": 391,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Perdition's Blade"
+        },
+        {
+          "dbf_id": 63374,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Whetstone Hatchet"
+        },
+        {
+          "dbf_id": 41859,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Vinecleaver"
+        },
+        {
+          "dbf_id": 56905,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Flamereaper"
+        },
+        {
+          "dbf_id": 91232,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Arcanite Ripper"
+        },
+        {
+          "dbf_id": 40438,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Brass Knuckles"
+        },
+        {
+          "dbf_id": 94381,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Timber Tambourine"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

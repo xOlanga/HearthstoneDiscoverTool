@@ -1,0 +1,275 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 102200,
+          "popularity": 32.46,
+          "win_rate": 61.8,
+          "name": "Shard of the Naaru"
+        },
+        {
+          "dbf_id": 86624,
+          "popularity": 45.6,
+          "win_rate": 62.24,
+          "name": "Cannibalize"
+        },
+        {
+          "dbf_id": 77368,
+          "popularity": 52.16,
+          "win_rate": 62.23,
+          "name": "Identity Theft"
+        },
+        {
+          "dbf_id": 91067,
+          "popularity": 33.75,
+          "win_rate": 68.9,
+          "name": "Power Chord: Synchronize"
+        },
+        {
+          "dbf_id": 77370,
+          "popularity": 28.42,
+          "win_rate": 56.79,
+          "name": "Clean the Scene"
+        },
+        {
+          "dbf_id": 77305,
+          "popularity": 30.19,
+          "win_rate": 60.98,
+          "name": "The Light! It Burns!"
+        },
+        {
+          "dbf_id": 90683,
+          "popularity": 30.87,
+          "win_rate": 59.83,
+          "name": "Harmonic Pop"
+        },
+        {
+          "dbf_id": 72481,
+          "popularity": 25.63,
+          "win_rate": 62.92,
+          "name": "Whirlpool"
+        },
+        {
+          "dbf_id": 66861,
+          "popularity": 22.8,
+          "win_rate": 58.59,
+          "name": "Thrive in the Shadows"
+        },
+        {
+          "dbf_id": 90959,
+          "popularity": 50.27,
+          "win_rate": 61.1,
+          "name": "Love Everlasting"
+        },
+        {
+          "dbf_id": 69508,
+          "popularity": 36.27,
+          "win_rate": 57.52,
+          "name": "Holy Nova"
+        },
+        {
+          "dbf_id": 69707,
+          "popularity": 22.04,
+          "win_rate": 57.14,
+          "name": "Flash Heal"
+        },
+        {
+          "dbf_id": 69616,
+          "popularity": 12.99,
+          "win_rate": 54.01,
+          "name": "Shadow Word: Ruin"
+        },
+        {
+          "dbf_id": 90687,
+          "popularity": 29.76,
+          "win_rate": 53.51,
+          "name": "Fight Over Me"
+        },
+        {
+          "dbf_id": 84206,
+          "popularity": 39.73,
+          "win_rate": 51.9,
+          "name": "Shadow Word: Undeath"
+        },
+        {
+          "dbf_id": 84361,
+          "popularity": 21.94,
+          "win_rate": 59.27,
+          "name": "Undying Allies"
+        },
+        {
+          "dbf_id": 69569,
+          "popularity": 25.5,
+          "win_rate": 51.46,
+          "name": "Shadow Word: Death"
+        },
+        {
+          "dbf_id": 86621,
+          "popularity": 38.76,
+          "win_rate": 57.38,
+          "name": "Mind Sear"
+        },
+        {
+          "dbf_id": 86534,
+          "popularity": 22.34,
+          "win_rate": 43.2,
+          "name": "Lightbomb"
+        },
+        {
+          "dbf_id": 80120,
+          "popularity": 40.51,
+          "win_rate": 61.79,
+          "name": "Drown"
+        },
+        {
+          "dbf_id": 84586,
+          "popularity": 37.01,
+          "win_rate": 57.46,
+          "name": "Grave Digging"
+        },
+        {
+          "dbf_id": 69509,
+          "popularity": 26.0,
+          "win_rate": 49.13,
+          "name": "Holy Smite"
+        },
+        {
+          "dbf_id": 84132,
+          "popularity": 42.02,
+          "win_rate": 55.17,
+          "name": "Animate Dead"
+        },
+        {
+          "dbf_id": 72482,
+          "popularity": 38.35,
+          "win_rate": 51.42,
+          "name": "Illuminate"
+        },
+        {
+          "dbf_id": 90366,
+          "popularity": 26.33,
+          "win_rate": 48.8,
+          "name": "Shadow Chord: Distort"
+        },
+        {
+          "dbf_id": 80118,
+          "popularity": 37.94,
+          "win_rate": 50.58,
+          "name": "Switcheroo"
+        },
+        {
+          "dbf_id": 79745,
+          "popularity": 15.57,
+          "win_rate": 45.16,
+          "name": "Theft Accusation"
+        },
+        {
+          "dbf_id": 86228,
+          "popularity": 35.41,
+          "win_rate": 50.98,
+          "name": "The Sunwell"
+        },
+        {
+          "dbf_id": 72483,
+          "popularity": 22.22,
+          "win_rate": 56.66,
+          "name": "Whispers of the Deep"
+        },
+        {
+          "dbf_id": 79739,
+          "popularity": 19.29,
+          "win_rate": 63.63,
+          "name": "Clear Conscience"
+        },
+        {
+          "dbf_id": 92333,
+          "popularity": 42.45,
+          "win_rate": 62.22,
+          "name": "Fizzle's Snapshot"
+        },
+        {
+          "dbf_id": 77659,
+          "popularity": 51.57,
+          "win_rate": 67.34,
+          "name": "Cold Case"
+        },
+        {
+          "dbf_id": 79482,
+          "popularity": 46.31,
+          "win_rate": 65.9,
+          "name": "Deathborne"
+        },
+        {
+          "dbf_id": 69623,
+          "popularity": 14.44,
+          "win_rate": 69.23,
+          "name": "Preparation"
+        },
+        {
+          "dbf_id": 77374,
+          "popularity": 19.31,
+          "win_rate": 52.94,
+          "name": "Azsharan Ritual"
+        },
+        {
+          "dbf_id": 69622,
+          "popularity": 34.48,
+          "win_rate": 63.33,
+          "name": "Shadowstep"
+        },
+        {
+          "dbf_id": 72487,
+          "popularity": 71.76,
+          "win_rate": 55.73,
+          "name": "Serpent Wig"
+        },
+        {
+          "dbf_id": 77378,
+          "popularity": 28.57,
+          "win_rate": 59.09,
+          "name": "Sunken Ritual"
+        },
+        {
+          "dbf_id": 72119,
+          "popularity": 22.36,
+          "win_rate": 82.35,
+          "name": "Gone Fishin'"
+        },
+        {
+          "dbf_id": 86111,
+          "popularity": 55.4,
+          "win_rate": 48.78,
+          "name": "Potion Belt"
+        },
+        {
+          "dbf_id": 77557,
+          "popularity": 34.78,
+          "win_rate": 54.16,
+          "name": "Serrated Bone Spike"
+        },
+        {
+          "dbf_id": 76273,
+          "popularity": 21.87,
+          "win_rate": 57.14,
+          "name": "Blizzard"
+        },
+        {
+          "dbf_id": 97360,
+          "popularity": 13.11,
+          "win_rate": 37.5,
+          "name": "Volume Up"
+        },
+        {
+          "dbf_id": 77642,
+          "popularity": 28.33,
+          "win_rate": 52.94,
+          "name": "Solid Alibi"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

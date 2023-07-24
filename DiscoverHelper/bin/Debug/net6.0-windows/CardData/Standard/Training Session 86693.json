@@ -1,0 +1,251 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 69542,
+          "popularity": 23.02,
+          "win_rate": 51.56,
+          "name": "Sen'jin Shieldmasta"
+        },
+        {
+          "dbf_id": 86722,
+          "popularity": 19.92,
+          "win_rate": 67.27,
+          "name": "Thaddius, Monstrosity"
+        },
+        {
+          "dbf_id": 75868,
+          "popularity": 12.04,
+          "win_rate": 42.42,
+          "name": "Scuttlebutt Ghoul"
+        },
+        {
+          "dbf_id": 79562,
+          "popularity": 13.91,
+          "win_rate": 63.15,
+          "name": "Red Herring"
+        },
+        {
+          "dbf_id": 79557,
+          "popularity": 23.44,
+          "win_rate": 50.0,
+          "name": "Bog Beast"
+        },
+        {
+          "dbf_id": 78329,
+          "popularity": 23.42,
+          "win_rate": 52.38,
+          "name": "Shatterskin Gargoyle"
+        },
+        {
+          "dbf_id": 76327,
+          "popularity": 17.22,
+          "win_rate": 43.47,
+          "name": "Primordial Drake"
+        },
+        {
+          "dbf_id": 82689,
+          "popularity": 57.51,
+          "win_rate": 62.09,
+          "name": "Silvermoon Sentinel"
+        },
+        {
+          "dbf_id": 69718,
+          "popularity": 55.17,
+          "win_rate": 58.33,
+          "name": "Annoy-o-Tron"
+        },
+        {
+          "dbf_id": 78153,
+          "popularity": 33.46,
+          "win_rate": 57.47,
+          "name": "Priest of the Deceased"
+        },
+        {
+          "dbf_id": 69726,
+          "popularity": 7.81,
+          "win_rate": 45.0,
+          "name": "Sleepy Dragon"
+        },
+        {
+          "dbf_id": 91076,
+          "popularity": 12.4,
+          "win_rate": 38.7,
+          "name": "Amplified Elekk"
+        },
+        {
+          "dbf_id": 71705,
+          "popularity": 9.67,
+          "win_rate": 54.16,
+          "name": "Barbaric Sorceress"
+        },
+        {
+          "dbf_id": 102219,
+          "popularity": 35.1,
+          "win_rate": 58.13,
+          "name": "Bronze Gatekeeper"
+        },
+        {
+          "dbf_id": 102229,
+          "popularity": 47.75,
+          "win_rate": 57.26,
+          "name": "Rotten Applebaum"
+        },
+        {
+          "dbf_id": 76319,
+          "popularity": 47.54,
+          "win_rate": 43.96,
+          "name": "Tar Creeper"
+        },
+        {
+          "dbf_id": 72583,
+          "popularity": 43.56,
+          "win_rate": 58.09,
+          "name": "Treasure Guard"
+        },
+        {
+          "dbf_id": 97112,
+          "popularity": 58.33,
+          "win_rate": 58.57,
+          "name": "Zilliax"
+        },
+        {
+          "dbf_id": 92240,
+          "popularity": 36.4,
+          "win_rate": 58.62,
+          "name": "Festival Security"
+        },
+        {
+          "dbf_id": 84692,
+          "popularity": 8.47,
+          "win_rate": 70.0,
+          "name": "Flesh Behemoth"
+        },
+        {
+          "dbf_id": 102225,
+          "popularity": 52.13,
+          "win_rate": 50.0,
+          "name": "Dirty Rat"
+        },
+        {
+          "dbf_id": 66856,
+          "popularity": 40.96,
+          "win_rate": 59.13,
+          "name": "Taelan Fordring"
+        },
+        {
+          "dbf_id": 102230,
+          "popularity": 20.53,
+          "win_rate": 52.17,
+          "name": "Dread Corsair"
+        },
+        {
+          "dbf_id": 72212,
+          "popularity": 36.48,
+          "win_rate": 60.49,
+          "name": "Azsharan Sentinel"
+        },
+        {
+          "dbf_id": 86552,
+          "popularity": 27.1,
+          "win_rate": 62.06,
+          "name": "Injured Tol'vir"
+        },
+        {
+          "dbf_id": 79771,
+          "popularity": 32.04,
+          "win_rate": 63.79,
+          "name": "Mawsworn Bailiff"
+        },
+        {
+          "dbf_id": 102214,
+          "popularity": 46.51,
+          "win_rate": 61.25,
+          "name": "Sword Eater"
+        },
+        {
+          "dbf_id": 87682,
+          "popularity": 43.02,
+          "win_rate": 44.59,
+          "name": "Drum Soloist"
+        },
+        {
+          "dbf_id": 84293,
+          "popularity": 35.5,
+          "win_rate": 53.33,
+          "name": "Silverfury Stalwart"
+        },
+        {
+          "dbf_id": 97326,
+          "popularity": 32.71,
+          "win_rate": 52.83,
+          "name": "Armagedillo"
+        },
+        {
+          "dbf_id": 84300,
+          "popularity": 62.5,
+          "win_rate": 61.0,
+          "name": "Asvedon, the Grandshield"
+        },
+        {
+          "dbf_id": 86691,
+          "popularity": 31.87,
+          "win_rate": 50.98,
+          "name": "Fleshshaper"
+        },
+        {
+          "dbf_id": 72120,
+          "popularity": 18.75,
+          "win_rate": 56.66,
+          "name": "Blackscale Brute"
+        },
+        {
+          "dbf_id": 102719,
+          "popularity": 74.84,
+          "win_rate": 60.5,
+          "name": "Frightened Flunky"
+        },
+        {
+          "dbf_id": 75631,
+          "popularity": 64.23,
+          "win_rate": 57.73,
+          "name": "Igneous Lavagorger"
+        },
+        {
+          "dbf_id": 79742,
+          "popularity": 59.25,
+          "win_rate": 62.5,
+          "name": "Incriminating Psychic"
+        },
+        {
+          "dbf_id": 84133,
+          "popularity": 50.0,
+          "win_rate": 63.63,
+          "name": "Bonecaller"
+        },
+        {
+          "dbf_id": 78644,
+          "popularity": 23.52,
+          "win_rate": 50.0,
+          "name": "Deathbringer Saurfang"
+        },
+        {
+          "dbf_id": 80830,
+          "popularity": 22.22,
+          "win_rate": 100.0,
+          "name": "Boneguard Commander"
+        },
+        {
+          "dbf_id": 80819,
+          "popularity": 77.77,
+          "win_rate": 100.0,
+          "name": "Gnome Muncher"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

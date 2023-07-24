@@ -1,0 +1,83 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 62482,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ratchet Privateer"
+        },
+        {
+          "dbf_id": 420,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Cairne Bloodhoof"
+        },
+        {
+          "dbf_id": 66868,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Ysera the Dreamer"
+        },
+        {
+          "dbf_id": 50395,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rabble Bouncer"
+        },
+        {
+          "dbf_id": 53970,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Injured Tol'vir"
+        },
+        {
+          "dbf_id": 42445,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Night Howler"
+        },
+        {
+          "dbf_id": 48505,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Spring Rocket"
+        },
+        {
+          "dbf_id": 46103,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Tainted Zealot"
+        },
+        {
+          "dbf_id": 66869,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Malygos the Spellweaver"
+        },
+        {
+          "dbf_id": 77308,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sinrunner"
+        },
+        {
+          "dbf_id": 79782,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "The Jailer"
+        },
+        {
+          "dbf_id": 1786,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Nerubian Egg"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

@@ -1,0 +1,197 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 92325,
+          "popularity": 31.3,
+          "win_rate": 52.58,
+          "name": "Chill Vibes"
+        },
+        {
+          "dbf_id": 86505,
+          "popularity": 29.46,
+          "win_rate": 52.53,
+          "name": "Cold Storage"
+        },
+        {
+          "dbf_id": 92232,
+          "popularity": 52.89,
+          "win_rate": 60.63,
+          "name": "JIVE, INSECT!"
+        },
+        {
+          "dbf_id": 86504,
+          "popularity": 20.3,
+          "win_rate": 57.54,
+          "name": "Blazing Transmutation"
+        },
+        {
+          "dbf_id": 72508,
+          "popularity": 49.34,
+          "win_rate": 57.41,
+          "name": "Scalding Geyser"
+        },
+        {
+          "dbf_id": 69625,
+          "popularity": 28.53,
+          "win_rate": 55.6,
+          "name": "Lightning Bolt"
+        },
+        {
+          "dbf_id": 75590,
+          "popularity": 36.67,
+          "win_rate": 57.42,
+          "name": "Command of Neptulon"
+        },
+        {
+          "dbf_id": 92222,
+          "popularity": 35.2,
+          "win_rate": 55.1,
+          "name": "Altered Chord"
+        },
+        {
+          "dbf_id": 69626,
+          "popularity": 30.24,
+          "win_rate": 51.19,
+          "name": "Feral Spirit"
+        },
+        {
+          "dbf_id": 72316,
+          "popularity": 3.04,
+          "win_rate": 71.42,
+          "name": "Bioluminescence"
+        },
+        {
+          "dbf_id": 102208,
+          "popularity": 20.23,
+          "win_rate": 59.71,
+          "name": "Zap!"
+        },
+        {
+          "dbf_id": 76982,
+          "popularity": 33.38,
+          "win_rate": 52.21,
+          "name": "Primordial Wave"
+        },
+        {
+          "dbf_id": 69629,
+          "popularity": 37.35,
+          "win_rate": 50.99,
+          "name": "Lightning Storm"
+        },
+        {
+          "dbf_id": 69551,
+          "popularity": 34.88,
+          "win_rate": 56.65,
+          "name": "Hex"
+        },
+        {
+          "dbf_id": 72481,
+          "popularity": 100.0,
+          "win_rate": 71.88,
+          "name": "Whirlpool"
+        },
+        {
+          "dbf_id": 69522,
+          "popularity": 100.0,
+          "win_rate": 55.83,
+          "name": "Deadly Poison"
+        },
+        {
+          "dbf_id": 69608,
+          "popularity": 62.5,
+          "win_rate": 53.33,
+          "name": "Ice Barrier"
+        },
+        {
+          "dbf_id": 69501,
+          "popularity": 42.55,
+          "win_rate": 80.0,
+          "name": "Fireball"
+        },
+        {
+          "dbf_id": 102194,
+          "popularity": 30.43,
+          "win_rate": 64.28,
+          "name": "Flame Geyser"
+        },
+        {
+          "dbf_id": 69699,
+          "popularity": 41.3,
+          "win_rate": 57.89,
+          "name": "Snap Freeze"
+        },
+        {
+          "dbf_id": 76272,
+          "popularity": 41.86,
+          "win_rate": 66.66,
+          "name": "Pyroblast"
+        },
+        {
+          "dbf_id": 76273,
+          "popularity": 65.78,
+          "win_rate": 44.0,
+          "name": "Blizzard"
+        },
+        {
+          "dbf_id": 77642,
+          "popularity": 59.45,
+          "win_rate": 50.0,
+          "name": "Solid Alibi"
+        },
+        {
+          "dbf_id": 79482,
+          "popularity": 59.45,
+          "win_rate": 54.54,
+          "name": "Deathborne"
+        },
+        {
+          "dbf_id": 102193,
+          "popularity": 44.44,
+          "win_rate": 50.0,
+          "name": "Fire Sale"
+        },
+        {
+          "dbf_id": 72651,
+          "popularity": 24.24,
+          "win_rate": 37.5,
+          "name": "Volcanomancy"
+        },
+        {
+          "dbf_id": 86235,
+          "popularity": 54.54,
+          "win_rate": 44.44,
+          "name": "Explosive Runes"
+        },
+        {
+          "dbf_id": 77659,
+          "popularity": 81.25,
+          "win_rate": 57.69,
+          "name": "Cold Case"
+        },
+        {
+          "dbf_id": 97375,
+          "popularity": 54.83,
+          "win_rate": 58.82,
+          "name": "Firelands Portal"
+        },
+        {
+          "dbf_id": 84354,
+          "popularity": 45.16,
+          "win_rate": 64.28,
+          "name": "Frozen Touch"
+        },
+        {
+          "dbf_id": 80648,
+          "popularity": 100.0,
+          "win_rate": 70.0,
+          "name": "Remorseless Winter"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

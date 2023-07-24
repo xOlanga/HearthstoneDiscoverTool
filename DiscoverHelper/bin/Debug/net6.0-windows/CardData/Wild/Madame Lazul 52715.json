@@ -1,0 +1,659 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 1746,
+          "popularity": 18.75,
+          "win_rate": 50.0,
+          "name": "The Coin"
+        },
+        {
+          "dbf_id": 79767,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Prince Renathal"
+        },
+        {
+          "dbf_id": 90749,
+          "popularity": 34.61,
+          "win_rate": 44.44,
+          "name": "E.T.C., Band Manager"
+        },
+        {
+          "dbf_id": 77222,
+          "popularity": 76.92,
+          "win_rate": 60.0,
+          "name": "Sire Denathrius"
+        },
+        {
+          "dbf_id": 59223,
+          "popularity": 33.33,
+          "win_rate": 75.0,
+          "name": "Raise Dead"
+        },
+        {
+          "dbf_id": 2883,
+          "popularity": 26.08,
+          "win_rate": 66.66,
+          "name": "Reno Jackson"
+        },
+        {
+          "dbf_id": 71781,
+          "popularity": 42.1,
+          "win_rate": 75.0,
+          "name": "Sir Finley, Sea Guide"
+        },
+        {
+          "dbf_id": 90947,
+          "popularity": 58.82,
+          "win_rate": 60.0,
+          "name": "Astalor, the Protector"
+        },
+        {
+          "dbf_id": 77642,
+          "popularity": 50.0,
+          "win_rate": 62.5,
+          "name": "Solid Alibi"
+        },
+        {
+          "dbf_id": 69623,
+          "popularity": 37.5,
+          "win_rate": 50.0,
+          "name": "Preparation"
+        },
+        {
+          "dbf_id": 55432,
+          "popularity": 6.66,
+          "win_rate": 100.0,
+          "name": "Kobold Stickyfinger"
+        },
+        {
+          "dbf_id": 76310,
+          "popularity": 46.66,
+          "win_rate": 71.42,
+          "name": "Zola the Gorgon"
+        },
+        {
+          "dbf_id": 50071,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Mass Hysteria"
+        },
+        {
+          "dbf_id": 86626,
+          "popularity": 53.33,
+          "win_rate": 62.5,
+          "name": "Astalor Bloodsworn"
+        },
+        {
+          "dbf_id": 90948,
+          "popularity": 64.28,
+          "win_rate": 66.66,
+          "name": "Astalor, the Flamebringer"
+        },
+        {
+          "dbf_id": 95688,
+          "popularity": 28.57,
+          "win_rate": 75.0,
+          "name": "Defile"
+        },
+        {
+          "dbf_id": 61944,
+          "popularity": 57.14,
+          "win_rate": 75.0,
+          "name": "Hysteria"
+        },
+        {
+          "dbf_id": 42992,
+          "popularity": 21.42,
+          "win_rate": 66.66,
+          "name": "Spirit Lash"
+        },
+        {
+          "dbf_id": 52715,
+          "popularity": 69.23,
+          "win_rate": 44.44,
+          "name": "Madame Lazul"
+        },
+        {
+          "dbf_id": 53756,
+          "popularity": 61.53,
+          "win_rate": 37.5,
+          "name": "Zephrys the Great"
+        },
+        {
+          "dbf_id": 73906,
+          "popularity": 30.76,
+          "win_rate": 50.0,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 72488,
+          "popularity": 61.53,
+          "win_rate": 12.5,
+          "name": "Blackwater Behemoth"
+        },
+        {
+          "dbf_id": 43408,
+          "popularity": 61.53,
+          "win_rate": 50.0,
+          "name": "Shadowreaper Anduin"
+        },
+        {
+          "dbf_id": 46307,
+          "popularity": 50.0,
+          "win_rate": 83.33,
+          "name": "Lesser Diamond Spellstone"
+        },
+        {
+          "dbf_id": 38496,
+          "popularity": 25.0,
+          "win_rate": 66.66,
+          "name": "N'Zoth, the Corruptor"
+        },
+        {
+          "dbf_id": 40323,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Raza the Chained"
+        },
+        {
+          "dbf_id": 1802,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Poison Seeds"
+        },
+        {
+          "dbf_id": 86383,
+          "popularity": 75.0,
+          "win_rate": 88.88,
+          "name": "Lor'themar Theron"
+        },
+        {
+          "dbf_id": 69622,
+          "popularity": 58.33,
+          "win_rate": 28.57,
+          "name": "Shadowstep"
+        },
+        {
+          "dbf_id": 50278,
+          "popularity": 41.66,
+          "win_rate": 40.0,
+          "name": "Seance"
+        },
+        {
+          "dbf_id": 69594,
+          "popularity": 27.27,
+          "win_rate": 66.66,
+          "name": "Nourish"
+        },
+        {
+          "dbf_id": 69569,
+          "popularity": 36.36,
+          "win_rate": 75.0,
+          "name": "Shadow Word: Death"
+        },
+        {
+          "dbf_id": 82310,
+          "popularity": 45.45,
+          "win_rate": 60.0,
+          "name": "Cathedral of Atonement"
+        },
+        {
+          "dbf_id": 64716,
+          "popularity": 36.36,
+          "win_rate": 50.0,
+          "name": "Mo'arg Forgefiend"
+        },
+        {
+          "dbf_id": 71247,
+          "popularity": 18.18,
+          "win_rate": 0.0,
+          "name": "Scale of Onyxia"
+        },
+        {
+          "dbf_id": 78333,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Corpse Explosion"
+        },
+        {
+          "dbf_id": 1064,
+          "popularity": 9.09,
+          "win_rate": 0.0,
+          "name": "Blade Flurry"
+        },
+        {
+          "dbf_id": 42784,
+          "popularity": 18.18,
+          "win_rate": 50.0,
+          "name": "Skulking Geist"
+        },
+        {
+          "dbf_id": 40372,
+          "popularity": 60.0,
+          "win_rate": 66.66,
+          "name": "Jade Idol"
+        },
+        {
+          "dbf_id": 79748,
+          "popularity": 10.0,
+          "win_rate": 0.0,
+          "name": "Dew Process"
+        },
+        {
+          "dbf_id": 67048,
+          "popularity": 50.0,
+          "win_rate": 40.0,
+          "name": "Xyrella, the Devout"
+        },
+        {
+          "dbf_id": 40373,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Potion of Madness"
+        },
+        {
+          "dbf_id": 63398,
+          "popularity": 90.0,
+          "win_rate": 44.44,
+          "name": "Mutanus the Devourer"
+        },
+        {
+          "dbf_id": 63059,
+          "popularity": 10.0,
+          "win_rate": 0.0,
+          "name": "Reckless Apprentice"
+        },
+        {
+          "dbf_id": 73471,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Miracle Growth"
+        },
+        {
+          "dbf_id": 81206,
+          "popularity": 60.0,
+          "win_rate": 100.0,
+          "name": "Blood Boil"
+        },
+        {
+          "dbf_id": 1016,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Coldlight Oracle"
+        },
+        {
+          "dbf_id": 43294,
+          "popularity": 50.0,
+          "win_rate": 60.0,
+          "name": "Branching Paths"
+        },
+        {
+          "dbf_id": 72598,
+          "popularity": 40.0,
+          "win_rate": 75.0,
+          "name": "School Teacher"
+        },
+        {
+          "dbf_id": 69519,
+          "popularity": 30.0,
+          "win_rate": 33.33,
+          "name": "Hellfire"
+        },
+        {
+          "dbf_id": 196,
+          "popularity": 44.44,
+          "win_rate": 50.0,
+          "name": "Vanish"
+        },
+        {
+          "dbf_id": 97361,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Infinitize the Maxitude"
+        },
+        {
+          "dbf_id": 48111,
+          "popularity": 88.88,
+          "win_rate": 12.5,
+          "name": "Shudderwock"
+        },
+        {
+          "dbf_id": 72481,
+          "popularity": 22.22,
+          "win_rate": 50.0,
+          "name": "Whirlpool"
+        },
+        {
+          "dbf_id": 53409,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "Khartut Defender"
+        },
+        {
+          "dbf_id": 51714,
+          "popularity": 44.44,
+          "win_rate": 50.0,
+          "name": "Convincing Infiltrator"
+        },
+        {
+          "dbf_id": 77,
+          "popularity": 22.22,
+          "win_rate": 100.0,
+          "name": "Polymorph"
+        },
+        {
+          "dbf_id": 86228,
+          "popularity": 66.66,
+          "win_rate": 83.33,
+          "name": "The Sunwell"
+        },
+        {
+          "dbf_id": 69550,
+          "popularity": 22.22,
+          "win_rate": 0.0,
+          "name": "Innervate"
+        },
+        {
+          "dbf_id": 72007,
+          "popularity": 77.77,
+          "win_rate": 71.42,
+          "name": "Blademaster Okani"
+        },
+        {
+          "dbf_id": 54425,
+          "popularity": 44.44,
+          "win_rate": 50.0,
+          "name": "Penance"
+        },
+        {
+          "dbf_id": 64704,
+          "popularity": 44.44,
+          "win_rate": 75.0,
+          "name": "Spice Bread Baker"
+        },
+        {
+          "dbf_id": 1914,
+          "popularity": 22.22,
+          "win_rate": 100.0,
+          "name": "Loatheb"
+        },
+        {
+          "dbf_id": 97360,
+          "popularity": 44.44,
+          "win_rate": 25.0,
+          "name": "Volume Up"
+        },
+        {
+          "dbf_id": 69640,
+          "popularity": 44.44,
+          "win_rate": 100.0,
+          "name": "Brawl"
+        },
+        {
+          "dbf_id": 70011,
+          "popularity": 44.44,
+          "win_rate": 75.0,
+          "name": "Rune of the Archmage"
+        },
+        {
+          "dbf_id": 76273,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "Blizzard"
+        },
+        {
+          "dbf_id": 42656,
+          "popularity": 12.5,
+          "win_rate": 0.0,
+          "name": "Spreading Plague"
+        },
+        {
+          "dbf_id": 102718,
+          "popularity": 12.5,
+          "win_rate": 0.0,
+          "name": "Darkbishop Benedictus"
+        },
+        {
+          "dbf_id": 69735,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Drain Soul"
+        },
+        {
+          "dbf_id": 95004,
+          "popularity": 12.5,
+          "win_rate": 0.0,
+          "name": "The Coin"
+        },
+        {
+          "dbf_id": 69616,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Shadow Word: Ruin"
+        },
+        {
+          "dbf_id": 77370,
+          "popularity": 25.0,
+          "win_rate": 50.0,
+          "name": "Clean the Scene"
+        },
+        {
+          "dbf_id": 42597,
+          "popularity": 25.0,
+          "win_rate": 50.0,
+          "name": "Eternal Servitude"
+        },
+        {
+          "dbf_id": 71233,
+          "popularity": 37.5,
+          "win_rate": 66.66,
+          "name": "Dragonbane Shot"
+        },
+        {
+          "dbf_id": 66953,
+          "popularity": 87.5,
+          "win_rate": 71.42,
+          "name": "Wildheart Guff"
+        },
+        {
+          "dbf_id": 97905,
+          "popularity": 12.5,
+          "win_rate": 0.0,
+          "name": "The Coin"
+        },
+        {
+          "dbf_id": 69660,
+          "popularity": 37.5,
+          "win_rate": 0.0,
+          "name": "Youthful Brewmaster"
+        },
+        {
+          "dbf_id": 67210,
+          "popularity": 12.5,
+          "win_rate": 0.0,
+          "name": "Siphon Mana"
+        },
+        {
+          "dbf_id": 92237,
+          "popularity": 62.5,
+          "win_rate": 60.0,
+          "name": "Tony, King of Piracy"
+        },
+        {
+          "dbf_id": 86510,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Rake"
+        },
+        {
+          "dbf_id": 79584,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Insatiable Devourer"
+        },
+        {
+          "dbf_id": 233,
+          "popularity": 71.42,
+          "win_rate": 40.0,
+          "name": "Naturalize"
+        },
+        {
+          "dbf_id": 58794,
+          "popularity": 85.71,
+          "win_rate": 66.66,
+          "name": "Secret Passage"
+        },
+        {
+          "dbf_id": 77554,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Bloodlust"
+        },
+        {
+          "dbf_id": 61434,
+          "popularity": 28.57,
+          "win_rate": 100.0,
+          "name": "Blood of G'huun"
+        },
+        {
+          "dbf_id": 72923,
+          "popularity": 71.42,
+          "win_rate": 40.0,
+          "name": "Queen Azshara"
+        },
+        {
+          "dbf_id": 102226,
+          "popularity": 28.57,
+          "win_rate": 100.0,
+          "name": "Eater of Secrets"
+        },
+        {
+          "dbf_id": 75881,
+          "popularity": 57.14,
+          "win_rate": 75.0,
+          "name": "Sire Denathrius"
+        },
+        {
+          "dbf_id": 86624,
+          "popularity": 57.14,
+          "win_rate": 50.0,
+          "name": "Cannibalize"
+        },
+        {
+          "dbf_id": 102221,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Rustrot Viper"
+        },
+        {
+          "dbf_id": 78405,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "The Harvester of Envy"
+        },
+        {
+          "dbf_id": 65583,
+          "popularity": 42.85,
+          "win_rate": 66.66,
+          "name": "Moonlit Guidance"
+        },
+        {
+          "dbf_id": 59621,
+          "popularity": 28.57,
+          "win_rate": 0.0,
+          "name": "Potion of Illusion"
+        },
+        {
+          "dbf_id": 60445,
+          "popularity": 71.42,
+          "win_rate": 80.0,
+          "name": "Yogg-Saron, Master of Fate"
+        },
+        {
+          "dbf_id": 72504,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Selfish Shellfish"
+        },
+        {
+          "dbf_id": 67769,
+          "popularity": 28.57,
+          "win_rate": 0.0,
+          "name": "Snowfall Guardian"
+        },
+        {
+          "dbf_id": 102211,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Voidcaller"
+        },
+        {
+          "dbf_id": 46067,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Healing Rain"
+        },
+        {
+          "dbf_id": 86505,
+          "popularity": 85.71,
+          "win_rate": 66.66,
+          "name": "Cold Storage"
+        },
+        {
+          "dbf_id": 102225,
+          "popularity": 57.14,
+          "win_rate": 75.0,
+          "name": "Dirty Rat"
+        },
+        {
+          "dbf_id": 63064,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Mordresh Fire Eye"
+        },
+        {
+          "dbf_id": 80645,
+          "popularity": 57.14,
+          "win_rate": 100.0,
+          "name": "Grave Strength"
+        },
+        {
+          "dbf_id": 72318,
+          "popularity": 42.85,
+          "win_rate": 66.66,
+          "name": "Abyssal Wave"
+        },
+        {
+          "dbf_id": 73774,
+          "popularity": 42.85,
+          "win_rate": 0.0,
+          "name": "Aquatic Form"
+        },
+        {
+          "dbf_id": 86539,
+          "popularity": 71.42,
+          "win_rate": 60.0,
+          "name": "Tess Greymane"
+        },
+        {
+          "dbf_id": 77368,
+          "popularity": 57.14,
+          "win_rate": 50.0,
+          "name": "Identity Theft"
+        },
+        {
+          "dbf_id": 61154,
+          "popularity": 28.57,
+          "win_rate": 0.0,
+          "name": "Cloak of Shadows"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

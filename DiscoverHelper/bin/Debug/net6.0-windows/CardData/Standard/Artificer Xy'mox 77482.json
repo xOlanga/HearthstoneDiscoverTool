@@ -1,0 +1,29 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 78122,
+          "popularity": 50.46,
+          "win_rate": 59.95,
+          "name": "Relic of Dimensions"
+        },
+        {
+          "dbf_id": 77616,
+          "popularity": 16.35,
+          "win_rate": 62.85,
+          "name": "Relic of Phantasms"
+        },
+        {
+          "dbf_id": 78469,
+          "popularity": 33.17,
+          "win_rate": 55.98,
+          "name": "Relic of Extinction"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

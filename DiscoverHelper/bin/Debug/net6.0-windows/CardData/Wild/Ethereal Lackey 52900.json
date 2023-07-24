@@ -1,0 +1,617 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 86228,
+          "popularity": 34.61,
+          "win_rate": 44.44,
+          "name": "The Sunwell"
+        },
+        {
+          "dbf_id": 61953,
+          "popularity": 20.0,
+          "win_rate": 33.33,
+          "name": "Nitroboost Poison"
+        },
+        {
+          "dbf_id": 77151,
+          "popularity": 37.93,
+          "win_rate": 72.72,
+          "name": "Kidnap"
+        },
+        {
+          "dbf_id": 48487,
+          "popularity": 3.44,
+          "win_rate": 0.0,
+          "name": "Myra's Unstable Element"
+        },
+        {
+          "dbf_id": 60023,
+          "popularity": 7.14,
+          "win_rate": 50.0,
+          "name": "Cutting Class"
+        },
+        {
+          "dbf_id": 72119,
+          "popularity": 50.0,
+          "win_rate": 42.85,
+          "name": "Gone Fishin'"
+        },
+        {
+          "dbf_id": 41834,
+          "popularity": 11.11,
+          "win_rate": 66.66,
+          "name": "Envenom Weapon"
+        },
+        {
+          "dbf_id": 38393,
+          "popularity": 15.38,
+          "win_rate": 25.0,
+          "name": "Journey Below"
+        },
+        {
+          "dbf_id": 69522,
+          "popularity": 19.23,
+          "win_rate": 80.0,
+          "name": "Deadly Poison"
+        },
+        {
+          "dbf_id": 80121,
+          "popularity": 53.84,
+          "win_rate": 50.0,
+          "name": "Jackpot!"
+        },
+        {
+          "dbf_id": 48748,
+          "popularity": 11.53,
+          "win_rate": 100.0,
+          "name": "Necrium Vial"
+        },
+        {
+          "dbf_id": 2770,
+          "popularity": 46.15,
+          "win_rate": 41.66,
+          "name": "Burgle"
+        },
+        {
+          "dbf_id": 46897,
+          "popularity": 46.15,
+          "win_rate": 41.66,
+          "name": "Cheap Shot"
+        },
+        {
+          "dbf_id": 904,
+          "popularity": 46.15,
+          "win_rate": 58.33,
+          "name": "Eviscerate"
+        },
+        {
+          "dbf_id": 50749,
+          "popularity": 24.0,
+          "win_rate": 66.66,
+          "name": "Stolen Steel"
+        },
+        {
+          "dbf_id": 65598,
+          "popularity": 54.16,
+          "win_rate": 69.23,
+          "name": "Parrrley"
+        },
+        {
+          "dbf_id": 86111,
+          "popularity": 62.5,
+          "win_rate": 40.0,
+          "name": "Potion Belt"
+        },
+        {
+          "dbf_id": 42560,
+          "popularity": 12.5,
+          "win_rate": 33.33,
+          "name": "Roll the Bones"
+        },
+        {
+          "dbf_id": 86481,
+          "popularity": 29.16,
+          "win_rate": 57.14,
+          "name": "Ransack"
+        },
+        {
+          "dbf_id": 50779,
+          "popularity": 4.34,
+          "win_rate": 0.0,
+          "name": "Cannon Barrage"
+        },
+        {
+          "dbf_id": 71293,
+          "popularity": 13.04,
+          "win_rate": 66.66,
+          "name": "Smokescreen"
+        },
+        {
+          "dbf_id": 2095,
+          "popularity": 13.04,
+          "win_rate": 100.0,
+          "name": "Tinker's Sharpsword Oil"
+        },
+        {
+          "dbf_id": 59207,
+          "popularity": 60.86,
+          "win_rate": 42.85,
+          "name": "Brain Freeze"
+        },
+        {
+          "dbf_id": 196,
+          "popularity": 43.47,
+          "win_rate": 60.0,
+          "name": "Vanish"
+        },
+        {
+          "dbf_id": 41879,
+          "popularity": 9.09,
+          "win_rate": 50.0,
+          "name": "Spirit Echo"
+        },
+        {
+          "dbf_id": 59402,
+          "popularity": 63.63,
+          "win_rate": 64.28,
+          "name": "Coerce"
+        },
+        {
+          "dbf_id": 56524,
+          "popularity": 40.9,
+          "win_rate": 66.66,
+          "name": "Ambush"
+        },
+        {
+          "dbf_id": 41212,
+          "popularity": 22.72,
+          "win_rate": 60.0,
+          "name": "Mimic Pod"
+        },
+        {
+          "dbf_id": 61955,
+          "popularity": 40.9,
+          "win_rate": 33.33,
+          "name": "Shenanigans"
+        },
+        {
+          "dbf_id": 45535,
+          "popularity": 45.45,
+          "win_rate": 40.0,
+          "name": "Evasion"
+        },
+        {
+          "dbf_id": 58794,
+          "popularity": 18.18,
+          "win_rate": 75.0,
+          "name": "Secret Passage"
+        },
+        {
+          "dbf_id": 50766,
+          "popularity": 45.45,
+          "win_rate": 50.0,
+          "name": "Walk the Plank"
+        },
+        {
+          "dbf_id": 41207,
+          "popularity": 9.09,
+          "win_rate": 0.0,
+          "name": "Razorpetal Volley"
+        },
+        {
+          "dbf_id": 51827,
+          "popularity": 59.09,
+          "win_rate": 53.84,
+          "name": "Unidentified Contract"
+        },
+        {
+          "dbf_id": 45520,
+          "popularity": 31.81,
+          "win_rate": 28.57,
+          "name": "Cheat Death"
+        },
+        {
+          "dbf_id": 71289,
+          "popularity": 63.63,
+          "win_rate": 57.14,
+          "name": "Tooth of Nefarian"
+        },
+        {
+          "dbf_id": 61159,
+          "popularity": 33.33,
+          "win_rate": 57.14,
+          "name": "Swindle"
+        },
+        {
+          "dbf_id": 62889,
+          "popularity": 38.09,
+          "win_rate": 62.5,
+          "name": "Silverleaf Poison"
+        },
+        {
+          "dbf_id": 2587,
+          "popularity": 23.8,
+          "win_rate": 40.0,
+          "name": "Beneath the Grounds"
+        },
+        {
+          "dbf_id": 70202,
+          "popularity": 33.33,
+          "win_rate": 42.85,
+          "name": "Reconnaissance"
+        },
+        {
+          "dbf_id": 54426,
+          "popularity": 23.8,
+          "win_rate": 40.0,
+          "name": "Plague of Madness"
+        },
+        {
+          "dbf_id": 62892,
+          "popularity": 28.57,
+          "win_rate": 100.0,
+          "name": "Paralytic Poison"
+        },
+        {
+          "dbf_id": 77557,
+          "popularity": 42.85,
+          "win_rate": 11.11,
+          "name": "Serrated Bone Spike"
+        },
+        {
+          "dbf_id": 63359,
+          "popularity": 15.0,
+          "win_rate": 0.0,
+          "name": "Savory Deviate Delight"
+        },
+        {
+          "dbf_id": 40698,
+          "popularity": 30.0,
+          "win_rate": 50.0,
+          "name": "Jade Shuriken"
+        },
+        {
+          "dbf_id": 59621,
+          "popularity": 35.0,
+          "win_rate": 14.28,
+          "name": "Potion of Illusion"
+        },
+        {
+          "dbf_id": 48040,
+          "popularity": 50.0,
+          "win_rate": 40.0,
+          "name": "Academic Espionage"
+        },
+        {
+          "dbf_id": 2015,
+          "popularity": 45.0,
+          "win_rate": 44.44,
+          "name": "Sabotage"
+        },
+        {
+          "dbf_id": 52264,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Pilfer"
+        },
+        {
+          "dbf_id": 55095,
+          "popularity": 35.0,
+          "win_rate": 85.71,
+          "name": "Dragon's Hoard"
+        },
+        {
+          "dbf_id": 50773,
+          "popularity": 15.0,
+          "win_rate": 33.33,
+          "name": "Raiding Party"
+        },
+        {
+          "dbf_id": 45529,
+          "popularity": 25.0,
+          "win_rate": 40.0,
+          "name": "Sudden Betrayal"
+        },
+        {
+          "dbf_id": 573,
+          "popularity": 20.0,
+          "win_rate": 50.0,
+          "name": "Shiv"
+        },
+        {
+          "dbf_id": 52606,
+          "popularity": 45.0,
+          "win_rate": 66.66,
+          "name": "Vendetta"
+        },
+        {
+          "dbf_id": 77148,
+          "popularity": 10.0,
+          "win_rate": 100.0,
+          "name": "Double Cross"
+        },
+        {
+          "dbf_id": 90583,
+          "popularity": 60.0,
+          "win_rate": 58.33,
+          "name": "Mixtape"
+        },
+        {
+          "dbf_id": 54016,
+          "popularity": 30.0,
+          "win_rate": 66.66,
+          "name": "Shadow of Death"
+        },
+        {
+          "dbf_id": 61156,
+          "popularity": 30.0,
+          "win_rate": 66.66,
+          "name": "Shadow Clone"
+        },
+        {
+          "dbf_id": 90591,
+          "popularity": 60.0,
+          "win_rate": 58.33,
+          "name": "Breakdance"
+        },
+        {
+          "dbf_id": 1064,
+          "popularity": 5.0,
+          "win_rate": 0.0,
+          "name": "Blade Flurry"
+        },
+        {
+          "dbf_id": 64356,
+          "popularity": 35.0,
+          "win_rate": 42.85,
+          "name": "Charged Call"
+        },
+        {
+          "dbf_id": 63955,
+          "popularity": 5.0,
+          "win_rate": 100.0,
+          "name": "Sketchy Information"
+        },
+        {
+          "dbf_id": 461,
+          "popularity": 47.36,
+          "win_rate": 55.55,
+          "name": "Sap"
+        },
+        {
+          "dbf_id": 42801,
+          "popularity": 10.52,
+          "win_rate": 50.0,
+          "name": "Doomerang"
+        },
+        {
+          "dbf_id": 56094,
+          "popularity": 26.31,
+          "win_rate": 60.0,
+          "name": "Waxmancy"
+        },
+        {
+          "dbf_id": 66288,
+          "popularity": 15.78,
+          "win_rate": 66.66,
+          "name": "Investment Opportunity"
+        },
+        {
+          "dbf_id": 282,
+          "popularity": 42.1,
+          "win_rate": 50.0,
+          "name": "Betrayal"
+        },
+        {
+          "dbf_id": 86209,
+          "popularity": 42.1,
+          "win_rate": 50.0,
+          "name": "Ghostly Strike"
+        },
+        {
+          "dbf_id": 64014,
+          "popularity": 42.1,
+          "win_rate": 50.0,
+          "name": "Garrote"
+        },
+        {
+          "dbf_id": 70636,
+          "popularity": 36.84,
+          "win_rate": 57.14,
+          "name": "Contraband Stash"
+        },
+        {
+          "dbf_id": 67833,
+          "popularity": 42.1,
+          "win_rate": 25.0,
+          "name": "Frostbite"
+        },
+        {
+          "dbf_id": 54160,
+          "popularity": 47.36,
+          "win_rate": 33.33,
+          "name": "Earthquake"
+        },
+        {
+          "dbf_id": 59877,
+          "popularity": 36.84,
+          "win_rate": 42.85,
+          "name": "Plagiarize"
+        },
+        {
+          "dbf_id": 46296,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Lesser Onyx Spellstone"
+        },
+        {
+          "dbf_id": 365,
+          "popularity": 83.33,
+          "win_rate": 66.66,
+          "name": "Shadowstep"
+        },
+        {
+          "dbf_id": 86092,
+          "popularity": 50.0,
+          "win_rate": 55.55,
+          "name": "Shadow of Demise"
+        },
+        {
+          "dbf_id": 61154,
+          "popularity": 38.88,
+          "win_rate": 71.42,
+          "name": "Cloak of Shadows"
+        },
+        {
+          "dbf_id": 77150,
+          "popularity": 50.0,
+          "win_rate": 55.55,
+          "name": "Sticky Situation"
+        },
+        {
+          "dbf_id": 79607,
+          "popularity": 16.66,
+          "win_rate": 66.66,
+          "name": "Perjury"
+        },
+        {
+          "dbf_id": 72473,
+          "popularity": 38.88,
+          "win_rate": 57.14,
+          "name": "Blood in the Water"
+        },
+        {
+          "dbf_id": 830,
+          "popularity": 11.11,
+          "win_rate": 50.0,
+          "name": "Totemic Might"
+        },
+        {
+          "dbf_id": 38395,
+          "popularity": 11.11,
+          "win_rate": 50.0,
+          "name": "Thistle Tea"
+        },
+        {
+          "dbf_id": 40694,
+          "popularity": 50.0,
+          "win_rate": 55.55,
+          "name": "Devolve"
+        },
+        {
+          "dbf_id": 52679,
+          "popularity": 38.88,
+          "win_rate": 42.85,
+          "name": "Daring Escape"
+        },
+        {
+          "dbf_id": 69623,
+          "popularity": 50.0,
+          "win_rate": 11.11,
+          "name": "Preparation"
+        },
+        {
+          "dbf_id": 2304,
+          "popularity": 27.77,
+          "win_rate": 60.0,
+          "name": "Gang Up"
+        },
+        {
+          "dbf_id": 54965,
+          "popularity": 55.55,
+          "win_rate": 70.0,
+          "name": "Storm's Wrath"
+        },
+        {
+          "dbf_id": 63358,
+          "popularity": 22.22,
+          "win_rate": 25.0,
+          "name": "Shroud of Concealment"
+        },
+        {
+          "dbf_id": 57145,
+          "popularity": 50.0,
+          "win_rate": 66.66,
+          "name": "Bamboozle"
+        },
+        {
+          "dbf_id": 61169,
+          "popularity": 47.05,
+          "win_rate": 37.5,
+          "name": "Malevolent Strike"
+        },
+        {
+          "dbf_id": 64033,
+          "popularity": 35.29,
+          "win_rate": 33.33,
+          "name": "SI:7 Extortion"
+        },
+        {
+          "dbf_id": 62890,
+          "popularity": 35.29,
+          "win_rate": 50.0,
+          "name": "Wicked Stab (Rank 1)"
+        },
+        {
+          "dbf_id": 40419,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Call in the Finishers"
+        },
+        {
+          "dbf_id": 40437,
+          "popularity": 35.29,
+          "win_rate": 50.0,
+          "name": "Counterfeit Coin"
+        },
+        {
+          "dbf_id": 51375,
+          "popularity": 29.41,
+          "win_rate": 60.0,
+          "name": "Togwaggle's Scheme"
+        },
+        {
+          "dbf_id": 62894,
+          "popularity": 47.05,
+          "win_rate": 50.0,
+          "name": "Yoink!"
+        },
+        {
+          "dbf_id": 72111,
+          "popularity": 23.52,
+          "win_rate": 25.0,
+          "name": "Azsharan Vessel"
+        },
+        {
+          "dbf_id": 90586,
+          "popularity": 23.52,
+          "win_rate": 75.0,
+          "name": "Mic Drop"
+        },
+        {
+          "dbf_id": 48035,
+          "popularity": 41.17,
+          "win_rate": 57.14,
+          "name": "Violet Haze"
+        },
+        {
+          "dbf_id": 70396,
+          "popularity": 11.76,
+          "win_rate": 100.0,
+          "name": "Snowfall Graveyard"
+        },
+        {
+          "dbf_id": 180,
+          "popularity": 41.17,
+          "win_rate": 71.42,
+          "name": "Backstab"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

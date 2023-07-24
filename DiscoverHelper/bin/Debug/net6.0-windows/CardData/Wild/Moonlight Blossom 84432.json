@@ -1,0 +1,29 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 71333,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Raid Boss Onyxia"
+        },
+        {
+          "dbf_id": 61629,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Darkmoon Rabbit"
+        },
+        {
+          "dbf_id": 84692,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Flesh Behemoth"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

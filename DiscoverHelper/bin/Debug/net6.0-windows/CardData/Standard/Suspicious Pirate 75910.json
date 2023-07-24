@@ -1,0 +1,59 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 72113,
+          "popularity": 39.1,
+          "win_rate": 55.17,
+          "name": "Azsharan Trident"
+        },
+        {
+          "dbf_id": 90359,
+          "popularity": 43.48,
+          "win_rate": 44.38,
+          "name": "Kodohide Drumkit"
+        },
+        {
+          "dbf_id": 102215,
+          "popularity": 19.2,
+          "win_rate": 57.31,
+          "name": "Woodcutter's Axe"
+        },
+        {
+          "dbf_id": 77311,
+          "popularity": 31.19,
+          "win_rate": 70.22,
+          "name": "Imbued Axe"
+        },
+        {
+          "dbf_id": 77210,
+          "popularity": 50.8,
+          "win_rate": 50.79,
+          "name": "Swordfish"
+        },
+        {
+          "dbf_id": 90356,
+          "popularity": 49.19,
+          "win_rate": 77.04,
+          "name": "Record Scratcher"
+        },
+        {
+          "dbf_id": 90681,
+          "popularity": 100.0,
+          "win_rate": 87.5,
+          "name": "Idol's Adoration"
+        },
+        {
+          "dbf_id": 76982,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Primordial Wave"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

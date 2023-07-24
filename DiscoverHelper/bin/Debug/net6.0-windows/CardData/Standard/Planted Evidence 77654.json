@@ -1,0 +1,287 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 86228,
+          "popularity": 41.65,
+          "win_rate": 50.94,
+          "name": "The Sunwell"
+        },
+        {
+          "dbf_id": 102185,
+          "popularity": 37.38,
+          "win_rate": 58.53,
+          "name": "Solar Eclipse"
+        },
+        {
+          "dbf_id": 69689,
+          "popularity": 18.76,
+          "win_rate": 53.29,
+          "name": "Pounce"
+        },
+        {
+          "dbf_id": 102188,
+          "popularity": 17.62,
+          "win_rate": 56.72,
+          "name": "Witchwood Apple"
+        },
+        {
+          "dbf_id": 77562,
+          "popularity": 21.23,
+          "win_rate": 55.17,
+          "name": "Nightshade Bud"
+        },
+        {
+          "dbf_id": 85050,
+          "popularity": 5.89,
+          "win_rate": 50.0,
+          "name": "Wither"
+        },
+        {
+          "dbf_id": 86510,
+          "popularity": 45.14,
+          "win_rate": 53.73,
+          "name": "Rake"
+        },
+        {
+          "dbf_id": 73774,
+          "popularity": 41.86,
+          "win_rate": 56.56,
+          "name": "Aquatic Form"
+        },
+        {
+          "dbf_id": 78261,
+          "popularity": 27.8,
+          "win_rate": 58.55,
+          "name": "Plot of Sin"
+        },
+        {
+          "dbf_id": 73471,
+          "popularity": 33.96,
+          "win_rate": 56.38,
+          "name": "Miracle Growth"
+        },
+        {
+          "dbf_id": 76288,
+          "popularity": 50.79,
+          "win_rate": 58.54,
+          "name": "Wrath"
+        },
+        {
+          "dbf_id": 76117,
+          "popularity": 22.48,
+          "win_rate": 49.52,
+          "name": "Moonbeam"
+        },
+        {
+          "dbf_id": 76289,
+          "popularity": 29.83,
+          "win_rate": 56.22,
+          "name": "Living Roots"
+        },
+        {
+          "dbf_id": 102187,
+          "popularity": 44.34,
+          "win_rate": 52.64,
+          "name": "Lunar Eclipse"
+        },
+        {
+          "dbf_id": 69594,
+          "popularity": 40.68,
+          "win_rate": 58.68,
+          "name": "Nourish"
+        },
+        {
+          "dbf_id": 73462,
+          "popularity": 41.58,
+          "win_rate": 51.8,
+          "name": "Flipper Friends"
+        },
+        {
+          "dbf_id": 69550,
+          "popularity": 19.84,
+          "win_rate": 59.23,
+          "name": "Innervate"
+        },
+        {
+          "dbf_id": 69593,
+          "popularity": 32.03,
+          "win_rate": 64.98,
+          "name": "Power of the Wild"
+        },
+        {
+          "dbf_id": 79748,
+          "popularity": 32.68,
+          "win_rate": 56.43,
+          "name": "Dew Process"
+        },
+        {
+          "dbf_id": 69511,
+          "popularity": 37.14,
+          "win_rate": 56.39,
+          "name": "Mark of the Wild"
+        },
+        {
+          "dbf_id": 85051,
+          "popularity": 48.64,
+          "win_rate": 55.8,
+          "name": "Chitinous Plating"
+        },
+        {
+          "dbf_id": 77490,
+          "popularity": 45.76,
+          "win_rate": 56.76,
+          "name": "Natural Causes"
+        },
+        {
+          "dbf_id": 69688,
+          "popularity": 45.3,
+          "win_rate": 56.38,
+          "name": "Feral Rage"
+        },
+        {
+          "dbf_id": 94210,
+          "popularity": 47.53,
+          "win_rate": 55.06,
+          "name": "Harmonic Mood"
+        },
+        {
+          "dbf_id": 85049,
+          "popularity": 47.42,
+          "win_rate": 55.19,
+          "name": "Beetlemancy"
+        },
+        {
+          "dbf_id": 77488,
+          "popularity": 23.68,
+          "win_rate": 50.0,
+          "name": "Incarceration"
+        },
+        {
+          "dbf_id": 94251,
+          "popularity": 57.26,
+          "win_rate": 63.07,
+          "name": "Rhythm and Roots"
+        },
+        {
+          "dbf_id": 94201,
+          "popularity": 31.09,
+          "win_rate": 60.28,
+          "name": "Drum Circle"
+        },
+        {
+          "dbf_id": 78509,
+          "popularity": 27.87,
+          "win_rate": 54.36,
+          "name": "Convoke the Spirits"
+        },
+        {
+          "dbf_id": 69513,
+          "popularity": 36.14,
+          "win_rate": 60.73,
+          "name": "Wild Growth"
+        },
+        {
+          "dbf_id": 94225,
+          "popularity": 35.66,
+          "win_rate": 56.07,
+          "name": "Spread the Word"
+        },
+        {
+          "dbf_id": 69591,
+          "popularity": 15.71,
+          "win_rate": 65.24,
+          "name": "Soul of the Forest"
+        },
+        {
+          "dbf_id": 85047,
+          "popularity": 24.86,
+          "win_rate": 56.05,
+          "name": "Unending Swarm"
+        },
+        {
+          "dbf_id": 72336,
+          "popularity": 24.09,
+          "win_rate": 59.43,
+          "name": "Azsharan Gardens"
+        },
+        {
+          "dbf_id": 86508,
+          "popularity": 20.15,
+          "win_rate": 55.93,
+          "name": "Life from Death"
+        },
+        {
+          "dbf_id": 73464,
+          "popularity": 26.24,
+          "win_rate": 54.42,
+          "name": "Seaweed Strike"
+        },
+        {
+          "dbf_id": 86481,
+          "popularity": 36.58,
+          "win_rate": 26.66,
+          "name": "Ransack"
+        },
+        {
+          "dbf_id": 77370,
+          "popularity": 32.5,
+          "win_rate": 69.23,
+          "name": "Clean the Scene"
+        },
+        {
+          "dbf_id": 72483,
+          "popularity": 10.0,
+          "win_rate": 25.0,
+          "name": "Whispers of the Deep"
+        },
+        {
+          "dbf_id": 72119,
+          "popularity": 35.0,
+          "win_rate": 57.14,
+          "name": "Gone Fishin'"
+        },
+        {
+          "dbf_id": 90738,
+          "popularity": 20.0,
+          "win_rate": 50.0,
+          "name": "Synthesize"
+        },
+        {
+          "dbf_id": 72482,
+          "popularity": 35.0,
+          "win_rate": 64.28,
+          "name": "Illuminate"
+        },
+        {
+          "dbf_id": 80118,
+          "popularity": 18.42,
+          "win_rate": 85.71,
+          "name": "Switcheroo"
+        },
+        {
+          "dbf_id": 72481,
+          "popularity": 18.91,
+          "win_rate": 71.42,
+          "name": "Whirlpool"
+        },
+        {
+          "dbf_id": 77557,
+          "popularity": 32.43,
+          "win_rate": 50.0,
+          "name": "Serrated Bone Spike"
+        },
+        {
+          "dbf_id": 90959,
+          "popularity": 32.43,
+          "win_rate": 58.33,
+          "name": "Love Everlasting"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

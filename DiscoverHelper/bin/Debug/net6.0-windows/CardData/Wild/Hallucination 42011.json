@@ -1,0 +1,737 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 40407,
+          "popularity": 30.0,
+          "win_rate": 33.33,
+          "name": "Kabal Chemist"
+        },
+        {
+          "dbf_id": 91493,
+          "popularity": 10.0,
+          "win_rate": 0.0,
+          "name": "Boneshredder"
+        },
+        {
+          "dbf_id": 61957,
+          "popularity": 33.33,
+          "win_rate": 33.33,
+          "name": "Conjure Mana Biscuit"
+        },
+        {
+          "dbf_id": 72336,
+          "popularity": 55.55,
+          "win_rate": 80.0,
+          "name": "Azsharan Gardens"
+        },
+        {
+          "dbf_id": 87329,
+          "popularity": 22.22,
+          "win_rate": 100.0,
+          "name": "Frost Queen Sindragosa"
+        },
+        {
+          "dbf_id": 78633,
+          "popularity": 25.0,
+          "win_rate": 50.0,
+          "name": "Possessifier"
+        },
+        {
+          "dbf_id": 40496,
+          "popularity": 87.5,
+          "win_rate": 28.57,
+          "name": "Kabal Courier"
+        },
+        {
+          "dbf_id": 59621,
+          "popularity": 37.5,
+          "win_rate": 66.66,
+          "name": "Potion of Illusion"
+        },
+        {
+          "dbf_id": 64436,
+          "popularity": 12.5,
+          "win_rate": 100.0,
+          "name": "Prestor's Pyromancer"
+        },
+        {
+          "dbf_id": 78334,
+          "popularity": 50.0,
+          "win_rate": 75.0,
+          "name": "Icy Touch"
+        },
+        {
+          "dbf_id": 82116,
+          "popularity": 28.57,
+          "win_rate": 100.0,
+          "name": "Rime Sculptor"
+        },
+        {
+          "dbf_id": 80021,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Repulsive Gargantuan"
+        },
+        {
+          "dbf_id": 80090,
+          "popularity": 85.71,
+          "win_rate": 83.33,
+          "name": "The Scourge"
+        },
+        {
+          "dbf_id": 90497,
+          "popularity": 42.85,
+          "win_rate": 66.66,
+          "name": "Cage Head"
+        },
+        {
+          "dbf_id": 1939,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Flame Leviathan"
+        },
+        {
+          "dbf_id": 61956,
+          "popularity": 57.14,
+          "win_rate": 50.0,
+          "name": "Keywarden Ivory"
+        },
+        {
+          "dbf_id": 80736,
+          "popularity": 28.57,
+          "win_rate": 0.0,
+          "name": "Runeforging"
+        },
+        {
+          "dbf_id": 78324,
+          "popularity": 57.14,
+          "win_rate": 50.0,
+          "name": "Death Strike"
+        },
+        {
+          "dbf_id": 86732,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Overseer Frigidara"
+        },
+        {
+          "dbf_id": 59556,
+          "popularity": 57.14,
+          "win_rate": 100.0,
+          "name": "Wand Thief"
+        },
+        {
+          "dbf_id": 86735,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Ymirjar Deathbringer"
+        },
+        {
+          "dbf_id": 48692,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Research Project"
+        },
+        {
+          "dbf_id": 82073,
+          "popularity": 28.57,
+          "win_rate": 100.0,
+          "name": "Malignant Horror"
+        },
+        {
+          "dbf_id": 78353,
+          "popularity": 57.14,
+          "win_rate": 75.0,
+          "name": "Battlefield Necromancer"
+        },
+        {
+          "dbf_id": 82072,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Stitched Giant"
+        },
+        {
+          "dbf_id": 71254,
+          "popularity": 85.71,
+          "win_rate": 50.0,
+          "name": "Mi'da, Pure Light"
+        },
+        {
+          "dbf_id": 41954,
+          "popularity": 28.57,
+          "win_rate": 100.0,
+          "name": "Tyrantus"
+        },
+        {
+          "dbf_id": 51376,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Lazul's Scheme"
+        },
+        {
+          "dbf_id": 830,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Totemic Might"
+        },
+        {
+          "dbf_id": 51966,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Darkest Hour"
+        },
+        {
+          "dbf_id": 61945,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Dark Inquisitor Xanesh"
+        },
+        {
+          "dbf_id": 78352,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Army of the Dead"
+        },
+        {
+          "dbf_id": 43502,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Breath of Sindragosa"
+        },
+        {
+          "dbf_id": 67210,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Siphon Mana"
+        },
+        {
+          "dbf_id": 145,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Mindgames"
+        },
+        {
+          "dbf_id": 545,
+          "popularity": 50.0,
+          "win_rate": 66.66,
+          "name": "Mind Blast"
+        },
+        {
+          "dbf_id": 38340,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Forbidden Ancient"
+        },
+        {
+          "dbf_id": 87325,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Rimescale Siren"
+        },
+        {
+          "dbf_id": 2822,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Dreadsteed"
+        },
+        {
+          "dbf_id": 78317,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Howling Blast"
+        },
+        {
+          "dbf_id": 61179,
+          "popularity": 50.0,
+          "win_rate": 33.33,
+          "name": "Mask of C'Thun"
+        },
+        {
+          "dbf_id": 91232,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Arcanite Ripper"
+        },
+        {
+          "dbf_id": 71293,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Smokescreen"
+        },
+        {
+          "dbf_id": 63062,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Wildfire"
+        },
+        {
+          "dbf_id": 90481,
+          "popularity": 50.0,
+          "win_rate": 33.33,
+          "name": "Screaming Banshee"
+        },
+        {
+          "dbf_id": 63060,
+          "popularity": 50.0,
+          "win_rate": 66.66,
+          "name": "Arcane Luminary"
+        },
+        {
+          "dbf_id": 70011,
+          "popularity": 83.33,
+          "win_rate": 60.0,
+          "name": "Rune of the Archmage"
+        },
+        {
+          "dbf_id": 61959,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Imprisoned Phoenix"
+        },
+        {
+          "dbf_id": 59026,
+          "popularity": 66.66,
+          "win_rate": 25.0,
+          "name": "Teacher's Pet"
+        },
+        {
+          "dbf_id": 48445,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Black Cat"
+        },
+        {
+          "dbf_id": 59703,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Trick Totem"
+        },
+        {
+          "dbf_id": 42716,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Ice Walker"
+        },
+        {
+          "dbf_id": 72649,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Mecha-Shark"
+        },
+        {
+          "dbf_id": 2546,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Rhonin"
+        },
+        {
+          "dbf_id": 42754,
+          "popularity": 66.66,
+          "win_rate": 75.0,
+          "name": "Frozen Clone"
+        },
+        {
+          "dbf_id": 59553,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Groundskeeper"
+        },
+        {
+          "dbf_id": 63515,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Shattering Blast"
+        },
+        {
+          "dbf_id": 50084,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Pyromaniac"
+        },
+        {
+          "dbf_id": 41180,
+          "popularity": 60.0,
+          "win_rate": 66.66,
+          "name": "Tortollan Shellraiser"
+        },
+        {
+          "dbf_id": 47978,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Astral Rift"
+        },
+        {
+          "dbf_id": 64034,
+          "popularity": 60.0,
+          "win_rate": 100.0,
+          "name": "SI:7 Operative"
+        },
+        {
+          "dbf_id": 39374,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Onyx Bishop"
+        },
+        {
+          "dbf_id": 52262,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Tome of Intellect"
+        },
+        {
+          "dbf_id": 40973,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Shellshifter"
+        },
+        {
+          "dbf_id": 81972,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Harbinger of Winter"
+        },
+        {
+          "dbf_id": 70488,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "The Lobotomizer"
+        },
+        {
+          "dbf_id": 81973,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Glacial Advance"
+        },
+        {
+          "dbf_id": 90368,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Cosmic Keyboard"
+        },
+        {
+          "dbf_id": 49972,
+          "popularity": 40.0,
+          "win_rate": 0.0,
+          "name": "Spirit of the Shark"
+        },
+        {
+          "dbf_id": 50082,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Princess Talanji"
+        },
+        {
+          "dbf_id": 41154,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Steam Surger"
+        },
+        {
+          "dbf_id": 70026,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Gift of the Naaru"
+        },
+        {
+          "dbf_id": 42992,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Spirit Lash"
+        },
+        {
+          "dbf_id": 189,
+          "popularity": 80.0,
+          "win_rate": 75.0,
+          "name": "Fire Elemental"
+        },
+        {
+          "dbf_id": 58791,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Gift of Luminance"
+        },
+        {
+          "dbf_id": 78320,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Plague Strike"
+        },
+        {
+          "dbf_id": 80083,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Necrotic Mortician"
+        },
+        {
+          "dbf_id": 46654,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Arcane Keysmith"
+        },
+        {
+          "dbf_id": 48929,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dead Ringer"
+        },
+        {
+          "dbf_id": 447,
+          "popularity": 40.0,
+          "win_rate": 0.0,
+          "name": "Arcane Explosion"
+        },
+        {
+          "dbf_id": 70022,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Luminous Geode"
+        },
+        {
+          "dbf_id": 54909,
+          "popularity": 60.0,
+          "win_rate": 33.33,
+          "name": "Mana Giant"
+        },
+        {
+          "dbf_id": 94225,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Spread the Word"
+        },
+        {
+          "dbf_id": 86619,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Rotting Necromancer"
+        },
+        {
+          "dbf_id": 38876,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Shadowcaster"
+        },
+        {
+          "dbf_id": 36111,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Animated Armor"
+        },
+        {
+          "dbf_id": 82269,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Bonedigger Geist"
+        },
+        {
+          "dbf_id": 59000,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Firebrand"
+        },
+        {
+          "dbf_id": 59609,
+          "popularity": 100.0,
+          "win_rate": 40.0,
+          "name": "Jandice Barov"
+        },
+        {
+          "dbf_id": 587,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Frost Nova"
+        },
+        {
+          "dbf_id": 39822,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Deadly Fork"
+        },
+        {
+          "dbf_id": 40299,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Kabal Lackey"
+        },
+        {
+          "dbf_id": 621,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Ice Barrier"
+        },
+        {
+          "dbf_id": 457,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Blizzard"
+        },
+        {
+          "dbf_id": 61229,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Magicfin"
+        },
+        {
+          "dbf_id": 38578,
+          "popularity": 40.0,
+          "win_rate": 0.0,
+          "name": "Shadow Strike"
+        },
+        {
+          "dbf_id": 67874,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Arcane Brilliance"
+        },
+        {
+          "dbf_id": 84209,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Deathweaver Aura"
+        },
+        {
+          "dbf_id": 77525,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Death Blossom Whomper"
+        },
+        {
+          "dbf_id": 80818,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Body Bagger"
+        },
+        {
+          "dbf_id": 90671,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Holotechnician"
+        },
+        {
+          "dbf_id": 69595,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Druid of the Claw"
+        },
+        {
+          "dbf_id": 72807,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Dun Baldar Bridge"
+        },
+        {
+          "dbf_id": 52632,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Forbidden Words"
+        },
+        {
+          "dbf_id": 63368,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Unstable Shadow Blast"
+        },
+        {
+          "dbf_id": 40527,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Jade Spirit"
+        },
+        {
+          "dbf_id": 64673,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Maestra of the Masquerade"
+        },
+        {
+          "dbf_id": 59013,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Lab Partner"
+        },
+        {
+          "dbf_id": 81961,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Might of Menethil"
+        },
+        {
+          "dbf_id": 61434,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Blood of G'huun"
+        },
+        {
+          "dbf_id": 56682,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Ysiel Windsinger"
+        },
+        {
+          "dbf_id": 38725,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Faceless Summoner"
+        },
+        {
+          "dbf_id": 87326,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Construct Quarter"
+        },
+        {
+          "dbf_id": 1801,
+          "popularity": 80.0,
+          "win_rate": 25.0,
+          "name": "Duplicate"
+        },
+        {
+          "dbf_id": 62891,
+          "popularity": 60.0,
+          "win_rate": 66.66,
+          "name": "Efficient Octo-bot"
+        },
+        {
+          "dbf_id": 80085,
+          "popularity": 60.0,
+          "win_rate": 33.33,
+          "name": "Tomb Guardians"
+        },
+        {
+          "dbf_id": 59542,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Runic Carvings"
+        },
+        {
+          "dbf_id": 64384,
+          "popularity": 40.0,
+          "win_rate": 0.0,
+          "name": "Wickerclaw"
+        },
+        {
+          "dbf_id": 80647,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Chillfallen Baron"
+        },
+        {
+          "dbf_id": 80830,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Boneguard Commander"
+        },
+        {
+          "dbf_id": 86534,
+          "popularity": 60.0,
+          "win_rate": 33.33,
+          "name": "Lightbomb"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

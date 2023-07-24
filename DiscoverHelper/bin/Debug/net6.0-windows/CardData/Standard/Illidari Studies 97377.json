@@ -1,0 +1,53 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 73721,
+          "popularity": 36.79,
+          "win_rate": 63.38,
+          "name": "Wayward Sage"
+        },
+        {
+          "dbf_id": 90612,
+          "popularity": 34.67,
+          "win_rate": 58.88,
+          "name": "SECURITY!!"
+        },
+        {
+          "dbf_id": 69683,
+          "popularity": 35.55,
+          "win_rate": 62.6,
+          "name": "Crimson Sigil Runner"
+        },
+        {
+          "dbf_id": 69684,
+          "popularity": 47.23,
+          "win_rate": 63.21,
+          "name": "Spectral Sight"
+        },
+        {
+          "dbf_id": 84232,
+          "popularity": 22.67,
+          "win_rate": 60.21,
+          "name": "Fierce Outsider"
+        },
+        {
+          "dbf_id": 64465,
+          "popularity": 18.36,
+          "win_rate": 62.14,
+          "name": "Gan'arg Glaivesmith"
+        },
+        {
+          "dbf_id": 69740,
+          "popularity": 37.83,
+          "win_rate": 56.81,
+          "name": "Eye Beam"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

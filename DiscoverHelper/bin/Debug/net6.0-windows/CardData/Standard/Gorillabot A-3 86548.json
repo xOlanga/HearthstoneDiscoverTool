@@ -1,0 +1,203 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 78079,
+          "popularity": 10.48,
+          "win_rate": 50.31,
+          "name": "Steamcleaner"
+        },
+        {
+          "dbf_id": 91215,
+          "popularity": 14.9,
+          "win_rate": 69.46,
+          "name": "Metrognome"
+        },
+        {
+          "dbf_id": 92249,
+          "popularity": 31.87,
+          "win_rate": 63.07,
+          "name": "Frequency Oscillator"
+        },
+        {
+          "dbf_id": 72338,
+          "popularity": 33.35,
+          "win_rate": 67.65,
+          "name": "Security Automaton"
+        },
+        {
+          "dbf_id": 102969,
+          "popularity": 34.17,
+          "win_rate": 58.17,
+          "name": "Replicating Menace"
+        },
+        {
+          "dbf_id": 87317,
+          "popularity": 11.01,
+          "win_rate": 61.72,
+          "name": "Mistake"
+        },
+        {
+          "dbf_id": 97112,
+          "popularity": 66.62,
+          "win_rate": 57.97,
+          "name": "Zilliax"
+        },
+        {
+          "dbf_id": 102218,
+          "popularity": 38.08,
+          "win_rate": 60.39,
+          "name": "Wargear"
+        },
+        {
+          "dbf_id": 92254,
+          "popularity": 20.85,
+          "win_rate": 56.9,
+          "name": "Annoying Fan"
+        },
+        {
+          "dbf_id": 72931,
+          "popularity": 55.73,
+          "win_rate": 60.84,
+          "name": "Mothership"
+        },
+        {
+          "dbf_id": 73906,
+          "popularity": 53.59,
+          "win_rate": 62.83,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 90543,
+          "popularity": 24.09,
+          "win_rate": 57.63,
+          "name": "The One-Amalgam Band"
+        },
+        {
+          "dbf_id": 72417,
+          "popularity": 30.06,
+          "win_rate": 69.97,
+          "name": "Click-Clocker"
+        },
+        {
+          "dbf_id": 69718,
+          "popularity": 31.08,
+          "win_rate": 53.36,
+          "name": "Annoy-o-Tron"
+        },
+        {
+          "dbf_id": 69717,
+          "popularity": 9.17,
+          "win_rate": 41.22,
+          "name": "Explosive Sheep"
+        },
+        {
+          "dbf_id": 102219,
+          "popularity": 38.54,
+          "win_rate": 59.41,
+          "name": "Bronze Gatekeeper"
+        },
+        {
+          "dbf_id": 91078,
+          "popularity": 18.8,
+          "win_rate": 64.01,
+          "name": "Audio Amplifier"
+        },
+        {
+          "dbf_id": 71688,
+          "popularity": 11.77,
+          "win_rate": 57.57,
+          "name": "Naval Mine"
+        },
+        {
+          "dbf_id": 77016,
+          "popularity": 31.76,
+          "win_rate": 58.76,
+          "name": "Azsharan Sweeper"
+        },
+        {
+          "dbf_id": 90856,
+          "popularity": 20.44,
+          "win_rate": 55.41,
+          "name": "Audio Splitter"
+        },
+        {
+          "dbf_id": 71841,
+          "popularity": 71.17,
+          "win_rate": 62.89,
+          "name": "Gaia, the Techtonic"
+        },
+        {
+          "dbf_id": 72649,
+          "popularity": 68.5,
+          "win_rate": 65.78,
+          "name": "Mecha-Shark"
+        },
+        {
+          "dbf_id": 72925,
+          "popularity": 49.67,
+          "win_rate": 63.36,
+          "name": "Trench Surveyor"
+        },
+        {
+          "dbf_id": 72926,
+          "popularity": 39.62,
+          "win_rate": 57.14,
+          "name": "Azsharan Mooncatcher"
+        },
+        {
+          "dbf_id": 77018,
+          "popularity": 41.34,
+          "win_rate": 66.27,
+          "name": "Seafloor Savior"
+        },
+        {
+          "dbf_id": 86660,
+          "popularity": 48.55,
+          "win_rate": 52.47,
+          "name": "Goldwing"
+        },
+        {
+          "dbf_id": 90695,
+          "popularity": 39.9,
+          "win_rate": 62.96,
+          "name": "Annoy-o-Troupe"
+        },
+        {
+          "dbf_id": 71984,
+          "popularity": 71.64,
+          "win_rate": 61.15,
+          "name": "The Leviathan"
+        },
+        {
+          "dbf_id": 86661,
+          "popularity": 9.83,
+          "win_rate": 72.22,
+          "name": "The Purator"
+        },
+        {
+          "dbf_id": 73428,
+          "popularity": 42.54,
+          "win_rate": 72.72,
+          "name": "Bubblebot"
+        },
+        {
+          "dbf_id": 97329,
+          "popularity": 40.0,
+          "win_rate": 56.25,
+          "name": "Dyn-o-matic"
+        },
+        {
+          "dbf_id": 86692,
+          "popularity": 40.54,
+          "win_rate": 53.33,
+          "name": "Hookfist-3000"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

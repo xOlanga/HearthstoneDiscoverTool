@@ -1,0 +1,623 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 52870,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Archivist Elysiana"
+        },
+        {
+          "dbf_id": 38895,
+          "popularity": 46.66,
+          "win_rate": 57.14,
+          "name": "The Boogeymonster"
+        },
+        {
+          "dbf_id": 38795,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Doomcaller"
+        },
+        {
+          "dbf_id": 70255,
+          "popularity": 64.28,
+          "win_rate": 88.88,
+          "name": "Lokholar the Ice Lord"
+        },
+        {
+          "dbf_id": 64716,
+          "popularity": 71.42,
+          "win_rate": 50.0,
+          "name": "Mo'arg Forgefiend"
+        },
+        {
+          "dbf_id": 39841,
+          "popularity": 7.14,
+          "win_rate": 100.0,
+          "name": "Medivh, the Guardian"
+        },
+        {
+          "dbf_id": 41294,
+          "popularity": 15.38,
+          "win_rate": 0.0,
+          "name": "Ozruk"
+        },
+        {
+          "dbf_id": 79934,
+          "popularity": 23.07,
+          "win_rate": 100.0,
+          "name": "Kael'thas Sinstrider"
+        },
+        {
+          "dbf_id": 50454,
+          "popularity": 38.46,
+          "win_rate": 40.0,
+          "name": "Hakkar, the Soulflayer"
+        },
+        {
+          "dbf_id": 41264,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Tortollan Primalist"
+        },
+        {
+          "dbf_id": 66872,
+          "popularity": 46.15,
+          "win_rate": 33.33,
+          "name": "Deathwing the Destroyer"
+        },
+        {
+          "dbf_id": 2081,
+          "popularity": 41.66,
+          "win_rate": 40.0,
+          "name": "Foe Reaper 4000"
+        },
+        {
+          "dbf_id": 38943,
+          "popularity": 58.33,
+          "win_rate": 57.14,
+          "name": "Deathwing, Dragonlord"
+        },
+        {
+          "dbf_id": 363,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Onyxia"
+        },
+        {
+          "dbf_id": 1372,
+          "popularity": 16.66,
+          "win_rate": 50.0,
+          "name": "Molten Giant"
+        },
+        {
+          "dbf_id": 41315,
+          "popularity": 66.66,
+          "win_rate": 62.5,
+          "name": "Ultrasaur"
+        },
+        {
+          "dbf_id": 64710,
+          "popularity": 25.0,
+          "win_rate": 33.33,
+          "name": "Goldshire Gnoll"
+        },
+        {
+          "dbf_id": 64729,
+          "popularity": 8.33,
+          "win_rate": 100.0,
+          "name": "Varian, King of Stormwind"
+        },
+        {
+          "dbf_id": 52420,
+          "popularity": 83.33,
+          "win_rate": 80.0,
+          "name": "Big Bad Archmage"
+        },
+        {
+          "dbf_id": 38521,
+          "popularity": 50.0,
+          "win_rate": 33.33,
+          "name": "Faceless Behemoth"
+        },
+        {
+          "dbf_id": 38857,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "C'Thun"
+        },
+        {
+          "dbf_id": 50392,
+          "popularity": 27.27,
+          "win_rate": 100.0,
+          "name": "Mosh'Ogg Enforcer"
+        },
+        {
+          "dbf_id": 436,
+          "popularity": 63.63,
+          "win_rate": 85.71,
+          "name": "Malygos"
+        },
+        {
+          "dbf_id": 56819,
+          "popularity": 72.72,
+          "win_rate": 62.5,
+          "name": "Scrapyard Colossus"
+        },
+        {
+          "dbf_id": 39119,
+          "popularity": 54.54,
+          "win_rate": 66.66,
+          "name": "Soggoth the Slitherer"
+        },
+        {
+          "dbf_id": 39426,
+          "popularity": 9.09,
+          "win_rate": 100.0,
+          "name": "Arcane Giant"
+        },
+        {
+          "dbf_id": 53251,
+          "popularity": 54.54,
+          "win_rate": 33.33,
+          "name": "Batterhead"
+        },
+        {
+          "dbf_id": 2261,
+          "popularity": 9.09,
+          "win_rate": 100.0,
+          "name": "Nefarian"
+        },
+        {
+          "dbf_id": 45988,
+          "popularity": 18.18,
+          "win_rate": 0.0,
+          "name": "Marin the Fox"
+        },
+        {
+          "dbf_id": 38522,
+          "popularity": 36.36,
+          "win_rate": 75.0,
+          "name": "Eldritch Horror"
+        },
+        {
+          "dbf_id": 65705,
+          "popularity": 27.27,
+          "win_rate": 66.66,
+          "name": "Goliath, Sneed's Masterpiece"
+        },
+        {
+          "dbf_id": 75583,
+          "popularity": 72.72,
+          "win_rate": 62.5,
+          "name": "Neptulon the Tidehunter"
+        },
+        {
+          "dbf_id": 41286,
+          "popularity": 27.27,
+          "win_rate": 33.33,
+          "name": "Charged Devilsaur"
+        },
+        {
+          "dbf_id": 84692,
+          "popularity": 45.45,
+          "win_rate": 20.0,
+          "name": "Flesh Behemoth"
+        },
+        {
+          "dbf_id": 46557,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Dragonhatcher"
+        },
+        {
+          "dbf_id": 2512,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Frost Giant"
+        },
+        {
+          "dbf_id": 40955,
+          "popularity": 10.0,
+          "win_rate": 100.0,
+          "name": "Mayor Noggenfogger"
+        },
+        {
+          "dbf_id": 2945,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Fossilized Devilsaur"
+        },
+        {
+          "dbf_id": 63070,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Primordial Protector"
+        },
+        {
+          "dbf_id": 2047,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Force-Tank MAX"
+        },
+        {
+          "dbf_id": 54495,
+          "popularity": 80.0,
+          "win_rate": 62.5,
+          "name": "Colossus of the Moon"
+        },
+        {
+          "dbf_id": 70235,
+          "popularity": 70.0,
+          "win_rate": 42.85,
+          "name": "Troll Centurion"
+        },
+        {
+          "dbf_id": 66868,
+          "popularity": 20.0,
+          "win_rate": 50.0,
+          "name": "Ysera the Dreamer"
+        },
+        {
+          "dbf_id": 2910,
+          "popularity": 10.0,
+          "win_rate": 100.0,
+          "name": "Naga Sea Witch"
+        },
+        {
+          "dbf_id": 46449,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Master Oakheart"
+        },
+        {
+          "dbf_id": 65699,
+          "popularity": 30.0,
+          "win_rate": 66.66,
+          "name": "Maddest Bomber"
+        },
+        {
+          "dbf_id": 46658,
+          "popularity": 10.0,
+          "win_rate": 100.0,
+          "name": "Cauldron Elemental"
+        },
+        {
+          "dbf_id": 411,
+          "popularity": 30.0,
+          "win_rate": 33.33,
+          "name": "Nozdormu"
+        },
+        {
+          "dbf_id": 54257,
+          "popularity": 60.0,
+          "win_rate": 66.66,
+          "name": "Anubisath Warbringer"
+        },
+        {
+          "dbf_id": 43526,
+          "popularity": 40.0,
+          "win_rate": 75.0,
+          "name": "Violet Wurm"
+        },
+        {
+          "dbf_id": 1794,
+          "popularity": 60.0,
+          "win_rate": 66.66,
+          "name": "Kel'Thuzad"
+        },
+        {
+          "dbf_id": 48625,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Mecha'thun"
+        },
+        {
+          "dbf_id": 54272,
+          "popularity": 90.0,
+          "win_rate": 66.66,
+          "name": "Living Monument"
+        },
+        {
+          "dbf_id": 2520,
+          "popularity": 10.0,
+          "win_rate": 100.0,
+          "name": "North Sea Kraken"
+        },
+        {
+          "dbf_id": 91076,
+          "popularity": 60.0,
+          "win_rate": 83.33,
+          "name": "Amplified Elekk"
+        },
+        {
+          "dbf_id": 47292,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Splitting Festeroot"
+        },
+        {
+          "dbf_id": 57194,
+          "popularity": 22.22,
+          "win_rate": 100.0,
+          "name": "Supreme Abyssal"
+        },
+        {
+          "dbf_id": 38505,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Yogg-Saron, Hope's End"
+        },
+        {
+          "dbf_id": 61972,
+          "popularity": 88.88,
+          "win_rate": 50.0,
+          "name": "Runaway Blackwing"
+        },
+        {
+          "dbf_id": 46032,
+          "popularity": 55.55,
+          "win_rate": 60.0,
+          "name": "Grand Archivist"
+        },
+        {
+          "dbf_id": 2280,
+          "popularity": 22.22,
+          "win_rate": 0.0,
+          "name": "Chromaggus"
+        },
+        {
+          "dbf_id": 50443,
+          "popularity": 33.33,
+          "win_rate": 33.33,
+          "name": "Da Undatakah"
+        },
+        {
+          "dbf_id": 2281,
+          "popularity": 44.44,
+          "win_rate": 50.0,
+          "name": "Majordomo Executus"
+        },
+        {
+          "dbf_id": 90966,
+          "popularity": 77.77,
+          "win_rate": 57.14,
+          "name": "Mish-Mash Mosher"
+        },
+        {
+          "dbf_id": 52902,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Whirlwind Tempest"
+        },
+        {
+          "dbf_id": 38567,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "Blood of The Ancient One"
+        },
+        {
+          "dbf_id": 50459,
+          "popularity": 66.66,
+          "win_rate": 83.33,
+          "name": "Oondasta"
+        },
+        {
+          "dbf_id": 60443,
+          "popularity": 11.11,
+          "win_rate": 0.0,
+          "name": "N'Zoth, God of the Deep"
+        },
+        {
+          "dbf_id": 43494,
+          "popularity": 44.44,
+          "win_rate": 50.0,
+          "name": "Sleepy Dragon"
+        },
+        {
+          "dbf_id": 78547,
+          "popularity": 11.11,
+          "win_rate": 0.0,
+          "name": "Party Crasher"
+        },
+        {
+          "dbf_id": 91659,
+          "popularity": 22.22,
+          "win_rate": 0.0,
+          "name": "Concert Promo-Drake"
+        },
+        {
+          "dbf_id": 38312,
+          "popularity": 22.22,
+          "win_rate": 100.0,
+          "name": "Y'Shaarj, Rage Unbound"
+        },
+        {
+          "dbf_id": 66864,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Alexstrasza the Life-Binder"
+        },
+        {
+          "dbf_id": 86722,
+          "popularity": 87.5,
+          "win_rate": 42.85,
+          "name": "Thaddius, Monstrosity"
+        },
+        {
+          "dbf_id": 71684,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Kazakusan"
+        },
+        {
+          "dbf_id": 41929,
+          "popularity": 12.5,
+          "win_rate": 0.0,
+          "name": "Primordial Drake"
+        },
+        {
+          "dbf_id": 42598,
+          "popularity": 75.0,
+          "win_rate": 66.66,
+          "name": "Obsidian Statue"
+        },
+        {
+          "dbf_id": 41242,
+          "popularity": 37.5,
+          "win_rate": 66.66,
+          "name": "Giant Mastodon"
+        },
+        {
+          "dbf_id": 53336,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "King Phaoris"
+        },
+        {
+          "dbf_id": 1186,
+          "popularity": 75.0,
+          "win_rate": 100.0,
+          "name": "Ysera"
+        },
+        {
+          "dbf_id": 993,
+          "popularity": 25.0,
+          "win_rate": 50.0,
+          "name": "Mountain Giant"
+        },
+        {
+          "dbf_id": 61437,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "G'huun the Blood God"
+        },
+        {
+          "dbf_id": 53024,
+          "popularity": 50.0,
+          "win_rate": 75.0,
+          "name": "Burly Shovelfist"
+        },
+        {
+          "dbf_id": 86367,
+          "popularity": 75.0,
+          "win_rate": 66.66,
+          "name": "Invincible"
+        },
+        {
+          "dbf_id": 52954,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Jepetto Joybuzz"
+        },
+        {
+          "dbf_id": 42818,
+          "popularity": 75.0,
+          "win_rate": 50.0,
+          "name": "The Lich King"
+        },
+        {
+          "dbf_id": 75881,
+          "popularity": 75.0,
+          "win_rate": 66.66,
+          "name": "Sire Denathrius"
+        },
+        {
+          "dbf_id": 60445,
+          "popularity": 25.0,
+          "win_rate": 50.0,
+          "name": "Yogg-Saron, Master of Fate"
+        },
+        {
+          "dbf_id": 61629,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Darkmoon Rabbit"
+        },
+        {
+          "dbf_id": 71333,
+          "popularity": 71.42,
+          "win_rate": 80.0,
+          "name": "Raid Boss Onyxia"
+        },
+        {
+          "dbf_id": 49163,
+          "popularity": 28.57,
+          "win_rate": 0.0,
+          "name": "Bull Dozer"
+        },
+        {
+          "dbf_id": 59948,
+          "popularity": 42.85,
+          "win_rate": 0.0,
+          "name": "Plagued Protodrake"
+        },
+        {
+          "dbf_id": 75580,
+          "popularity": 42.85,
+          "win_rate": 33.33,
+          "name": "Ozumat"
+        },
+        {
+          "dbf_id": 60926,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Carnival Clown"
+        },
+        {
+          "dbf_id": 71949,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Naga Giant"
+        },
+        {
+          "dbf_id": 55441,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Dragonqueen Alexstrasza"
+        },
+        {
+          "dbf_id": 2964,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Arch-Thief Rafaam"
+        },
+        {
+          "dbf_id": 581,
+          "popularity": 42.85,
+          "win_rate": 66.66,
+          "name": "Alexstrasza"
+        },
+        {
+          "dbf_id": 54147,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Octosari"
+        },
+        {
+          "dbf_id": 54267,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Pit Crocolisk"
+        },
+        {
+          "dbf_id": 54960,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Twin Tyrant"
+        },
+        {
+          "dbf_id": 46656,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Deranged Doctor"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

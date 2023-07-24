@@ -1,0 +1,155 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 69601,
+          "popularity": 62.64,
+          "win_rate": 79.68,
+          "name": "King Krush"
+        },
+        {
+          "dbf_id": 72935,
+          "popularity": 26.67,
+          "win_rate": 45.58,
+          "name": "Hydralodon"
+        },
+        {
+          "dbf_id": 92328,
+          "popularity": 57.39,
+          "win_rate": 62.37,
+          "name": "Banjosaur"
+        },
+        {
+          "dbf_id": 72896,
+          "popularity": 10.5,
+          "win_rate": 42.85,
+          "name": "Azsharan Saber"
+        },
+        {
+          "dbf_id": 91498,
+          "popularity": 29.83,
+          "win_rate": 59.82,
+          "name": "Mister Mukla"
+        },
+        {
+          "dbf_id": 78159,
+          "popularity": 34.11,
+          "win_rate": 47.84,
+          "name": "Sunken Saber"
+        },
+        {
+          "dbf_id": 79562,
+          "popularity": 31.08,
+          "win_rate": 48.25,
+          "name": "Red Herring"
+        },
+        {
+          "dbf_id": 91076,
+          "popularity": 44.24,
+          "win_rate": 53.16,
+          "name": "Amplified Elekk"
+        },
+        {
+          "dbf_id": 72536,
+          "popularity": 98.41,
+          "win_rate": 72.04,
+          "name": "Crabatoa"
+        },
+        {
+          "dbf_id": 69600,
+          "popularity": 18.28,
+          "win_rate": 46.77,
+          "name": "Savannah Highmane"
+        },
+        {
+          "dbf_id": 97376,
+          "popularity": 5.26,
+          "win_rate": 33.33,
+          "name": "Jeweled Macaw"
+        },
+        {
+          "dbf_id": 79552,
+          "popularity": 9.42,
+          "win_rate": 53.84,
+          "name": "Shadehound"
+        },
+        {
+          "dbf_id": 72488,
+          "popularity": 92.55,
+          "win_rate": 77.01,
+          "name": "Blackwater Behemoth"
+        },
+        {
+          "dbf_id": 75580,
+          "popularity": 19.56,
+          "win_rate": 44.44,
+          "name": "Ozumat"
+        },
+        {
+          "dbf_id": 78268,
+          "popularity": 9.89,
+          "win_rate": 44.44,
+          "name": "Stonebound Gargon"
+        },
+        {
+          "dbf_id": 76223,
+          "popularity": 3.79,
+          "win_rate": 33.33,
+          "name": "K9-0tron"
+        },
+        {
+          "dbf_id": 102221,
+          "popularity": 21.05,
+          "win_rate": 58.33,
+          "name": "Rustrot Viper"
+        },
+        {
+          "dbf_id": 73906,
+          "popularity": 17.77,
+          "win_rate": 62.5,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 77308,
+          "popularity": 20.45,
+          "win_rate": 55.55,
+          "name": "Sinrunner"
+        },
+        {
+          "dbf_id": 72333,
+          "popularity": 19.44,
+          "win_rate": 57.14,
+          "name": "Smothering Starfish"
+        },
+        {
+          "dbf_id": 76323,
+          "popularity": 12.12,
+          "win_rate": 75.0,
+          "name": "Plated Beetle"
+        },
+        {
+          "dbf_id": 84392,
+          "popularity": 3.03,
+          "win_rate": 0.0,
+          "name": "Shockspitter"
+        },
+        {
+          "dbf_id": 76320,
+          "popularity": 3.12,
+          "win_rate": 0.0,
+          "name": "Lifedrinker"
+        },
+        {
+          "dbf_id": 72504,
+          "popularity": 23.8,
+          "win_rate": 40.0,
+          "name": "Selfish Shellfish"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

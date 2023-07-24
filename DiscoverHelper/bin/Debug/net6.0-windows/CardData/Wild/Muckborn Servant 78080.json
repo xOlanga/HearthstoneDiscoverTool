@@ -1,0 +1,713 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 679,
+          "popularity": 14.81,
+          "win_rate": 100.0,
+          "name": "Divine Favor"
+        },
+        {
+          "dbf_id": 73424,
+          "popularity": 53.84,
+          "win_rate": 42.85,
+          "name": "Holy Maki Roll"
+        },
+        {
+          "dbf_id": 48989,
+          "popularity": 44.0,
+          "win_rate": 54.54,
+          "name": "Glowstone Technician"
+        },
+        {
+          "dbf_id": 48832,
+          "popularity": 28.0,
+          "win_rate": 42.85,
+          "name": "Hidden Wisdom"
+        },
+        {
+          "dbf_id": 78143,
+          "popularity": 32.0,
+          "win_rate": 50.0,
+          "name": "Sinful Sous Chef"
+        },
+        {
+          "dbf_id": 50019,
+          "popularity": 41.66,
+          "win_rate": 60.0,
+          "name": "A New Challenger..."
+        },
+        {
+          "dbf_id": 77018,
+          "popularity": 29.16,
+          "win_rate": 71.42,
+          "name": "Seafloor Savior"
+        },
+        {
+          "dbf_id": 86661,
+          "popularity": 41.66,
+          "win_rate": 60.0,
+          "name": "The Purator"
+        },
+        {
+          "dbf_id": 42735,
+          "popularity": 16.66,
+          "win_rate": 25.0,
+          "name": "Light's Sorrow"
+        },
+        {
+          "dbf_id": 61581,
+          "popularity": 30.43,
+          "win_rate": 28.57,
+          "name": "Carousel Gryphon"
+        },
+        {
+          "dbf_id": 63102,
+          "popularity": 47.82,
+          "win_rate": 18.18,
+          "name": "Party Up!"
+        },
+        {
+          "dbf_id": 52660,
+          "popularity": 30.43,
+          "win_rate": 42.85,
+          "name": "Call to Adventure"
+        },
+        {
+          "dbf_id": 52494,
+          "popularity": 45.45,
+          "win_rate": 80.0,
+          "name": "Never Surrender!"
+        },
+        {
+          "dbf_id": 55048,
+          "popularity": 40.9,
+          "win_rate": 44.44,
+          "name": "Amber Watcher"
+        },
+        {
+          "dbf_id": 78144,
+          "popularity": 40.9,
+          "win_rate": 66.66,
+          "name": "Order in the Court"
+        },
+        {
+          "dbf_id": 40743,
+          "popularity": 19.04,
+          "win_rate": 50.0,
+          "name": "Grimestreet Smuggler"
+        },
+        {
+          "dbf_id": 2898,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Anyfin Can Happen"
+        },
+        {
+          "dbf_id": 57546,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Hand of A'dal"
+        },
+        {
+          "dbf_id": 49009,
+          "popularity": 14.28,
+          "win_rate": 33.33,
+          "name": "Kangor's Endless Army"
+        },
+        {
+          "dbf_id": 2026,
+          "popularity": 23.8,
+          "win_rate": 80.0,
+          "name": "Shielded Minibot"
+        },
+        {
+          "dbf_id": 79602,
+          "popularity": 47.61,
+          "win_rate": 60.0,
+          "name": "Class Action Lawyer"
+        },
+        {
+          "dbf_id": 62993,
+          "popularity": 42.85,
+          "win_rate": 44.44,
+          "name": "Cariel Roame"
+        },
+        {
+          "dbf_id": 2720,
+          "popularity": 14.28,
+          "win_rate": 66.66,
+          "name": "Argent Lance"
+        },
+        {
+          "dbf_id": 38913,
+          "popularity": 42.85,
+          "win_rate": 55.55,
+          "name": "A Light in the Darkness"
+        },
+        {
+          "dbf_id": 61947,
+          "popularity": 42.85,
+          "win_rate": 44.44,
+          "name": "Rally!"
+        },
+        {
+          "dbf_id": 50514,
+          "popularity": 10.0,
+          "win_rate": 50.0,
+          "name": "Zandalari Templar"
+        },
+        {
+          "dbf_id": 63079,
+          "popularity": 55.0,
+          "win_rate": 72.72,
+          "name": "Invigorating Sermon"
+        },
+        {
+          "dbf_id": 62924,
+          "popularity": 25.0,
+          "win_rate": 40.0,
+          "name": "Knight of Anointment"
+        },
+        {
+          "dbf_id": 65590,
+          "popularity": 20.0,
+          "win_rate": 50.0,
+          "name": "Sunwing Squawker"
+        },
+        {
+          "dbf_id": 1522,
+          "popularity": 25.0,
+          "win_rate": 60.0,
+          "name": "Blessed Champion"
+        },
+        {
+          "dbf_id": 2889,
+          "popularity": 20.0,
+          "win_rate": 50.0,
+          "name": "Keeper of Uldaman"
+        },
+        {
+          "dbf_id": 76258,
+          "popularity": 70.0,
+          "win_rate": 42.85,
+          "name": "Lightray"
+        },
+        {
+          "dbf_id": 70261,
+          "popularity": 50.0,
+          "win_rate": 70.0,
+          "name": "Brasswing"
+        },
+        {
+          "dbf_id": 65579,
+          "popularity": 20.0,
+          "win_rate": 25.0,
+          "name": "Wealth Redistributor"
+        },
+        {
+          "dbf_id": 61187,
+          "popularity": 65.0,
+          "win_rate": 84.61,
+          "name": "Oh My Yogg!"
+        },
+        {
+          "dbf_id": 86545,
+          "popularity": 40.0,
+          "win_rate": 62.5,
+          "name": "Bronze Explorer"
+        },
+        {
+          "dbf_id": 64546,
+          "popularity": 45.0,
+          "win_rate": 55.55,
+          "name": "Highlord Fordragon"
+        },
+        {
+          "dbf_id": 52742,
+          "popularity": 10.0,
+          "win_rate": 50.0,
+          "name": "Duel!"
+        },
+        {
+          "dbf_id": 91066,
+          "popularity": 40.0,
+          "win_rate": 62.5,
+          "name": "Funkfin"
+        },
+        {
+          "dbf_id": 56556,
+          "popularity": 20.0,
+          "win_rate": 50.0,
+          "name": "Aldor Truthseeker"
+        },
+        {
+          "dbf_id": 51757,
+          "popularity": 15.0,
+          "win_rate": 66.66,
+          "name": "Bronze Herald"
+        },
+        {
+          "dbf_id": 69706,
+          "popularity": 30.0,
+          "win_rate": 83.33,
+          "name": "Stand Against Darkness"
+        },
+        {
+          "dbf_id": 89149,
+          "popularity": 65.0,
+          "win_rate": 53.84,
+          "name": "Pursuit of Justice"
+        },
+        {
+          "dbf_id": 40531,
+          "popularity": 15.0,
+          "win_rate": 100.0,
+          "name": "Grimscale Chum"
+        },
+        {
+          "dbf_id": 61192,
+          "popularity": 50.0,
+          "win_rate": 40.0,
+          "name": "High Exarch Yrel"
+        },
+        {
+          "dbf_id": 78086,
+          "popularity": 70.0,
+          "win_rate": 64.28,
+          "name": "The Countess"
+        },
+        {
+          "dbf_id": 102196,
+          "popularity": 63.15,
+          "win_rate": 50.0,
+          "name": "Grimestreet Outfitter"
+        },
+        {
+          "dbf_id": 2031,
+          "popularity": 31.57,
+          "win_rate": 83.33,
+          "name": "Bolvar Fordragon"
+        },
+        {
+          "dbf_id": 84739,
+          "popularity": 47.36,
+          "win_rate": 77.77,
+          "name": "Seal of Blood"
+        },
+        {
+          "dbf_id": 78146,
+          "popularity": 42.1,
+          "win_rate": 25.0,
+          "name": "Stewart the Steward"
+        },
+        {
+          "dbf_id": 40577,
+          "popularity": 10.52,
+          "win_rate": 50.0,
+          "name": "Meanstreet Marshal"
+        },
+        {
+          "dbf_id": 38758,
+          "popularity": 26.31,
+          "win_rate": 60.0,
+          "name": "Ragnaros, Lightlord"
+        },
+        {
+          "dbf_id": 2028,
+          "popularity": 26.31,
+          "win_rate": 80.0,
+          "name": "Quartermaster"
+        },
+        {
+          "dbf_id": 61948,
+          "popularity": 21.05,
+          "win_rate": 75.0,
+          "name": "Imprisoned Celestial"
+        },
+        {
+          "dbf_id": 250,
+          "popularity": 63.15,
+          "win_rate": 58.33,
+          "name": "Hammer of Wrath"
+        },
+        {
+          "dbf_id": 51761,
+          "popularity": 15.78,
+          "win_rate": 66.66,
+          "name": "Dragon Speaker"
+        },
+        {
+          "dbf_id": 90945,
+          "popularity": 47.36,
+          "win_rate": 55.55,
+          "name": "Starlight Groove"
+        },
+        {
+          "dbf_id": 63323,
+          "popularity": 31.57,
+          "win_rate": 66.66,
+          "name": "Galloping Savior"
+        },
+        {
+          "dbf_id": 41866,
+          "popularity": 10.52,
+          "win_rate": 100.0,
+          "name": "Primalfin Champion"
+        },
+        {
+          "dbf_id": 41945,
+          "popularity": 26.31,
+          "win_rate": 40.0,
+          "name": "Lightfused Stegodon"
+        },
+        {
+          "dbf_id": 59584,
+          "popularity": 42.1,
+          "win_rate": 37.5,
+          "name": "Devout Pupil"
+        },
+        {
+          "dbf_id": 38911,
+          "popularity": 31.57,
+          "win_rate": 33.33,
+          "name": "Steward of Darkshire"
+        },
+        {
+          "dbf_id": 84395,
+          "popularity": 36.84,
+          "win_rate": 85.71,
+          "name": "For Quel'Thalas!"
+        },
+        {
+          "dbf_id": 84749,
+          "popularity": 31.57,
+          "win_rate": 50.0,
+          "name": "Feast and Famine"
+        },
+        {
+          "dbf_id": 53379,
+          "popularity": 31.57,
+          "win_rate": 16.66,
+          "name": "Sir Finley of the Sands"
+        },
+        {
+          "dbf_id": 73434,
+          "popularity": 52.63,
+          "win_rate": 80.0,
+          "name": "The Garden's Grace"
+        },
+        {
+          "dbf_id": 56086,
+          "popularity": 52.63,
+          "win_rate": 60.0,
+          "name": "Air Raid"
+        },
+        {
+          "dbf_id": 55068,
+          "popularity": 31.57,
+          "win_rate": 83.33,
+          "name": "Lightforged Zealot"
+        },
+        {
+          "dbf_id": 2899,
+          "popularity": 21.05,
+          "win_rate": 50.0,
+          "name": "Sacred Trial"
+        },
+        {
+          "dbf_id": 41859,
+          "popularity": 15.78,
+          "win_rate": 33.33,
+          "name": "Vinecleaver"
+        },
+        {
+          "dbf_id": 50126,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "High Priest Thekal"
+        },
+        {
+          "dbf_id": 55047,
+          "popularity": 16.66,
+          "win_rate": 66.66,
+          "name": "Sky Claw"
+        },
+        {
+          "dbf_id": 78085,
+          "popularity": 33.33,
+          "win_rate": 33.33,
+          "name": "Divine Toll"
+        },
+        {
+          "dbf_id": 79741,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "Promotion"
+        },
+        {
+          "dbf_id": 80117,
+          "popularity": 11.11,
+          "win_rate": 100.0,
+          "name": "Front Lines"
+        },
+        {
+          "dbf_id": 61943,
+          "popularity": 22.22,
+          "win_rate": 25.0,
+          "name": "Barricade"
+        },
+        {
+          "dbf_id": 383,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Light's Justice"
+        },
+        {
+          "dbf_id": 69611,
+          "popularity": 22.22,
+          "win_rate": 25.0,
+          "name": "Argent Protector"
+        },
+        {
+          "dbf_id": 64371,
+          "popularity": 22.22,
+          "win_rate": 75.0,
+          "name": "Catacomb Guard"
+        },
+        {
+          "dbf_id": 48764,
+          "popularity": 38.88,
+          "win_rate": 28.57,
+          "name": "Prismatic Lens"
+        },
+        {
+          "dbf_id": 39439,
+          "popularity": 66.66,
+          "win_rate": 58.33,
+          "name": "Ivory Knight"
+        },
+        {
+          "dbf_id": 104221,
+          "popularity": 61.11,
+          "win_rate": 81.81,
+          "name": "Reckoning"
+        },
+        {
+          "dbf_id": 70260,
+          "popularity": 61.11,
+          "win_rate": 63.63,
+          "name": "Hold the Bridge"
+        },
+        {
+          "dbf_id": 42467,
+          "popularity": 27.77,
+          "win_rate": 60.0,
+          "name": "Righteous Protector"
+        },
+        {
+          "dbf_id": 69705,
+          "popularity": 50.0,
+          "win_rate": 44.44,
+          "name": "Righteous Protector"
+        },
+        {
+          "dbf_id": 52496,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Mysterious Blade"
+        },
+        {
+          "dbf_id": 51705,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Desperate Measures"
+        },
+        {
+          "dbf_id": 47416,
+          "popularity": 11.11,
+          "win_rate": 50.0,
+          "name": "Cathedral Gargoyle"
+        },
+        {
+          "dbf_id": 47614,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "Paragon of Light"
+        },
+        {
+          "dbf_id": 50022,
+          "popularity": 16.66,
+          "win_rate": 66.66,
+          "name": "Immortal Prelate"
+        },
+        {
+          "dbf_id": 59963,
+          "popularity": 44.44,
+          "win_rate": 50.0,
+          "name": "Judicious Junior"
+        },
+        {
+          "dbf_id": 63690,
+          "popularity": 27.77,
+          "win_rate": 60.0,
+          "name": "Soldier's Caravan"
+        },
+        {
+          "dbf_id": 69613,
+          "popularity": 66.66,
+          "win_rate": 58.33,
+          "name": "Tirion Fordring"
+        },
+        {
+          "dbf_id": 64523,
+          "popularity": 38.88,
+          "win_rate": 71.42,
+          "name": "City Tax"
+        },
+        {
+          "dbf_id": 41944,
+          "popularity": 16.66,
+          "win_rate": 66.66,
+          "name": "Adaptation"
+        },
+        {
+          "dbf_id": 70264,
+          "popularity": 11.11,
+          "win_rate": 50.0,
+          "name": "Cavalry Horn"
+        },
+        {
+          "dbf_id": 61305,
+          "popularity": 11.76,
+          "win_rate": 50.0,
+          "name": "Redscale Dragontamer"
+        },
+        {
+          "dbf_id": 59083,
+          "popularity": 11.76,
+          "win_rate": 100.0,
+          "name": "Wave of Apathy"
+        },
+        {
+          "dbf_id": 584,
+          "popularity": 23.52,
+          "win_rate": 100.0,
+          "name": "Noble Sacrifice"
+        },
+        {
+          "dbf_id": 1373,
+          "popularity": 17.64,
+          "win_rate": 66.66,
+          "name": "Blessing of Wisdom"
+        },
+        {
+          "dbf_id": 86655,
+          "popularity": 47.05,
+          "win_rate": 50.0,
+          "name": "Knight of the Dead"
+        },
+        {
+          "dbf_id": 47201,
+          "popularity": 23.52,
+          "win_rate": 50.0,
+          "name": "Silver Sword"
+        },
+        {
+          "dbf_id": 40474,
+          "popularity": 29.41,
+          "win_rate": 40.0,
+          "name": "Grimestreet Informant"
+        },
+        {
+          "dbf_id": 62933,
+          "popularity": 41.17,
+          "win_rate": 57.14,
+          "name": "Veteran Warmedic"
+        },
+        {
+          "dbf_id": 40567,
+          "popularity": 58.82,
+          "win_rate": 70.0,
+          "name": "Grimestreet Outfitter"
+        },
+        {
+          "dbf_id": 86660,
+          "popularity": 23.52,
+          "win_rate": 50.0,
+          "name": "Goldwing"
+        },
+        {
+          "dbf_id": 59408,
+          "popularity": 23.52,
+          "win_rate": 50.0,
+          "name": "Ceremonial Maul"
+        },
+        {
+          "dbf_id": 61189,
+          "popularity": 41.17,
+          "win_rate": 57.14,
+          "name": "Hammer of the Naaru"
+        },
+        {
+          "dbf_id": 73428,
+          "popularity": 5.88,
+          "win_rate": 0.0,
+          "name": "Bubblebot"
+        },
+        {
+          "dbf_id": 1022,
+          "popularity": 29.41,
+          "win_rate": 60.0,
+          "name": "Argent Protector"
+        },
+        {
+          "dbf_id": 2030,
+          "popularity": 5.88,
+          "win_rate": 100.0,
+          "name": "Cobalt Guardian"
+        },
+        {
+          "dbf_id": 64464,
+          "popularity": 47.05,
+          "win_rate": 75.0,
+          "name": "Reckoning"
+        },
+        {
+          "dbf_id": 40636,
+          "popularity": 41.17,
+          "win_rate": 14.28,
+          "name": "Wickerflame Burnbristle"
+        },
+        {
+          "dbf_id": 56443,
+          "popularity": 47.05,
+          "win_rate": 62.5,
+          "name": "Underlight Angling Rod"
+        },
+        {
+          "dbf_id": 86544,
+          "popularity": 76.47,
+          "win_rate": 61.53,
+          "name": "Amber Watcher"
+        },
+        {
+          "dbf_id": 2515,
+          "popularity": 35.29,
+          "win_rate": 83.33,
+          "name": "Warhorse Trainer"
+        },
+        {
+          "dbf_id": 84391,
+          "popularity": 58.82,
+          "win_rate": 60.0,
+          "name": "Flight of the Bronze"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

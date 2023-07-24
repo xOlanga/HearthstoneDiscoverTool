@@ -1,0 +1,161 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 54873,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Grave Rune"
+        },
+        {
+          "dbf_id": 1367,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Shadow Word: Pain"
+        },
+        {
+          "dbf_id": 50644,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "The Beast Within"
+        },
+        {
+          "dbf_id": 72650,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Seafloor Gateway"
+        },
+        {
+          "dbf_id": 79596,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Life Sentence"
+        },
+        {
+          "dbf_id": 38439,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Embrace the Shadow"
+        },
+        {
+          "dbf_id": 47840,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Bomb Toss"
+        },
+        {
+          "dbf_id": 50120,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Elemental Evocation"
+        },
+        {
+          "dbf_id": 903,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Bestial Wrath"
+        },
+        {
+          "dbf_id": 56595,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Renew"
+        },
+        {
+          "dbf_id": 43112,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Psychic Scream"
+        },
+        {
+          "dbf_id": 60016,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Lightning Bloom"
+        },
+        {
+          "dbf_id": 91067,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Power Chord: Synchronize"
+        },
+        {
+          "dbf_id": 86092,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Shadow of Demise"
+        },
+        {
+          "dbf_id": 2041,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Cobra Shot"
+        },
+        {
+          "dbf_id": 52640,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Power of Creation"
+        },
+        {
+          "dbf_id": 54016,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Shadow of Death"
+        },
+        {
+          "dbf_id": 61962,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Guidance"
+        },
+        {
+          "dbf_id": 2564,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Confuse"
+        },
+        {
+          "dbf_id": 42801,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Doomerang"
+        },
+        {
+          "dbf_id": 61602,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Moontouched Amulet"
+        },
+        {
+          "dbf_id": 2094,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Call Pet"
+        },
+        {
+          "dbf_id": 41350,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Grievous Bite"
+        },
+        {
+          "dbf_id": 1941,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Echo of Medivh"
+        },
+        {
+          "dbf_id": 43407,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Explosive Runes"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

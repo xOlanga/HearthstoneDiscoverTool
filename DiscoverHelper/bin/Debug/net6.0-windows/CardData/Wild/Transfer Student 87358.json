@@ -1,0 +1,119 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 73799,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Helmet Hermit"
+        },
+        {
+          "dbf_id": 73906,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 71646,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Bubbler"
+        },
+        {
+          "dbf_id": 74652,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Twin-fin Fin Twin"
+        },
+        {
+          "dbf_id": 71945,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Priestess Valishj"
+        },
+        {
+          "dbf_id": 71695,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Gangplank Diver"
+        },
+        {
+          "dbf_id": 71781,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sir Finley, Sea Guide"
+        },
+        {
+          "dbf_id": 74755,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Harpoon Gun"
+        },
+        {
+          "dbf_id": 73424,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Holy Maki Roll"
+        },
+        {
+          "dbf_id": 75580,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Ozumat"
+        },
+        {
+          "dbf_id": 72924,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Spellcoiler"
+        },
+        {
+          "dbf_id": 72938,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Pelican Diver"
+        },
+        {
+          "dbf_id": 73431,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Shimmering Sunfish"
+        },
+        {
+          "dbf_id": 75556,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Polymorph: Jellyfish"
+        },
+        {
+          "dbf_id": 72105,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Tuskarrrr Trawler"
+        },
+        {
+          "dbf_id": 71690,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Pufferfist"
+        },
+        {
+          "dbf_id": 72109,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Excavation Specialist"
+        },
+        {
+          "dbf_id": 72935,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Hydralodon"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

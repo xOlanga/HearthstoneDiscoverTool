@@ -1,0 +1,611 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 90543,
+          "popularity": 38.46,
+          "win_rate": 80.0,
+          "name": "The One-Amalgam Band"
+        },
+        {
+          "dbf_id": 70227,
+          "popularity": 15.38,
+          "win_rate": 100.0,
+          "name": "Ice Revenant"
+        },
+        {
+          "dbf_id": 59027,
+          "popularity": 75.0,
+          "win_rate": 66.66,
+          "name": "Steward of Scrolls"
+        },
+        {
+          "dbf_id": 41111,
+          "popularity": 41.66,
+          "win_rate": 40.0,
+          "name": "Glacial Shard"
+        },
+        {
+          "dbf_id": 61580,
+          "popularity": 100.0,
+          "win_rate": 41.66,
+          "name": "Gyreworm"
+        },
+        {
+          "dbf_id": 60916,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Rock Rager"
+        },
+        {
+          "dbf_id": 54148,
+          "popularity": 83.33,
+          "win_rate": 70.0,
+          "name": "Siamat"
+        },
+        {
+          "dbf_id": 91175,
+          "popularity": 9.09,
+          "win_rate": 100.0,
+          "name": "Static Waveform"
+        },
+        {
+          "dbf_id": 993,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Mountain Giant"
+        },
+        {
+          "dbf_id": 46658,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Cauldron Elemental"
+        },
+        {
+          "dbf_id": 73906,
+          "popularity": 70.0,
+          "win_rate": 28.57,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 42780,
+          "popularity": 10.0,
+          "win_rate": 0.0,
+          "name": "Grave Shambler"
+        },
+        {
+          "dbf_id": 2925,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Djinni of Zephyrs"
+        },
+        {
+          "dbf_id": 43483,
+          "popularity": 10.0,
+          "win_rate": 100.0,
+          "name": "Arcane Tyrant"
+        },
+        {
+          "dbf_id": 52942,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Mana Reservoir"
+        },
+        {
+          "dbf_id": 63070,
+          "popularity": 30.0,
+          "win_rate": 66.66,
+          "name": "Primordial Protector"
+        },
+        {
+          "dbf_id": 54904,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "Chenvaala"
+        },
+        {
+          "dbf_id": 61428,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Circus Amalgam"
+        },
+        {
+          "dbf_id": 57195,
+          "popularity": 66.66,
+          "win_rate": 66.66,
+          "name": "Al'ar"
+        },
+        {
+          "dbf_id": 52902,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Whirlwind Tempest"
+        },
+        {
+          "dbf_id": 59595,
+          "popularity": 11.11,
+          "win_rate": 100.0,
+          "name": "Divine Rager"
+        },
+        {
+          "dbf_id": 43463,
+          "popularity": 22.22,
+          "win_rate": 50.0,
+          "name": "Wax Elemental"
+        },
+        {
+          "dbf_id": 78375,
+          "popularity": 44.44,
+          "win_rate": 25.0,
+          "name": "Ashen Elemental"
+        },
+        {
+          "dbf_id": 1372,
+          "popularity": 11.11,
+          "win_rate": 0.0,
+          "name": "Molten Giant"
+        },
+        {
+          "dbf_id": 41524,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Volatile Elemental"
+        },
+        {
+          "dbf_id": 39215,
+          "popularity": 12.5,
+          "win_rate": 0.0,
+          "name": "Arcane Anomaly"
+        },
+        {
+          "dbf_id": 88982,
+          "popularity": 37.5,
+          "win_rate": 100.0,
+          "name": "Rolling Stone"
+        },
+        {
+          "dbf_id": 41260,
+          "popularity": 62.5,
+          "win_rate": 60.0,
+          "name": "Fire Plume Phoenix"
+        },
+        {
+          "dbf_id": 63277,
+          "popularity": 50.0,
+          "win_rate": 75.0,
+          "name": "Kindling Elemental"
+        },
+        {
+          "dbf_id": 41928,
+          "popularity": 50.0,
+          "win_rate": 25.0,
+          "name": "Blazecaller"
+        },
+        {
+          "dbf_id": 72248,
+          "popularity": 25.0,
+          "win_rate": 50.0,
+          "name": "Emerald Skytalon"
+        },
+        {
+          "dbf_id": 102272,
+          "popularity": 75.0,
+          "win_rate": 50.0,
+          "name": "Ragnaros the Firelord"
+        },
+        {
+          "dbf_id": 512,
+          "popularity": 25.0,
+          "win_rate": 50.0,
+          "name": "Frost Elemental"
+        },
+        {
+          "dbf_id": 55405,
+          "popularity": 37.5,
+          "win_rate": 0.0,
+          "name": "Fire Hawk"
+        },
+        {
+          "dbf_id": 41294,
+          "popularity": 12.5,
+          "win_rate": 100.0,
+          "name": "Ozruk"
+        },
+        {
+          "dbf_id": 41120,
+          "popularity": 50.0,
+          "win_rate": 25.0,
+          "name": "Volcanosaur"
+        },
+        {
+          "dbf_id": 54278,
+          "popularity": 62.5,
+          "win_rate": 60.0,
+          "name": "Quicksand Elemental"
+        },
+        {
+          "dbf_id": 55418,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Living Dragonbreath"
+        },
+        {
+          "dbf_id": 52415,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Azerite Elemental"
+        },
+        {
+          "dbf_id": 41327,
+          "popularity": 42.85,
+          "win_rate": 0.0,
+          "name": "Stormwatcher"
+        },
+        {
+          "dbf_id": 53967,
+          "popularity": 28.57,
+          "win_rate": 0.0,
+          "name": "Sandstorm Elemental"
+        },
+        {
+          "dbf_id": 41927,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Shimmering Tempest"
+        },
+        {
+          "dbf_id": 72586,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Reefwalker"
+        },
+        {
+          "dbf_id": 67769,
+          "popularity": 42.85,
+          "win_rate": 66.66,
+          "name": "Snowfall Guardian"
+        },
+        {
+          "dbf_id": 47438,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Bonfire Elemental"
+        },
+        {
+          "dbf_id": 41286,
+          "popularity": 57.14,
+          "win_rate": 75.0,
+          "name": "Charged Devilsaur"
+        },
+        {
+          "dbf_id": 41479,
+          "popularity": 42.85,
+          "win_rate": 33.33,
+          "name": "Hot Spring Guardian"
+        },
+        {
+          "dbf_id": 41926,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Igneous Elemental"
+        },
+        {
+          "dbf_id": 53756,
+          "popularity": 42.85,
+          "win_rate": 66.66,
+          "name": "Zephrys the Great"
+        },
+        {
+          "dbf_id": 48490,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Storm Chaser"
+        },
+        {
+          "dbf_id": 63279,
+          "popularity": 85.71,
+          "win_rate": 50.0,
+          "name": "Lilypad Lurker"
+        },
+        {
+          "dbf_id": 41154,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Steam Surger"
+        },
+        {
+          "dbf_id": 618,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dust Devil"
+        },
+        {
+          "dbf_id": 67873,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Amplified Snowflurry"
+        },
+        {
+          "dbf_id": 52292,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Arcane Servant"
+        },
+        {
+          "dbf_id": 2290,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Fireguard Destroyer"
+        },
+        {
+          "dbf_id": 67778,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Bearon Gla'shear"
+        },
+        {
+          "dbf_id": 61226,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Cagematch Custodian"
+        },
+        {
+          "dbf_id": 87317,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Mistake"
+        },
+        {
+          "dbf_id": 56118,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Hailbringer"
+        },
+        {
+          "dbf_id": 336,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Baron Geddon"
+        },
+        {
+          "dbf_id": 48890,
+          "popularity": 50.0,
+          "win_rate": 66.66,
+          "name": "Steel Rager"
+        },
+        {
+          "dbf_id": 41323,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Fire Fly"
+        },
+        {
+          "dbf_id": 41253,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Frozen Crusher"
+        },
+        {
+          "dbf_id": 49803,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Bog Slosher"
+        },
+        {
+          "dbf_id": 49502,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Nightmare Amalgam"
+        },
+        {
+          "dbf_id": 56471,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Shattered Rumbler"
+        },
+        {
+          "dbf_id": 41107,
+          "popularity": 60.0,
+          "win_rate": 33.33,
+          "name": "Fire Plume Harbinger"
+        },
+        {
+          "dbf_id": 49263,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Celestial Emissary"
+        },
+        {
+          "dbf_id": 61959,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Imprisoned Phoenix"
+        },
+        {
+          "dbf_id": 49045,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Cosmic Anomaly"
+        },
+        {
+          "dbf_id": 75555,
+          "popularity": 60.0,
+          "win_rate": 100.0,
+          "name": "Submerged Spacerock"
+        },
+        {
+          "dbf_id": 86502,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Frostfin Chomper"
+        },
+        {
+          "dbf_id": 47873,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Bogshaper"
+        },
+        {
+          "dbf_id": 2888,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Rumbling Elemental"
+        },
+        {
+          "dbf_id": 64320,
+          "popularity": 80.0,
+          "win_rate": 50.0,
+          "name": "Granite Forgeborn"
+        },
+        {
+          "dbf_id": 1653,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Magma Rager"
+        },
+        {
+          "dbf_id": 72423,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Radiance of Azshara"
+        },
+        {
+          "dbf_id": 63072,
+          "popularity": 60.0,
+          "win_rate": 33.33,
+          "name": "Arid Stormer"
+        },
+        {
+          "dbf_id": 45995,
+          "popularity": 80.0,
+          "win_rate": 50.0,
+          "name": "Grumble, Worldshaker"
+        },
+        {
+          "dbf_id": 51722,
+          "popularity": 75.0,
+          "win_rate": 66.66,
+          "name": "Walking Fountain"
+        },
+        {
+          "dbf_id": 49162,
+          "popularity": 75.0,
+          "win_rate": 33.33,
+          "name": "Menacing Nimbus"
+        },
+        {
+          "dbf_id": 54907,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Violet Spellwing"
+        },
+        {
+          "dbf_id": 40527,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Jade Spirit"
+        },
+        {
+          "dbf_id": 61298,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Fantastic Firebird"
+        },
+        {
+          "dbf_id": 67861,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Sleetbreaker"
+        },
+        {
+          "dbf_id": 41116,
+          "popularity": 75.0,
+          "win_rate": 33.33,
+          "name": "Stone Sentinel"
+        },
+        {
+          "dbf_id": 55021,
+          "popularity": 75.0,
+          "win_rate": 66.66,
+          "name": "Cumulo-Maximus"
+        },
+        {
+          "dbf_id": 53171,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Soldier of Fortune"
+        },
+        {
+          "dbf_id": 56072,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Arcane Amplifier"
+        },
+        {
+          "dbf_id": 2010,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Neptulon"
+        },
+        {
+          "dbf_id": 41331,
+          "popularity": 75.0,
+          "win_rate": 33.33,
+          "name": "Kalimos, Primal Lord"
+        },
+        {
+          "dbf_id": 85034,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Prismatic Elemental"
+        },
+        {
+          "dbf_id": 41418,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Tar Creeper"
+        },
+        {
+          "dbf_id": 41152,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Air Elemental"
+        },
+        {
+          "dbf_id": 56819,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Scrapyard Colossus"
+        },
+        {
+          "dbf_id": 48527,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Thunderhead"
+        },
+        {
+          "dbf_id": 42765,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Snowfury Giant"
+        },
+        {
+          "dbf_id": 54493,
+          "popularity": 75.0,
+          "win_rate": 100.0,
+          "name": "Cloud Prince"
+        },
+        {
+          "dbf_id": 46432,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Murmuring Elemental"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

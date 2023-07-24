@@ -1,0 +1,611 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 90543,
+          "popularity": 36.84,
+          "win_rate": 60.64,
+          "name": "The One-Amalgam Band"
+        },
+        {
+          "dbf_id": 87317,
+          "popularity": 12.2,
+          "win_rate": 61.25,
+          "name": "Mistake"
+        },
+        {
+          "dbf_id": 92246,
+          "popularity": 17.35,
+          "win_rate": 59.23,
+          "name": "Stereo Totem"
+        },
+        {
+          "dbf_id": 78532,
+          "popularity": 10.05,
+          "win_rate": 63.81,
+          "name": "Sinstone Totem"
+        },
+        {
+          "dbf_id": 76294,
+          "popularity": 24.32,
+          "win_rate": 64.59,
+          "name": "Flametongue Totem"
+        },
+        {
+          "dbf_id": 78525,
+          "popularity": 55.83,
+          "win_rate": 63.67,
+          "name": "Gigantotem"
+        },
+        {
+          "dbf_id": 102210,
+          "popularity": 80.68,
+          "win_rate": 67.26,
+          "name": "Grand Totem Eys'or"
+        },
+        {
+          "dbf_id": 72314,
+          "popularity": 42.78,
+          "win_rate": 63.97,
+          "name": "Anchored Totem"
+        },
+        {
+          "dbf_id": 77366,
+          "popularity": 31.98,
+          "win_rate": 58.39,
+          "name": "Party Favor Totem"
+        },
+        {
+          "dbf_id": 77308,
+          "popularity": 30.77,
+          "win_rate": 61.22,
+          "name": "Sinrunner"
+        },
+        {
+          "dbf_id": 86367,
+          "popularity": 49.98,
+          "win_rate": 66.18,
+          "name": "Invincible"
+        },
+        {
+          "dbf_id": 102228,
+          "popularity": 11.14,
+          "win_rate": 63.25,
+          "name": "Murmy"
+        },
+        {
+          "dbf_id": 78155,
+          "popularity": 36.77,
+          "win_rate": 61.28,
+          "name": "Murlocula"
+        },
+        {
+          "dbf_id": 79780,
+          "popularity": 67.41,
+          "win_rate": 67.5,
+          "name": "Sylvanas, the Accused"
+        },
+        {
+          "dbf_id": 86725,
+          "popularity": 46.96,
+          "win_rate": 60.05,
+          "name": "Rivendare, Warrider"
+        },
+        {
+          "dbf_id": 79779,
+          "popularity": 7.83,
+          "win_rate": 66.52,
+          "name": "Tight-Lipped Witness"
+        },
+        {
+          "dbf_id": 91080,
+          "popularity": 49.43,
+          "win_rate": 62.02,
+          "name": "Ghost Writer"
+        },
+        {
+          "dbf_id": 85651,
+          "popularity": 24.62,
+          "win_rate": 66.22,
+          "name": "Banshee"
+        },
+        {
+          "dbf_id": 84243,
+          "popularity": 34.86,
+          "win_rate": 64.92,
+          "name": "Umbral Geist"
+        },
+        {
+          "dbf_id": 80091,
+          "popularity": 39.49,
+          "win_rate": 63.08,
+          "name": "Bone Flinger"
+        },
+        {
+          "dbf_id": 86722,
+          "popularity": 23.09,
+          "win_rate": 56.87,
+          "name": "Thaddius, Monstrosity"
+        },
+        {
+          "dbf_id": 80019,
+          "popularity": 33.52,
+          "win_rate": 66.17,
+          "name": "Brittleskin Zombie"
+        },
+        {
+          "dbf_id": 84856,
+          "popularity": 22.82,
+          "win_rate": 59.48,
+          "name": "Plaguespreader"
+        },
+        {
+          "dbf_id": 85154,
+          "popularity": 58.77,
+          "win_rate": 65.56,
+          "name": "Nerubian Vizier"
+        },
+        {
+          "dbf_id": 80084,
+          "popularity": 11.37,
+          "win_rate": 67.05,
+          "name": "Incorporeal Corporal"
+        },
+        {
+          "dbf_id": 85152,
+          "popularity": 23.94,
+          "win_rate": 66.48,
+          "name": "Foul Egg"
+        },
+        {
+          "dbf_id": 76321,
+          "popularity": 9.68,
+          "win_rate": 47.61,
+          "name": "Wild Pyromancer"
+        },
+        {
+          "dbf_id": 80087,
+          "popularity": 42.57,
+          "win_rate": 67.23,
+          "name": "Drakkari Embalmer"
+        },
+        {
+          "dbf_id": 69655,
+          "popularity": 26.74,
+          "win_rate": 64.73,
+          "name": "Bloodmage Thalnos"
+        },
+        {
+          "dbf_id": 84692,
+          "popularity": 25.21,
+          "win_rate": 59.23,
+          "name": "Flesh Behemoth"
+        },
+        {
+          "dbf_id": 78329,
+          "popularity": 36.45,
+          "win_rate": 60.07,
+          "name": "Shatterskin Gargoyle"
+        },
+        {
+          "dbf_id": 102217,
+          "popularity": 41.84,
+          "win_rate": 66.61,
+          "name": "The Black Knight"
+        },
+        {
+          "dbf_id": 102229,
+          "popularity": 40.51,
+          "win_rate": 59.16,
+          "name": "Rotten Applebaum"
+        },
+        {
+          "dbf_id": 90850,
+          "popularity": 36.97,
+          "win_rate": 63.46,
+          "name": "Vrykul Necrolyte"
+        },
+        {
+          "dbf_id": 86317,
+          "popularity": 6.46,
+          "win_rate": 56.7,
+          "name": "Bonelord Frostwhisper"
+        },
+        {
+          "dbf_id": 86572,
+          "popularity": 39.64,
+          "win_rate": 62.85,
+          "name": "Tenacious San'layn"
+        },
+        {
+          "dbf_id": 85048,
+          "popularity": 35.83,
+          "win_rate": 63.87,
+          "name": "Infectious Ghoul"
+        },
+        {
+          "dbf_id": 75876,
+          "popularity": 20.7,
+          "win_rate": 62.74,
+          "name": "Dispossessed Soul"
+        },
+        {
+          "dbf_id": 84370,
+          "popularity": 26.73,
+          "win_rate": 66.25,
+          "name": "Arms Dealer"
+        },
+        {
+          "dbf_id": 94889,
+          "popularity": 34.1,
+          "win_rate": 58.91,
+          "name": "Darkfallen Shadow"
+        },
+        {
+          "dbf_id": 84169,
+          "popularity": 24.31,
+          "win_rate": 62.51,
+          "name": "Volatile Skeleton"
+        },
+        {
+          "dbf_id": 90966,
+          "popularity": 33.92,
+          "win_rate": 55.05,
+          "name": "Mish-Mash Mosher"
+        },
+        {
+          "dbf_id": 91872,
+          "popularity": 31.59,
+          "win_rate": 62.75,
+          "name": "Unpopular Has-Been"
+        },
+        {
+          "dbf_id": 80537,
+          "popularity": 8.09,
+          "win_rate": 62.08,
+          "name": "Scourge Rager"
+        },
+        {
+          "dbf_id": 69661,
+          "popularity": 18.23,
+          "win_rate": 58.47,
+          "name": "Crazed Alchemist"
+        },
+        {
+          "dbf_id": 69721,
+          "popularity": 17.85,
+          "win_rate": 60.53,
+          "name": "Grim Necromancer"
+        },
+        {
+          "dbf_id": 90325,
+          "popularity": 25.11,
+          "win_rate": 54.63,
+          "name": "Lost Exarch"
+        },
+        {
+          "dbf_id": 69717,
+          "popularity": 9.44,
+          "win_rate": 35.31,
+          "name": "Explosive Sheep"
+        },
+        {
+          "dbf_id": 86548,
+          "popularity": 49.1,
+          "win_rate": 62.05,
+          "name": "Gorillabot A-3"
+        },
+        {
+          "dbf_id": 72417,
+          "popularity": 31.63,
+          "win_rate": 67.23,
+          "name": "Click-Clocker"
+        },
+        {
+          "dbf_id": 72931,
+          "popularity": 54.18,
+          "win_rate": 58.99,
+          "name": "Mothership"
+        },
+        {
+          "dbf_id": 102969,
+          "popularity": 35.54,
+          "win_rate": 61.4,
+          "name": "Replicating Menace"
+        },
+        {
+          "dbf_id": 102219,
+          "popularity": 44.37,
+          "win_rate": 63.22,
+          "name": "Bronze Gatekeeper"
+        },
+        {
+          "dbf_id": 71688,
+          "popularity": 12.52,
+          "win_rate": 63.89,
+          "name": "Naval Mine"
+        },
+        {
+          "dbf_id": 69718,
+          "popularity": 32.26,
+          "win_rate": 60.02,
+          "name": "Annoy-o-Tron"
+        },
+        {
+          "dbf_id": 91078,
+          "popularity": 24.23,
+          "win_rate": 61.2,
+          "name": "Audio Amplifier"
+        },
+        {
+          "dbf_id": 92249,
+          "popularity": 35.24,
+          "win_rate": 69.35,
+          "name": "Frequency Oscillator"
+        },
+        {
+          "dbf_id": 78079,
+          "popularity": 11.23,
+          "win_rate": 55.73,
+          "name": "Steamcleaner"
+        },
+        {
+          "dbf_id": 97112,
+          "popularity": 68.41,
+          "win_rate": 60.3,
+          "name": "Zilliax"
+        },
+        {
+          "dbf_id": 92254,
+          "popularity": 25.05,
+          "win_rate": 61.22,
+          "name": "Annoying Fan"
+        },
+        {
+          "dbf_id": 91215,
+          "popularity": 16.69,
+          "win_rate": 63.94,
+          "name": "Metrognome"
+        },
+        {
+          "dbf_id": 72338,
+          "popularity": 34.38,
+          "win_rate": 62.63,
+          "name": "Security Automaton"
+        },
+        {
+          "dbf_id": 102218,
+          "popularity": 43.82,
+          "win_rate": 64.68,
+          "name": "Wargear"
+        },
+        {
+          "dbf_id": 62497,
+          "popularity": 66.2,
+          "win_rate": 66.84,
+          "name": "Shadowed Spirit"
+        },
+        {
+          "dbf_id": 84207,
+          "popularity": 58.94,
+          "win_rate": 62.15,
+          "name": "Sister Svalna"
+        },
+        {
+          "dbf_id": 69566,
+          "popularity": 48.05,
+          "win_rate": 63.9,
+          "name": "Psychic Conjurer"
+        },
+        {
+          "dbf_id": 91079,
+          "popularity": 6.14,
+          "win_rate": 51.21,
+          "name": "Heartthrob"
+        },
+        {
+          "dbf_id": 102199,
+          "popularity": 51.86,
+          "win_rate": 64.45,
+          "name": "Catrina Muerte"
+        },
+        {
+          "dbf_id": 95746,
+          "popularity": 52.57,
+          "win_rate": 67.02,
+          "name": "Shadow Ascendant"
+        },
+        {
+          "dbf_id": 90644,
+          "popularity": 49.71,
+          "win_rate": 65.7,
+          "name": "Mind Eater"
+        },
+        {
+          "dbf_id": 86619,
+          "popularity": 74.19,
+          "win_rate": 66.89,
+          "name": "Rotting Necromancer"
+        },
+        {
+          "dbf_id": 84358,
+          "popularity": 48.56,
+          "win_rate": 65.77,
+          "name": "Haunting Nightmare"
+        },
+        {
+          "dbf_id": 86660,
+          "popularity": 54.01,
+          "win_rate": 60.03,
+          "name": "Goldwing"
+        },
+        {
+          "dbf_id": 72925,
+          "popularity": 53.67,
+          "win_rate": 64.35,
+          "name": "Trench Surveyor"
+        },
+        {
+          "dbf_id": 72248,
+          "popularity": 24.46,
+          "win_rate": 57.02,
+          "name": "Emerald Skytalon"
+        },
+        {
+          "dbf_id": 77016,
+          "popularity": 30.82,
+          "win_rate": 62.2,
+          "name": "Azsharan Sweeper"
+        },
+        {
+          "dbf_id": 71841,
+          "popularity": 65.67,
+          "win_rate": 65.62,
+          "name": "Gaia, the Techtonic"
+        },
+        {
+          "dbf_id": 90856,
+          "popularity": 26.62,
+          "win_rate": 59.68,
+          "name": "Audio Splitter"
+        },
+        {
+          "dbf_id": 72649,
+          "popularity": 75.26,
+          "win_rate": 66.15,
+          "name": "Mecha-Shark"
+        },
+        {
+          "dbf_id": 86661,
+          "popularity": 15.73,
+          "win_rate": 56.64,
+          "name": "The Purator"
+        },
+        {
+          "dbf_id": 71984,
+          "popularity": 65.82,
+          "win_rate": 64.15,
+          "name": "The Leviathan"
+        },
+        {
+          "dbf_id": 72926,
+          "popularity": 43.0,
+          "win_rate": 60.15,
+          "name": "Azsharan Mooncatcher"
+        },
+        {
+          "dbf_id": 90695,
+          "popularity": 34.19,
+          "win_rate": 61.51,
+          "name": "Annoy-o-Troupe"
+        },
+        {
+          "dbf_id": 77018,
+          "popularity": 46.33,
+          "win_rate": 63.26,
+          "name": "Seafloor Savior"
+        },
+        {
+          "dbf_id": 73428,
+          "popularity": 45.49,
+          "win_rate": 62.18,
+          "name": "Bubblebot"
+        },
+        {
+          "dbf_id": 72105,
+          "popularity": 29.23,
+          "win_rate": 66.53,
+          "name": "Tuskarrrr Trawler"
+        },
+        {
+          "dbf_id": 69677,
+          "popularity": 20.47,
+          "win_rate": 66.66,
+          "name": "Bloodsail Raider"
+        },
+        {
+          "dbf_id": 69679,
+          "popularity": 32.13,
+          "win_rate": 63.43,
+          "name": "Southsea Captain"
+        },
+        {
+          "dbf_id": 92237,
+          "popularity": 19.92,
+          "win_rate": 47.87,
+          "name": "Tony, King of Piracy"
+        },
+        {
+          "dbf_id": 66854,
+          "popularity": 41.95,
+          "win_rate": 60.47,
+          "name": "Fogsail Freebooter"
+        },
+        {
+          "dbf_id": 102230,
+          "popularity": 44.7,
+          "win_rate": 59.05,
+          "name": "Dread Corsair"
+        },
+        {
+          "dbf_id": 71690,
+          "popularity": 38.64,
+          "win_rate": 55.84,
+          "name": "Pufferfist"
+        },
+        {
+          "dbf_id": 71695,
+          "popularity": 23.74,
+          "win_rate": 52.91,
+          "name": "Gangplank Diver"
+        },
+        {
+          "dbf_id": 87325,
+          "popularity": 14.77,
+          "win_rate": 65.51,
+          "name": "Rimescale Siren"
+        },
+        {
+          "dbf_id": 86735,
+          "popularity": 40.48,
+          "win_rate": 65.61,
+          "name": "Ymirjar Deathbringer"
+        },
+        {
+          "dbf_id": 91076,
+          "popularity": 23.87,
+          "win_rate": 52.15,
+          "name": "Amplified Elekk"
+        },
+        {
+          "dbf_id": 72333,
+          "popularity": 39.97,
+          "win_rate": 53.37,
+          "name": "Smothering Starfish"
+        },
+        {
+          "dbf_id": 72938,
+          "popularity": 22.55,
+          "win_rate": 55.49,
+          "name": "Pelican Diver"
+        },
+        {
+          "dbf_id": 90484,
+          "popularity": 12.79,
+          "win_rate": 63.26,
+          "name": "Death Metal Knight"
+        },
+        {
+          "dbf_id": 82072,
+          "popularity": 49.27,
+          "win_rate": 63.29,
+          "name": "Stitched Giant"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

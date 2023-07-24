@@ -1,0 +1,95 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 79555,
+          "popularity": 24.22,
+          "win_rate": 55.55,
+          "name": "Motion Denied"
+        },
+        {
+          "dbf_id": 102190,
+          "popularity": 27.88,
+          "win_rate": 60.9,
+          "name": "Cat Trick"
+        },
+        {
+          "dbf_id": 86567,
+          "popularity": 43.9,
+          "win_rate": 50.71,
+          "name": "ZOMBEEEES!!!"
+        },
+        {
+          "dbf_id": 69604,
+          "popularity": 26.55,
+          "win_rate": 52.41,
+          "name": "Freezing Trap"
+        },
+        {
+          "dbf_id": 72340,
+          "popularity": 13.09,
+          "win_rate": 45.9,
+          "name": "Emergency Maneuvers"
+        },
+        {
+          "dbf_id": 102189,
+          "popularity": 58.58,
+          "win_rate": 48.35,
+          "name": "Wandering Monster"
+        },
+        {
+          "dbf_id": 69603,
+          "popularity": 39.5,
+          "win_rate": 49.71,
+          "name": "Explosive Trap"
+        },
+        {
+          "dbf_id": 102203,
+          "popularity": 43.54,
+          "win_rate": 81.48,
+          "name": "Cheat Death"
+        },
+        {
+          "dbf_id": 77151,
+          "popularity": 35.08,
+          "win_rate": 55.0,
+          "name": "Kidnap"
+        },
+        {
+          "dbf_id": 77148,
+          "popularity": 3.84,
+          "win_rate": 0.0,
+          "name": "Double Cross"
+        },
+        {
+          "dbf_id": 77150,
+          "popularity": 19.6,
+          "win_rate": 50.0,
+          "name": "Sticky Situation"
+        },
+        {
+          "dbf_id": 102204,
+          "popularity": 54.0,
+          "win_rate": 51.85,
+          "name": "Plagiarize"
+        },
+        {
+          "dbf_id": 79607,
+          "popularity": 41.86,
+          "win_rate": 61.11,
+          "name": "Perjury"
+        },
+        {
+          "dbf_id": 102202,
+          "popularity": 35.71,
+          "win_rate": 53.33,
+          "name": "Ambush"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

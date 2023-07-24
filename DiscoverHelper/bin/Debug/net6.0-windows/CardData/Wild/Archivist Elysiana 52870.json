@@ -1,0 +1,647 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 50434,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Ice Cream Peddler"
+        },
+        {
+          "dbf_id": 50377,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Helpless Hatchling"
+        },
+        {
+          "dbf_id": 2059,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Arcane Nullifier X-21"
+        },
+        {
+          "dbf_id": 526,
+          "popularity": 66.66,
+          "win_rate": 0.0,
+          "name": "Gruul"
+        },
+        {
+          "dbf_id": 1686,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Boulderfist Ogre"
+        },
+        {
+          "dbf_id": 46634,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Phantom Militia"
+        },
+        {
+          "dbf_id": 62482,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ratchet Privateer"
+        },
+        {
+          "dbf_id": 79932,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Famished Fool"
+        },
+        {
+          "dbf_id": 72109,
+          "popularity": 66.66,
+          "win_rate": 0.0,
+          "name": "Excavation Specialist"
+        },
+        {
+          "dbf_id": 61969,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Crabrider"
+        },
+        {
+          "dbf_id": 46994,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Spellshifter"
+        },
+        {
+          "dbf_id": 50421,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Masked Contender"
+        },
+        {
+          "dbf_id": 45366,
+          "popularity": 66.66,
+          "win_rate": 0.0,
+          "name": "Arfus"
+        },
+        {
+          "dbf_id": 55429,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Evasive Wyrm"
+        },
+        {
+          "dbf_id": 71940,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Crushclaw Enforcer"
+        },
+        {
+          "dbf_id": 41925,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Humongous Razorleaf"
+        },
+        {
+          "dbf_id": 92243,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Crowd Surfer"
+        },
+        {
+          "dbf_id": 63400,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Devouring Ectoplasm"
+        },
+        {
+          "dbf_id": 39465,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Moat Lurker"
+        },
+        {
+          "dbf_id": 1653,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Magma Rager"
+        },
+        {
+          "dbf_id": 157,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Lord of the Arena"
+        },
+        {
+          "dbf_id": 65704,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Multicaster"
+        },
+        {
+          "dbf_id": 55446,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dread Raven"
+        },
+        {
+          "dbf_id": 67927,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Humongous Owl"
+        },
+        {
+          "dbf_id": 997,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Bloodsail Corsair"
+        },
+        {
+          "dbf_id": 37,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Pint-Sized Summoner"
+        },
+        {
+          "dbf_id": 2084,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Mekgineer Thermaplugg"
+        },
+        {
+          "dbf_id": 41324,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Stegodon"
+        },
+        {
+          "dbf_id": 55423,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Evasive Feywing"
+        },
+        {
+          "dbf_id": 54256,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Spitting Camel"
+        },
+        {
+          "dbf_id": 52866,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dalaran Librarian"
+        },
+        {
+          "dbf_id": 61235,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Parade Leader"
+        },
+        {
+          "dbf_id": 55036,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Aeroponics"
+        },
+        {
+          "dbf_id": 62744,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Death's Head Cultist"
+        },
+        {
+          "dbf_id": 61674,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Fleethoof Pearltusk"
+        },
+        {
+          "dbf_id": 2521,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Pit Fighter"
+        },
+        {
+          "dbf_id": 45287,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Silver Vanguard"
+        },
+        {
+          "dbf_id": 38505,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Yogg-Saron, Hope's End"
+        },
+        {
+          "dbf_id": 55422,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Skyfin"
+        },
+        {
+          "dbf_id": 42338,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Snowflipper Penguin"
+        },
+        {
+          "dbf_id": 40465,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Patches the Pirate"
+        },
+        {
+          "dbf_id": 38868,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Twilight Elder"
+        },
+        {
+          "dbf_id": 40611,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Tanaris Hogchopper"
+        },
+        {
+          "dbf_id": 50459,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Oondasta"
+        },
+        {
+          "dbf_id": 41327,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Stormwatcher"
+        },
+        {
+          "dbf_id": 2748,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Fjola Lightbane"
+        },
+        {
+          "dbf_id": 90543,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "The One-Amalgam Band"
+        },
+        {
+          "dbf_id": 1656,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "The Black Knight"
+        },
+        {
+          "dbf_id": 53171,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Soldier of Fortune"
+        },
+        {
+          "dbf_id": 57181,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Blistering Rot"
+        },
+        {
+          "dbf_id": 86722,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Thaddius, Monstrosity"
+        },
+        {
+          "dbf_id": 61299,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Showstopper"
+        },
+        {
+          "dbf_id": 62486,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Venomous Scorpid"
+        },
+        {
+          "dbf_id": 50083,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Spellzerker"
+        },
+        {
+          "dbf_id": 86725,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Rivendare, Warrider"
+        },
+        {
+          "dbf_id": 642,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Scarlet Crusader"
+        },
+        {
+          "dbf_id": 62550,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Taurajo Brave"
+        },
+        {
+          "dbf_id": 47606,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Muck Hunter"
+        },
+        {
+          "dbf_id": 60979,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Circus Medic"
+        },
+        {
+          "dbf_id": 1721,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sylvanas Windrunner"
+        },
+        {
+          "dbf_id": 2075,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Enhance-o Mechano"
+        },
+        {
+          "dbf_id": 985,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Dire Wolf Alpha"
+        },
+        {
+          "dbf_id": 39207,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Pantry Spider"
+        },
+        {
+          "dbf_id": 42790,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Bonemare"
+        },
+        {
+          "dbf_id": 69649,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Abusive Sergeant"
+        },
+        {
+          "dbf_id": 41683,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Gluttonous Ooze"
+        },
+        {
+          "dbf_id": 67,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Silverback Patriarch"
+        },
+        {
+          "dbf_id": 2486,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Lowly Squire"
+        },
+        {
+          "dbf_id": 64705,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Package Runner"
+        },
+        {
+          "dbf_id": 47348,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Night Prowler"
+        },
+        {
+          "dbf_id": 102225,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Dirty Rat"
+        },
+        {
+          "dbf_id": 46454,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "The Darkness"
+        },
+        {
+          "dbf_id": 60443,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "N'Zoth, God of the Deep"
+        },
+        {
+          "dbf_id": 54000,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Wasteland Assassin"
+        },
+        {
+          "dbf_id": 1791,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Maexxna"
+        },
+        {
+          "dbf_id": 54265,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Faceless Lurker"
+        },
+        {
+          "dbf_id": 72932,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Seascout Operator"
+        },
+        {
+          "dbf_id": 72320,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rock Bottom"
+        },
+        {
+          "dbf_id": 61428,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Circus Amalgam"
+        },
+        {
+          "dbf_id": 1794,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Kel'Thuzad"
+        },
+        {
+          "dbf_id": 72586,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Reefwalker"
+        },
+        {
+          "dbf_id": 70241,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Irondeep Trogg"
+        },
+        {
+          "dbf_id": 72583,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Treasure Guard"
+        },
+        {
+          "dbf_id": 53002,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Kalecgos"
+        },
+        {
+          "dbf_id": 38538,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Bilefin Tidehunter"
+        },
+        {
+          "dbf_id": 866,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Shieldbearer"
+        },
+        {
+          "dbf_id": 46101,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Keening Banshee"
+        },
+        {
+          "dbf_id": 40931,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Backroom Bouncer"
+        },
+        {
+          "dbf_id": 69677,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Bloodsail Raider"
+        },
+        {
+          "dbf_id": 2035,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Stonesplinter Trogg"
+        },
+        {
+          "dbf_id": 48060,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Unpowered Mauler"
+        },
+        {
+          "dbf_id": 1805,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Death's Bite"
+        },
+        {
+          "dbf_id": 55408,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dragonmaw Poacher"
+        },
+        {
+          "dbf_id": 64716,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Mo'arg Forgefiend"
+        },
+        {
+          "dbf_id": 88982,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Rolling Stone"
+        },
+        {
+          "dbf_id": 2724,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Gormok the Impaler"
+        },
+        {
+          "dbf_id": 91872,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Unpopular Has-Been"
+        },
+        {
+          "dbf_id": 59576,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sorcerous Substitute"
+        },
+        {
+          "dbf_id": 47343,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Lifedrinker"
+        },
+        {
+          "dbf_id": 40741,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Daring Reporter"
+        },
+        {
+          "dbf_id": 48106,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Swamp Dragon Egg"
+        },
+        {
+          "dbf_id": 63251,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Spirit Healer"
+        },
+        {
+          "dbf_id": 65699,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Maddest Bomber"
+        },
+        {
+          "dbf_id": 71729,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Slimescale Diver"
+        },
+        {
+          "dbf_id": 2065,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Lil' Exorcist"
+        },
+        {
+          "dbf_id": 50374,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Booty Bay Bookie"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

@@ -1,0 +1,425 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 69601,
+          "popularity": 40.33,
+          "win_rate": 64.7,
+          "name": "King Krush"
+        },
+        {
+          "dbf_id": 70245,
+          "popularity": 31.09,
+          "win_rate": 61.92,
+          "name": "Mountain Bear"
+        },
+        {
+          "dbf_id": 72896,
+          "popularity": 42.81,
+          "win_rate": 61.3,
+          "name": "Azsharan Saber"
+        },
+        {
+          "dbf_id": 72935,
+          "popularity": 49.69,
+          "win_rate": 71.2,
+          "name": "Hydralodon"
+        },
+        {
+          "dbf_id": 70104,
+          "popularity": 30.56,
+          "win_rate": 70.17,
+          "name": "Stormpike Battle Ram"
+        },
+        {
+          "dbf_id": 92328,
+          "popularity": 24.31,
+          "win_rate": 51.25,
+          "name": "Banjosaur"
+        },
+        {
+          "dbf_id": 91076,
+          "popularity": 15.34,
+          "win_rate": 36.36,
+          "name": "Amplified Elekk"
+        },
+        {
+          "dbf_id": 78159,
+          "popularity": 67.41,
+          "win_rate": 68.33,
+          "name": "Sunken Saber"
+        },
+        {
+          "dbf_id": 97376,
+          "popularity": 52.63,
+          "win_rate": 33.33,
+          "name": "Jeweled Macaw"
+        },
+        {
+          "dbf_id": 91498,
+          "popularity": 46.66,
+          "win_rate": 57.14,
+          "name": "Mister Mukla"
+        },
+        {
+          "dbf_id": 79562,
+          "popularity": 9.93,
+          "win_rate": 50.0,
+          "name": "Red Herring"
+        },
+        {
+          "dbf_id": 76223,
+          "popularity": 16.55,
+          "win_rate": 60.0,
+          "name": "K9-0tron"
+        },
+        {
+          "dbf_id": 69600,
+          "popularity": 28.27,
+          "win_rate": 39.02,
+          "name": "Savannah Highmane"
+        },
+        {
+          "dbf_id": 79552,
+          "popularity": 42.63,
+          "win_rate": 56.36,
+          "name": "Shadehound"
+        },
+        {
+          "dbf_id": 699,
+          "popularity": 39.66,
+          "win_rate": 64.58,
+          "name": "Tundra Rhino"
+        },
+        {
+          "dbf_id": 64723,
+          "popularity": 100.0,
+          "win_rate": 57.65,
+          "name": "Elwynn Boar"
+        },
+        {
+          "dbf_id": 61702,
+          "popularity": 50.0,
+          "win_rate": 67.34,
+          "name": "Trampling Rhino"
+        },
+        {
+          "dbf_id": 56451,
+          "popularity": 59.3,
+          "win_rate": 52.94,
+          "name": "Zixor, Apex Predator"
+        },
+        {
+          "dbf_id": 59170,
+          "popularity": 21.17,
+          "win_rate": 38.88,
+          "name": "Wolpertinger"
+        },
+        {
+          "dbf_id": 56398,
+          "popularity": 91.76,
+          "win_rate": 42.3,
+          "name": "Augmented Porcupine"
+        },
+        {
+          "dbf_id": 1241,
+          "popularity": 46.25,
+          "win_rate": 62.16,
+          "name": "Starving Buzzard"
+        },
+        {
+          "dbf_id": 62750,
+          "popularity": 31.42,
+          "win_rate": 50.0,
+          "name": "Pack Kodo"
+        },
+        {
+          "dbf_id": 62486,
+          "popularity": 33.33,
+          "win_rate": 56.52,
+          "name": "Venomous Scorpid"
+        },
+        {
+          "dbf_id": 84392,
+          "popularity": 66.66,
+          "win_rate": 66.66,
+          "name": "Shockspitter"
+        },
+        {
+          "dbf_id": 78268,
+          "popularity": 29.82,
+          "win_rate": 64.7,
+          "name": "Stonebound Gargon"
+        },
+        {
+          "dbf_id": 59026,
+          "popularity": 40.0,
+          "win_rate": 68.18,
+          "name": "Teacher's Pet"
+        },
+        {
+          "dbf_id": 52790,
+          "popularity": 67.34,
+          "win_rate": 54.54,
+          "name": "Ursatron"
+        },
+        {
+          "dbf_id": 102221,
+          "popularity": 6.12,
+          "win_rate": 33.33,
+          "name": "Rustrot Viper"
+        },
+        {
+          "dbf_id": 67927,
+          "popularity": 33.33,
+          "win_rate": 60.0,
+          "name": "Humongous Owl"
+        },
+        {
+          "dbf_id": 49824,
+          "popularity": 22.72,
+          "win_rate": 70.0,
+          "name": "Springpaw"
+        },
+        {
+          "dbf_id": 56694,
+          "popularity": 28.57,
+          "win_rate": 58.33,
+          "name": "Mok'Nathal Lion"
+        },
+        {
+          "dbf_id": 65159,
+          "popularity": 27.5,
+          "win_rate": 81.81,
+          "name": "Imported Tarantula"
+        },
+        {
+          "dbf_id": 64970,
+          "popularity": 64.86,
+          "win_rate": 75.0,
+          "name": "The Rat King"
+        },
+        {
+          "dbf_id": 40426,
+          "popularity": 20.0,
+          "win_rate": 28.57,
+          "name": "Alleycat"
+        },
+        {
+          "dbf_id": 1860,
+          "popularity": 3.44,
+          "win_rate": 100.0,
+          "name": "Webspinner"
+        },
+        {
+          "dbf_id": 90972,
+          "popularity": 96.29,
+          "win_rate": 61.53,
+          "name": "Freebird"
+        },
+        {
+          "dbf_id": 41358,
+          "popularity": 40.9,
+          "win_rate": 44.44,
+          "name": "Crackling Razormaw"
+        },
+        {
+          "dbf_id": 57631,
+          "popularity": 86.36,
+          "win_rate": 36.84,
+          "name": "Zixor Prime"
+        },
+        {
+          "dbf_id": 76323,
+          "popularity": 4.54,
+          "win_rate": 100.0,
+          "name": "Plated Beetle"
+        },
+        {
+          "dbf_id": 64008,
+          "popularity": 9.09,
+          "win_rate": 50.0,
+          "name": "Encumbered Pack Mule"
+        },
+        {
+          "dbf_id": 73906,
+          "popularity": 50.0,
+          "win_rate": 54.54,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 65602,
+          "popularity": 28.57,
+          "win_rate": 83.33,
+          "name": "Monstrous Parrot"
+        },
+        {
+          "dbf_id": 41286,
+          "popularity": 19.04,
+          "win_rate": 25.0,
+          "name": "Charged Devilsaur"
+        },
+        {
+          "dbf_id": 64720,
+          "popularity": 11.11,
+          "win_rate": 0.0,
+          "name": "Rustrot Viper"
+        },
+        {
+          "dbf_id": 62811,
+          "popularity": 35.29,
+          "win_rate": 33.33,
+          "name": "Sunscale Raptor"
+        },
+        {
+          "dbf_id": 41366,
+          "popularity": 29.41,
+          "win_rate": 60.0,
+          "name": "Swamp King Dred"
+        },
+        {
+          "dbf_id": 61973,
+          "popularity": 31.25,
+          "win_rate": 40.0,
+          "name": "Moonfang"
+        },
+        {
+          "dbf_id": 54926,
+          "popularity": 18.75,
+          "win_rate": 66.66,
+          "name": "Diving Gryphon"
+        },
+        {
+          "dbf_id": 72488,
+          "popularity": 86.66,
+          "win_rate": 38.46,
+          "name": "Blackwater Behemoth"
+        },
+        {
+          "dbf_id": 72248,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Emerald Skytalon"
+        },
+        {
+          "dbf_id": 53609,
+          "popularity": 50.0,
+          "win_rate": 28.57,
+          "name": "Scarlet Webweaver"
+        },
+        {
+          "dbf_id": 75580,
+          "popularity": 35.71,
+          "win_rate": 60.0,
+          "name": "Ozumat"
+        },
+        {
+          "dbf_id": 50459,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Oondasta"
+        },
+        {
+          "dbf_id": 42711,
+          "popularity": 25.0,
+          "win_rate": 33.33,
+          "name": "Bearshark"
+        },
+        {
+          "dbf_id": 75579,
+          "popularity": 58.33,
+          "win_rate": 14.28,
+          "name": "Snapdragon"
+        },
+        {
+          "dbf_id": 606,
+          "popularity": 16.66,
+          "win_rate": 50.0,
+          "name": "Timber Wolf"
+        },
+        {
+          "dbf_id": 41247,
+          "popularity": 45.45,
+          "win_rate": 80.0,
+          "name": "Vicious Fledgling"
+        },
+        {
+          "dbf_id": 55291,
+          "popularity": 45.45,
+          "win_rate": 40.0,
+          "name": "Phase Stalker"
+        },
+        {
+          "dbf_id": 72553,
+          "popularity": 60.0,
+          "win_rate": 83.33,
+          "name": "Glugg the Gulper"
+        },
+        {
+          "dbf_id": 60090,
+          "popularity": 40.0,
+          "win_rate": 0.0,
+          "name": "Educated Elekk"
+        },
+        {
+          "dbf_id": 58980,
+          "popularity": 11.11,
+          "win_rate": 0.0,
+          "name": "Krolusk Barkstripper"
+        },
+        {
+          "dbf_id": 69658,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Stranglethorn Tiger"
+        },
+        {
+          "dbf_id": 41315,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ultrasaur"
+        },
+        {
+          "dbf_id": 90543,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "The One-Amalgam Band"
+        },
+        {
+          "dbf_id": 53435,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Wild Bloodstinger"
+        },
+        {
+          "dbf_id": 77308,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Sinrunner"
+        },
+        {
+          "dbf_id": 61629,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Darkmoon Rabbit"
+        },
+        {
+          "dbf_id": 47346,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Witchwood Grizzly"
+        },
+        {
+          "dbf_id": 72417,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Click-Clocker"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

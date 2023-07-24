@@ -1,0 +1,611 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 91251,
+          "popularity": 9.7,
+          "win_rate": 61.64,
+          "name": "Death Growl"
+        },
+        {
+          "dbf_id": 80090,
+          "popularity": 70.73,
+          "win_rate": 70.21,
+          "name": "The Scourge"
+        },
+        {
+          "dbf_id": 78334,
+          "popularity": 29.67,
+          "win_rate": 56.43,
+          "name": "Icy Touch"
+        },
+        {
+          "dbf_id": 78349,
+          "popularity": 17.46,
+          "win_rate": 60.23,
+          "name": "Dark Transformation"
+        },
+        {
+          "dbf_id": 78348,
+          "popularity": 23.97,
+          "win_rate": 62.39,
+          "name": "Unholy Frenzy"
+        },
+        {
+          "dbf_id": 80664,
+          "popularity": 19.48,
+          "win_rate": 62.5,
+          "name": "Blood Tap"
+        },
+        {
+          "dbf_id": 81973,
+          "popularity": 40.29,
+          "win_rate": 60.2,
+          "name": "Glacial Advance"
+        },
+        {
+          "dbf_id": 80085,
+          "popularity": 33.92,
+          "win_rate": 62.78,
+          "name": "Tomb Guardians"
+        },
+        {
+          "dbf_id": 78317,
+          "popularity": 41.92,
+          "win_rate": 59.42,
+          "name": "Howling Blast"
+        },
+        {
+          "dbf_id": 91412,
+          "popularity": 29.43,
+          "win_rate": 66.09,
+          "name": "Harmonic Metal"
+        },
+        {
+          "dbf_id": 80641,
+          "popularity": 17.25,
+          "win_rate": 64.16,
+          "name": "Graveyard Shift"
+        },
+        {
+          "dbf_id": 79569,
+          "popularity": 25.39,
+          "win_rate": 62.72,
+          "name": "Defrost"
+        },
+        {
+          "dbf_id": 78342,
+          "popularity": 28.4,
+          "win_rate": 66.84,
+          "name": "Anti-Magic Shell"
+        },
+        {
+          "dbf_id": 80736,
+          "popularity": 4.97,
+          "win_rate": 67.18,
+          "name": "Runeforging"
+        },
+        {
+          "dbf_id": 78338,
+          "popularity": 31.23,
+          "win_rate": 64.73,
+          "name": "Horn of Winter"
+        },
+        {
+          "dbf_id": 78320,
+          "popularity": 47.07,
+          "win_rate": 66.27,
+          "name": "Plague Strike"
+        },
+        {
+          "dbf_id": 78352,
+          "popularity": 34.17,
+          "win_rate": 59.02,
+          "name": "Army of the Dead"
+        },
+        {
+          "dbf_id": 80648,
+          "popularity": 44.84,
+          "win_rate": 62.11,
+          "name": "Remorseless Winter"
+        },
+        {
+          "dbf_id": 78325,
+          "popularity": 66.09,
+          "win_rate": 69.31,
+          "name": "Frost Strike"
+        },
+        {
+          "dbf_id": 78332,
+          "popularity": 31.23,
+          "win_rate": 61.66,
+          "name": "Heart Strike"
+        },
+        {
+          "dbf_id": 82088,
+          "popularity": 37.43,
+          "win_rate": 57.7,
+          "name": "Obliterate"
+        },
+        {
+          "dbf_id": 79503,
+          "popularity": 44.92,
+          "win_rate": 67.0,
+          "name": "Asphyxiate"
+        },
+        {
+          "dbf_id": 78333,
+          "popularity": 35.74,
+          "win_rate": 64.3,
+          "name": "Corpse Explosion"
+        },
+        {
+          "dbf_id": 81206,
+          "popularity": 65.16,
+          "win_rate": 69.51,
+          "name": "Blood Boil"
+        },
+        {
+          "dbf_id": 78324,
+          "popularity": 60.18,
+          "win_rate": 67.31,
+          "name": "Death Strike"
+        },
+        {
+          "dbf_id": 77374,
+          "popularity": 33.29,
+          "win_rate": 51.86,
+          "name": "Azsharan Ritual"
+        },
+        {
+          "dbf_id": 77300,
+          "popularity": 22.1,
+          "win_rate": 57.14,
+          "name": "Boon of the Ascended"
+        },
+        {
+          "dbf_id": 72482,
+          "popularity": 42.21,
+          "win_rate": 60.31,
+          "name": "Illuminate"
+        },
+        {
+          "dbf_id": 79739,
+          "popularity": 31.12,
+          "win_rate": 58.29,
+          "name": "Clear Conscience"
+        },
+        {
+          "dbf_id": 79745,
+          "popularity": 10.72,
+          "win_rate": 50.61,
+          "name": "Theft Accusation"
+        },
+        {
+          "dbf_id": 80118,
+          "popularity": 20.9,
+          "win_rate": 60.5,
+          "name": "Switcheroo"
+        },
+        {
+          "dbf_id": 90366,
+          "popularity": 39.61,
+          "win_rate": 58.27,
+          "name": "Shadow Chord: Distort"
+        },
+        {
+          "dbf_id": 69509,
+          "popularity": 34.82,
+          "win_rate": 58.63,
+          "name": "Holy Smite"
+        },
+        {
+          "dbf_id": 69699,
+          "popularity": 10.81,
+          "win_rate": 57.14,
+          "name": "Snap Freeze"
+        },
+        {
+          "dbf_id": 72487,
+          "popularity": 13.35,
+          "win_rate": 52.12,
+          "name": "Serpent Wig"
+        },
+        {
+          "dbf_id": 72483,
+          "popularity": 16.47,
+          "win_rate": 47.82,
+          "name": "Whispers of the Deep"
+        },
+        {
+          "dbf_id": 80120,
+          "popularity": 60.43,
+          "win_rate": 60.47,
+          "name": "Drown"
+        },
+        {
+          "dbf_id": 72929,
+          "popularity": 8.14,
+          "win_rate": 61.81,
+          "name": "Gifts of Azshara"
+        },
+        {
+          "dbf_id": 69707,
+          "popularity": 29.62,
+          "win_rate": 54.82,
+          "name": "Flash Heal"
+        },
+        {
+          "dbf_id": 84132,
+          "popularity": 22.59,
+          "win_rate": 55.4,
+          "name": "Animate Dead"
+        },
+        {
+          "dbf_id": 69569,
+          "popularity": 34.35,
+          "win_rate": 48.21,
+          "name": "Shadow Word: Death"
+        },
+        {
+          "dbf_id": 78508,
+          "popularity": 18.13,
+          "win_rate": 64.95,
+          "name": "Vengeful Visage"
+        },
+        {
+          "dbf_id": 76272,
+          "popularity": 36.13,
+          "win_rate": 69.82,
+          "name": "Pyroblast"
+        },
+        {
+          "dbf_id": 84428,
+          "popularity": 48.9,
+          "win_rate": 62.42,
+          "name": "Arcane Defenders"
+        },
+        {
+          "dbf_id": 86274,
+          "popularity": 30.98,
+          "win_rate": 72.22,
+          "name": "Arcane Bolt"
+        },
+        {
+          "dbf_id": 69508,
+          "popularity": 41.66,
+          "win_rate": 50.56,
+          "name": "Holy Nova"
+        },
+        {
+          "dbf_id": 86534,
+          "popularity": 27.53,
+          "win_rate": 46.55,
+          "name": "Lightbomb"
+        },
+        {
+          "dbf_id": 72651,
+          "popularity": 17.59,
+          "win_rate": 62.16,
+          "name": "Volcanomancy"
+        },
+        {
+          "dbf_id": 79548,
+          "popularity": 60.32,
+          "win_rate": 66.84,
+          "name": "Objection!"
+        },
+        {
+          "dbf_id": 80117,
+          "popularity": 6.91,
+          "win_rate": 34.88,
+          "name": "Front Lines"
+        },
+        {
+          "dbf_id": 69698,
+          "popularity": 11.79,
+          "win_rate": 54.79,
+          "name": "Shooting Star"
+        },
+        {
+          "dbf_id": 90738,
+          "popularity": 23.66,
+          "win_rate": 65.06,
+          "name": "Synthesize"
+        },
+        {
+          "dbf_id": 75556,
+          "popularity": 15.77,
+          "win_rate": 65.97,
+          "name": "Polymorph: Jellyfish"
+        },
+        {
+          "dbf_id": 86235,
+          "popularity": 36.43,
+          "win_rate": 62.78,
+          "name": "Explosive Runes"
+        },
+        {
+          "dbf_id": 90694,
+          "popularity": 9.5,
+          "win_rate": 50.0,
+          "name": "Spotlight"
+        },
+        {
+          "dbf_id": 69616,
+          "popularity": 19.33,
+          "win_rate": 50.42,
+          "name": "Shadow Word: Ruin"
+        },
+        {
+          "dbf_id": 69607,
+          "popularity": 57.35,
+          "win_rate": 60.05,
+          "name": "Counterspell"
+        },
+        {
+          "dbf_id": 79596,
+          "popularity": 35.11,
+          "win_rate": 60.47,
+          "name": "Life Sentence"
+        },
+        {
+          "dbf_id": 90687,
+          "popularity": 48.9,
+          "win_rate": 53.79,
+          "name": "Fight Over Me"
+        },
+        {
+          "dbf_id": 78081,
+          "popularity": 32.99,
+          "win_rate": 57.73,
+          "name": "Service Bell"
+        },
+        {
+          "dbf_id": 90534,
+          "popularity": 29.28,
+          "win_rate": 59.06,
+          "name": "Lightshow"
+        },
+        {
+          "dbf_id": 72650,
+          "popularity": 2.05,
+          "win_rate": 75.0,
+          "name": "Seafloor Gateway"
+        },
+        {
+          "dbf_id": 79741,
+          "popularity": 3.6,
+          "win_rate": 38.09,
+          "name": "Promotion"
+        },
+        {
+          "dbf_id": 90945,
+          "popularity": 41.43,
+          "win_rate": 50.63,
+          "name": "Starlight Groove"
+        },
+        {
+          "dbf_id": 78085,
+          "popularity": 38.87,
+          "win_rate": 56.75,
+          "name": "Divine Toll"
+        },
+        {
+          "dbf_id": 76306,
+          "popularity": 43.05,
+          "win_rate": 52.65,
+          "name": "Flash of Light"
+        },
+        {
+          "dbf_id": 66861,
+          "popularity": 32.57,
+          "win_rate": 44.32,
+          "name": "Thrive in the Shadows"
+        },
+        {
+          "dbf_id": 69608,
+          "popularity": 37.41,
+          "win_rate": 55.92,
+          "name": "Ice Barrier"
+        },
+        {
+          "dbf_id": 78145,
+          "popularity": 16.31,
+          "win_rate": 51.08,
+          "name": "Jury Duty"
+        },
+        {
+          "dbf_id": 84749,
+          "popularity": 46.94,
+          "win_rate": 57.85,
+          "name": "Feast and Famine"
+        },
+        {
+          "dbf_id": 86438,
+          "popularity": 50.53,
+          "win_rate": 60.14,
+          "name": "Tear Reality"
+        },
+        {
+          "dbf_id": 97361,
+          "popularity": 72.43,
+          "win_rate": 64.92,
+          "name": "Infinitize the Maxitude"
+        },
+        {
+          "dbf_id": 97375,
+          "popularity": 44.92,
+          "win_rate": 64.11,
+          "name": "Firelands Portal"
+        },
+        {
+          "dbf_id": 69530,
+          "popularity": 32.48,
+          "win_rate": 50.27,
+          "name": "Blessing of Kings"
+        },
+        {
+          "dbf_id": 69501,
+          "popularity": 41.31,
+          "win_rate": 69.91,
+          "name": "Fireball"
+        },
+        {
+          "dbf_id": 90959,
+          "popularity": 40.91,
+          "win_rate": 56.95,
+          "name": "Love Everlasting"
+        },
+        {
+          "dbf_id": 73424,
+          "popularity": 38.58,
+          "win_rate": 55.76,
+          "name": "Holy Maki Roll"
+        },
+        {
+          "dbf_id": 88580,
+          "popularity": 40.63,
+          "win_rate": 52.96,
+          "name": "Harmonic Disco"
+        },
+        {
+          "dbf_id": 96916,
+          "popularity": 33.51,
+          "win_rate": 57.22,
+          "name": "Muster for Battle"
+        },
+        {
+          "dbf_id": 69500,
+          "popularity": 19.4,
+          "win_rate": 49.03,
+          "name": "Arcane Intellect"
+        },
+        {
+          "dbf_id": 69614,
+          "popularity": 50.18,
+          "win_rate": 55.59,
+          "name": "Equality"
+        },
+        {
+          "dbf_id": 72473,
+          "popularity": 41.94,
+          "win_rate": 66.51,
+          "name": "Blood in the Water"
+        },
+        {
+          "dbf_id": 80112,
+          "popularity": 52.26,
+          "win_rate": 49.09,
+          "name": "Immortalized in Stone"
+        },
+        {
+          "dbf_id": 102193,
+          "popularity": 27.41,
+          "win_rate": 62.06,
+          "name": "Fire Sale"
+        },
+        {
+          "dbf_id": 72111,
+          "popularity": 22.11,
+          "win_rate": 64.95,
+          "name": "Azsharan Vessel"
+        },
+        {
+          "dbf_id": 77151,
+          "popularity": 24.24,
+          "win_rate": 71.87,
+          "name": "Kidnap"
+        },
+        {
+          "dbf_id": 69522,
+          "popularity": 2.5,
+          "win_rate": 46.15,
+          "name": "Deadly Poison"
+        },
+        {
+          "dbf_id": 76250,
+          "popularity": 1.93,
+          "win_rate": 70.0,
+          "name": "Radar Detector"
+        },
+        {
+          "dbf_id": 79608,
+          "popularity": 25.67,
+          "win_rate": 53.38,
+          "name": "Murder Accusation"
+        },
+        {
+          "dbf_id": 84391,
+          "popularity": 60.11,
+          "win_rate": 55.01,
+          "name": "Flight of the Bronze"
+        },
+        {
+          "dbf_id": 102790,
+          "popularity": 54.97,
+          "win_rate": 56.02,
+          "name": "Hammer of Wrath"
+        },
+        {
+          "dbf_id": 77150,
+          "popularity": 29.94,
+          "win_rate": 52.28,
+          "name": "Sticky Situation"
+        },
+        {
+          "dbf_id": 77305,
+          "popularity": 44.37,
+          "win_rate": 62.22,
+          "name": "The Light! It Burns!"
+        },
+        {
+          "dbf_id": 72481,
+          "popularity": 39.64,
+          "win_rate": 57.71,
+          "name": "Whirlpool"
+        },
+        {
+          "dbf_id": 77368,
+          "popularity": 55.13,
+          "win_rate": 64.51,
+          "name": "Identity Theft"
+        },
+        {
+          "dbf_id": 84361,
+          "popularity": 13.26,
+          "win_rate": 55.22,
+          "name": "Undying Allies"
+        },
+        {
+          "dbf_id": 88403,
+          "popularity": 9.7,
+          "win_rate": 63.26,
+          "name": "Harmonic Hip Hop"
+        },
+        {
+          "dbf_id": 102194,
+          "popularity": 25.89,
+          "win_rate": 56.15,
+          "name": "Flame Geyser"
+        },
+        {
+          "dbf_id": 102202,
+          "popularity": 31.65,
+          "win_rate": 63.69,
+          "name": "Ambush"
+        },
+        {
+          "dbf_id": 102745,
+          "popularity": 23.61,
+          "win_rate": 65.21,
+          "name": "Fan of Knives"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

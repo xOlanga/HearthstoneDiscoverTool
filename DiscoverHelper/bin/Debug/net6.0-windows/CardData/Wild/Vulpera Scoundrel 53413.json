@@ -1,0 +1,929 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 53412,
+          "popularity": 25.0,
+          "win_rate": 58.82,
+          "name": "Mystery Choice!"
+        },
+        {
+          "dbf_id": 830,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Totemic Might"
+        },
+        {
+          "dbf_id": 38724,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Stormcrack"
+        },
+        {
+          "dbf_id": 92232,
+          "popularity": 75.0,
+          "win_rate": 100.0,
+          "name": "JIVE, INSECT!"
+        },
+        {
+          "dbf_id": 43414,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Lesser Ruby Spellstone"
+        },
+        {
+          "dbf_id": 47821,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Snap Freeze"
+        },
+        {
+          "dbf_id": 48798,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Beakered Lightning"
+        },
+        {
+          "dbf_id": 48161,
+          "popularity": 66.66,
+          "win_rate": 100.0,
+          "name": "The Storm Bringer"
+        },
+        {
+          "dbf_id": 84212,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Shadow Suffusion"
+        },
+        {
+          "dbf_id": 64356,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Charged Call"
+        },
+        {
+          "dbf_id": 49802,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Haunting Visions"
+        },
+        {
+          "dbf_id": 52468,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Soul of the Murloc"
+        },
+        {
+          "dbf_id": 45308,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Embrace Darkness"
+        },
+        {
+          "dbf_id": 61587,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Deck of Lunacy"
+        },
+        {
+          "dbf_id": 51373,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Hagatha's Scheme"
+        },
+        {
+          "dbf_id": 38262,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Primal Fusion"
+        },
+        {
+          "dbf_id": 53442,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Puzzle Box of Yogg-Saron"
+        },
+        {
+          "dbf_id": 58976,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Devolving Missiles"
+        },
+        {
+          "dbf_id": 77554,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Bloodlust"
+        },
+        {
+          "dbf_id": 59621,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Potion of Illusion"
+        },
+        {
+          "dbf_id": 60016,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Lightning Bloom"
+        },
+        {
+          "dbf_id": 49051,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Totemic Smash"
+        },
+        {
+          "dbf_id": 43331,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Lesser Sapphire Spellstone"
+        },
+        {
+          "dbf_id": 66288,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Investment Opportunity"
+        },
+        {
+          "dbf_id": 48051,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Elementary Reaction"
+        },
+        {
+          "dbf_id": 61957,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Conjure Mana Biscuit"
+        },
+        {
+          "dbf_id": 2874,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Forgotten Torch"
+        },
+        {
+          "dbf_id": 61222,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Revolve"
+        },
+        {
+          "dbf_id": 59214,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Molten Blast"
+        },
+        {
+          "dbf_id": 49853,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Big Bad Voodoo"
+        },
+        {
+          "dbf_id": 41521,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Tidal Surge"
+        },
+        {
+          "dbf_id": 220,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Shadow Madness"
+        },
+        {
+          "dbf_id": 86504,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Blazing Transmutation"
+        },
+        {
+          "dbf_id": 149,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ancestral Healing"
+        },
+        {
+          "dbf_id": 61585,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rigged Faire Game"
+        },
+        {
+          "dbf_id": 40423,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Finders Keepers"
+        },
+        {
+          "dbf_id": 67833,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Frostbite"
+        },
+        {
+          "dbf_id": 52255,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Icicle"
+        },
+        {
+          "dbf_id": 2289,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Lava Shock"
+        },
+        {
+          "dbf_id": 55281,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Learn Draconic"
+        },
+        {
+          "dbf_id": 71229,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Deep Breath"
+        },
+        {
+          "dbf_id": 56412,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Vivid Spores"
+        },
+        {
+          "dbf_id": 864,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Lava Burst"
+        },
+        {
+          "dbf_id": 72650,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Seafloor Gateway"
+        },
+        {
+          "dbf_id": 59213,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Primordial Studies"
+        },
+        {
+          "dbf_id": 86438,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Tear Reality"
+        },
+        {
+          "dbf_id": 64391,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Shard of the Naaru"
+        },
+        {
+          "dbf_id": 53978,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Totemic Surge"
+        },
+        {
+          "dbf_id": 48759,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Cloning Device"
+        },
+        {
+          "dbf_id": 51376,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Lazul's Scheme"
+        },
+        {
+          "dbf_id": 56467,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Torrent"
+        },
+        {
+          "dbf_id": 86505,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Cold Storage"
+        },
+        {
+          "dbf_id": 92325,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Chill Vibes"
+        },
+        {
+          "dbf_id": 63056,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Runed Orb"
+        },
+        {
+          "dbf_id": 69626,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Feral Spirit"
+        },
+        {
+          "dbf_id": 767,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Earth Shock"
+        },
+        {
+          "dbf_id": 71234,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Don't Stand in the Fire!"
+        },
+        {
+          "dbf_id": 69629,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Lightning Storm"
+        },
+        {
+          "dbf_id": 46303,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Unstable Evolution"
+        },
+        {
+          "dbf_id": 61436,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Idol of Y'Shaarj"
+        },
+        {
+          "dbf_id": 52633,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Mass Resurrection"
+        },
+        {
+          "dbf_id": 286,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Vaporize"
+        },
+        {
+          "dbf_id": 50120,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Elemental Evocation"
+        },
+        {
+          "dbf_id": 43322,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Crushing Hand"
+        },
+        {
+          "dbf_id": 69551,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Hex"
+        },
+        {
+          "dbf_id": 59221,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Initiation"
+        },
+        {
+          "dbf_id": 41879,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Spirit Echo"
+        },
+        {
+          "dbf_id": 45979,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Psionic Probe"
+        },
+        {
+          "dbf_id": 50278,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Seance"
+        },
+        {
+          "dbf_id": 2564,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Confuse"
+        },
+        {
+          "dbf_id": 62804,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Flurry (Rank 1)"
+        },
+        {
+          "dbf_id": 1998,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ancestor's Call"
+        },
+        {
+          "dbf_id": 2541,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Effigy"
+        },
+        {
+          "dbf_id": 77209,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Azsharan Scroll"
+        },
+        {
+          "dbf_id": 50794,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Regenerate"
+        },
+        {
+          "dbf_id": 90959,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Love Everlasting"
+        },
+        {
+          "dbf_id": 67751,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Snowball Fight!"
+        },
+        {
+          "dbf_id": 69509,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Holy Smite"
+        },
+        {
+          "dbf_id": 64014,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Garrote"
+        },
+        {
+          "dbf_id": 823,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Starfire"
+        },
+        {
+          "dbf_id": 63515,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Shattering Blast"
+        },
+        {
+          "dbf_id": 61961,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Landslide"
+        },
+        {
+          "dbf_id": 71235,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Spirit Mount"
+        },
+        {
+          "dbf_id": 30,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Thoughtsteal"
+        },
+        {
+          "dbf_id": 47222,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Zap!"
+        },
+        {
+          "dbf_id": 70011,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rune of the Archmage"
+        },
+        {
+          "dbf_id": 61943,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Barricade"
+        },
+        {
+          "dbf_id": 61228,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Deathmatch Pavilion"
+        },
+        {
+          "dbf_id": 564,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Arcane Missiles"
+        },
+        {
+          "dbf_id": 404,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Ancestral Spirit"
+        },
+        {
+          "dbf_id": 2572,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Arcane Blast"
+        },
+        {
+          "dbf_id": 92222,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Altered Chord"
+        },
+        {
+          "dbf_id": 2563,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Convert"
+        },
+        {
+          "dbf_id": 90534,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Lightshow"
+        },
+        {
+          "dbf_id": 70005,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Build a Snowman"
+        },
+        {
+          "dbf_id": 47152,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Earthen Might"
+        },
+        {
+          "dbf_id": 43407,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Explosive Runes"
+        },
+        {
+          "dbf_id": 42754,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Frozen Clone"
+        },
+        {
+          "dbf_id": 72929,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Gifts of Azshara"
+        },
+        {
+          "dbf_id": 40455,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Jade Lightning"
+        },
+        {
+          "dbf_id": 2006,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Crackle"
+        },
+        {
+          "dbf_id": 86274,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Arcane Bolt"
+        },
+        {
+          "dbf_id": 59694,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Tidal Wave"
+        },
+        {
+          "dbf_id": 69625,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Lightning Bolt"
+        },
+        {
+          "dbf_id": 86150,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Prescience"
+        },
+        {
+          "dbf_id": 1941,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Echo of Medivh"
+        },
+        {
+          "dbf_id": 55276,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rolling Fireball"
+        },
+        {
+          "dbf_id": 92335,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Pack the House"
+        },
+        {
+          "dbf_id": 1361,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Divine Spirit"
+        },
+        {
+          "dbf_id": 84752,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Vast Wisdom"
+        },
+        {
+          "dbf_id": 61223,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Dunk Tank"
+        },
+        {
+          "dbf_id": 59639,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Cram Session"
+        },
+        {
+          "dbf_id": 43288,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Lesser Jasper Spellstone"
+        },
+        {
+          "dbf_id": 41158,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Mana Bind"
+        },
+        {
+          "dbf_id": 76975,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Convincing Disguise"
+        },
+        {
+          "dbf_id": 2296,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Revenge"
+        },
+        {
+          "dbf_id": 52421,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Witch's Brew"
+        },
+        {
+          "dbf_id": 90366,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Shadow Chord: Distort"
+        },
+        {
+          "dbf_id": 66861,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Thrive in the Shadows"
+        },
+        {
+          "dbf_id": 72111,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Azsharan Vessel"
+        },
+        {
+          "dbf_id": 1084,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Mirror Image"
+        },
+        {
+          "dbf_id": 50230,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Splitting Image"
+        },
+        {
+          "dbf_id": 45905,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Primal Talismans"
+        },
+        {
+          "dbf_id": 59223,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Raise Dead"
+        },
+        {
+          "dbf_id": 75556,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Polymorph: Jellyfish"
+        },
+        {
+          "dbf_id": 62892,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Paralytic Poison"
+        },
+        {
+          "dbf_id": 48393,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Blazing Invocation"
+        },
+        {
+          "dbf_id": 818,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Far Sight"
+        },
+        {
+          "dbf_id": 54898,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Breath of the Infinite"
+        },
+        {
+          "dbf_id": 40297,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Volcanic Potion"
+        },
+        {
+          "dbf_id": 38266,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Evolve"
+        },
+        {
+          "dbf_id": 63069,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Nofin Can Stop Us"
+        },
+        {
+          "dbf_id": 50071,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Mass Hysteria"
+        },
+        {
+          "dbf_id": 63098,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Perpetual Flame"
+        },
+        {
+          "dbf_id": 90738,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Synthesize"
+        },
+        {
+          "dbf_id": 58978,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Athletic Studies"
+        },
+        {
+          "dbf_id": 58791,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Gift of Luminance"
+        },
+        {
+          "dbf_id": 40419,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Call in the Finishers"
+        },
+        {
+          "dbf_id": 50086,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Blast Wave"
+        },
+        {
+          "dbf_id": 42747,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Avalanche"
+        },
+        {
+          "dbf_id": 53985,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Plague of Murlocs"
+        },
+        {
+          "dbf_id": 49421,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Zerek's Cloning Gallery"
+        },
+        {
+          "dbf_id": 1809,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Reincarnate"
+        },
+        {
+          "dbf_id": 59207,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Brain Freeze"
+        },
+        {
+          "dbf_id": 79531,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Criminal Lineup"
+        },
+        {
+          "dbf_id": 76982,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Primordial Wave"
+        },
+        {
+          "dbf_id": 72316,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Bioluminescence"
+        },
+        {
+          "dbf_id": 102246,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ancestral Knowledge"
+        },
+        {
+          "dbf_id": 49052,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Voltaic Burst"
+        },
+        {
+          "dbf_id": 56470,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Totemic Reflection"
+        },
+        {
+          "dbf_id": 54971,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Lightning Breath"
+        },
+        {
+          "dbf_id": 64392,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Void Shard"
+        },
+        {
+          "dbf_id": 467,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Moonfire"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

@@ -1,0 +1,185 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 86557,
+          "popularity": 31.82,
+          "win_rate": 56.86,
+          "name": "Silvermoon Arcanist"
+        },
+        {
+          "dbf_id": 73723,
+          "popularity": 55.87,
+          "win_rate": 61.78,
+          "name": "Lady S'theno"
+        },
+        {
+          "dbf_id": 84260,
+          "popularity": 45.94,
+          "win_rate": 55.82,
+          "name": "Felerin, the Forgotten"
+        },
+        {
+          "dbf_id": 69649,
+          "popularity": 22.13,
+          "win_rate": 61.78,
+          "name": "Abusive Sergeant"
+        },
+        {
+          "dbf_id": 77482,
+          "popularity": 65.92,
+          "win_rate": 63.96,
+          "name": "Artificer Xy'mox"
+        },
+        {
+          "dbf_id": 92332,
+          "popularity": 29.72,
+          "win_rate": 52.52,
+          "name": "Photographer Fizzle"
+        },
+        {
+          "dbf_id": 96999,
+          "popularity": 29.74,
+          "win_rate": 55.31,
+          "name": "Halveria Darkraven"
+        },
+        {
+          "dbf_id": 73726,
+          "popularity": 37.06,
+          "win_rate": 58.13,
+          "name": "Xhilag of the Abyss"
+        },
+        {
+          "dbf_id": 91252,
+          "popularity": 40.9,
+          "win_rate": 55.55,
+          "name": "Pozzik, Audio Engineer"
+        },
+        {
+          "dbf_id": 102184,
+          "popularity": 29.88,
+          "win_rate": 61.53,
+          "name": "Kayn Sunfury"
+        },
+        {
+          "dbf_id": 66176,
+          "popularity": 27.9,
+          "win_rate": 54.16,
+          "name": "Illidari Inquisitor"
+        },
+        {
+          "dbf_id": 90749,
+          "popularity": 22.22,
+          "win_rate": 50.0,
+          "name": "E.T.C., Band Manager"
+        },
+        {
+          "dbf_id": 86547,
+          "popularity": 31.34,
+          "win_rate": 28.57,
+          "name": "Wrathscale Naga"
+        },
+        {
+          "dbf_id": 79767,
+          "popularity": 9.52,
+          "win_rate": 0.0,
+          "name": "Prince Renathal"
+        },
+        {
+          "dbf_id": 90700,
+          "popularity": 22.22,
+          "win_rate": 37.5,
+          "name": "Paparazzi"
+        },
+        {
+          "dbf_id": 84244,
+          "popularity": 30.55,
+          "win_rate": 45.45,
+          "name": "Vengeful Walloper"
+        },
+        {
+          "dbf_id": 86626,
+          "popularity": 60.0,
+          "win_rate": 57.14,
+          "name": "Astalor Bloodsworn"
+        },
+        {
+          "dbf_id": 72923,
+          "popularity": 57.57,
+          "win_rate": 78.94,
+          "name": "Queen Azshara"
+        },
+        {
+          "dbf_id": 69683,
+          "popularity": 51.85,
+          "win_rate": 28.57,
+          "name": "Crimson Sigil Runner"
+        },
+        {
+          "dbf_id": 66870,
+          "popularity": 3.7,
+          "win_rate": 0.0,
+          "name": "Nozdormu the Eternal"
+        },
+        {
+          "dbf_id": 71921,
+          "popularity": 91.66,
+          "win_rate": 45.45,
+          "name": "Coilskar Commander"
+        },
+        {
+          "dbf_id": 69655,
+          "popularity": 39.13,
+          "win_rate": 88.88,
+          "name": "Bloodmage Thalnos"
+        },
+        {
+          "dbf_id": 90608,
+          "popularity": 15.78,
+          "win_rate": 33.33,
+          "name": "Snakebite"
+        },
+        {
+          "dbf_id": 90441,
+          "popularity": 47.36,
+          "win_rate": 33.33,
+          "name": "Instrument Smasher"
+        },
+        {
+          "dbf_id": 84242,
+          "popularity": 17.64,
+          "win_rate": 33.33,
+          "name": "Brutal Annihilan"
+        },
+        {
+          "dbf_id": 96997,
+          "popularity": 41.17,
+          "win_rate": 28.57,
+          "name": "Eye of Shadow"
+        },
+        {
+          "dbf_id": 72598,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "School Teacher"
+        },
+        {
+          "dbf_id": 66864,
+          "popularity": 18.75,
+          "win_rate": 0.0,
+          "name": "Alexstrasza the Life-Binder"
+        },
+        {
+          "dbf_id": 84232,
+          "popularity": 31.25,
+          "win_rate": 40.0,
+          "name": "Fierce Outsider"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

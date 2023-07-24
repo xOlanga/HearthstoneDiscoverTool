@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1eJKQVtxD6djZeBhi8iEyMhi+6qKPFRG0FLsuikwJUnjd9iNphLuV7QOq7bqg8xi+vu4MWXzxb+tV3e48gOK3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juliu\\Desktop\\HS Programs\\Backup\\DiscoverHelper\\DiscoverHelper\\DiscoverHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juliu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

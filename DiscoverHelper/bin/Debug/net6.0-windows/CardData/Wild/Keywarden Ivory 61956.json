@@ -1,0 +1,155 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 61943,
+          "popularity": 19.56,
+          "win_rate": 44.44,
+          "name": "Barricade"
+        },
+        {
+          "dbf_id": 59542,
+          "popularity": 15.73,
+          "win_rate": 50.0,
+          "name": "Runic Carvings"
+        },
+        {
+          "dbf_id": 61947,
+          "popularity": 39.77,
+          "win_rate": 48.57,
+          "name": "Rally!"
+        },
+        {
+          "dbf_id": 59539,
+          "popularity": 3.52,
+          "win_rate": 66.66,
+          "name": "Guardian Animals"
+        },
+        {
+          "dbf_id": 59725,
+          "popularity": 49.39,
+          "win_rate": 48.78,
+          "name": "Soul Shear"
+        },
+        {
+          "dbf_id": 61953,
+          "popularity": 17.07,
+          "win_rate": 71.42,
+          "name": "Nitroboost Poison"
+        },
+        {
+          "dbf_id": 61944,
+          "popularity": 35.8,
+          "win_rate": 58.62,
+          "name": "Hysteria"
+        },
+        {
+          "dbf_id": 59621,
+          "popularity": 46.25,
+          "win_rate": 45.94,
+          "name": "Potion of Illusion"
+        },
+        {
+          "dbf_id": 61967,
+          "popularity": 58.75,
+          "win_rate": 44.68,
+          "name": "Resizing Pouch"
+        },
+        {
+          "dbf_id": 61962,
+          "popularity": 45.56,
+          "win_rate": 36.11,
+          "name": "Guidance"
+        },
+        {
+          "dbf_id": 59083,
+          "popularity": 55.69,
+          "win_rate": 45.45,
+          "name": "Wave of Apathy"
+        },
+        {
+          "dbf_id": 59207,
+          "popularity": 43.03,
+          "win_rate": 64.7,
+          "name": "Brain Freeze"
+        },
+        {
+          "dbf_id": 59602,
+          "popularity": 6.41,
+          "win_rate": 20.0,
+          "name": "Commencement"
+        },
+        {
+          "dbf_id": 58976,
+          "popularity": 74.02,
+          "win_rate": 54.38,
+          "name": "Devolving Missiles"
+        },
+        {
+          "dbf_id": 59705,
+          "popularity": 25.0,
+          "win_rate": 63.15,
+          "name": "Adorable Infestation"
+        },
+        {
+          "dbf_id": 59726,
+          "popularity": 4.05,
+          "win_rate": 66.66,
+          "name": "Felosophy"
+        },
+        {
+          "dbf_id": 59402,
+          "popularity": 50.0,
+          "win_rate": 45.71,
+          "name": "Coerce"
+        },
+        {
+          "dbf_id": 58791,
+          "popularity": 51.42,
+          "win_rate": 50.0,
+          "name": "Gift of Luminance"
+        },
+        {
+          "dbf_id": 59394,
+          "popularity": 36.23,
+          "win_rate": 68.0,
+          "name": "Demon Companion"
+        },
+        {
+          "dbf_id": 59409,
+          "popularity": 33.33,
+          "win_rate": 47.82,
+          "name": "Shield of Honor"
+        },
+        {
+          "dbf_id": 59213,
+          "popularity": 21.73,
+          "win_rate": 53.33,
+          "name": "Primordial Studies"
+        },
+        {
+          "dbf_id": 60016,
+          "popularity": 25.75,
+          "win_rate": 64.7,
+          "name": "Lightning Bloom"
+        },
+        {
+          "dbf_id": 60023,
+          "popularity": 14.28,
+          "win_rate": 55.55,
+          "name": "Cutting Class"
+        },
+        {
+          "dbf_id": 59223,
+          "popularity": 27.86,
+          "win_rate": 70.58,
+          "name": "Raise Dead"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

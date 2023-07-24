@@ -1,0 +1,41 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 86157,
+          "popularity": 37.69,
+          "win_rate": 60.38,
+          "name": "Hazy Concoction"
+        },
+        {
+          "dbf_id": 86115,
+          "popularity": 26.28,
+          "win_rate": 61.17,
+          "name": "Slimy Concoction"
+        },
+        {
+          "dbf_id": 86162,
+          "popularity": 32.37,
+          "win_rate": 61.57,
+          "name": "Gleaming Concoction"
+        },
+        {
+          "dbf_id": 86156,
+          "popularity": 31.04,
+          "win_rate": 58.47,
+          "name": "Bubbling Concoction"
+        },
+        {
+          "dbf_id": 86117,
+          "popularity": 39.29,
+          "win_rate": 54.12,
+          "name": "Dreadful Concoction"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

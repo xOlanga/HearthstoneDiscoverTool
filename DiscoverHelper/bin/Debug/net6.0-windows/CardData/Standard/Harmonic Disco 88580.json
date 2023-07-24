@@ -1,0 +1,233 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 92237,
+          "popularity": 20.43,
+          "win_rate": 47.36,
+          "name": "Tony, King of Piracy"
+        },
+        {
+          "dbf_id": 91080,
+          "popularity": 14.05,
+          "win_rate": 61.53,
+          "name": "Ghost Writer"
+        },
+        {
+          "dbf_id": 77308,
+          "popularity": 56.83,
+          "win_rate": 60.57,
+          "name": "Sinrunner"
+        },
+        {
+          "dbf_id": 72021,
+          "popularity": 2.74,
+          "win_rate": 40.0,
+          "name": "Gorloc Ravager"
+        },
+        {
+          "dbf_id": 76324,
+          "popularity": 25.14,
+          "win_rate": 70.45,
+          "name": "Azure Drake"
+        },
+        {
+          "dbf_id": 79559,
+          "popularity": 14.36,
+          "win_rate": 48.0,
+          "name": "Stoneborn Accuser"
+        },
+        {
+          "dbf_id": 79546,
+          "popularity": 9.03,
+          "win_rate": 66.66,
+          "name": "Soul Seeker"
+        },
+        {
+          "dbf_id": 69658,
+          "popularity": 30.72,
+          "win_rate": 70.58,
+          "name": "Stranglethorn Tiger"
+        },
+        {
+          "dbf_id": 72212,
+          "popularity": 63.63,
+          "win_rate": 58.09,
+          "name": "Azsharan Sentinel"
+        },
+        {
+          "dbf_id": 86572,
+          "popularity": 64.84,
+          "win_rate": 56.07,
+          "name": "Tenacious San'layn"
+        },
+        {
+          "dbf_id": 102229,
+          "popularity": 69.69,
+          "win_rate": 60.0,
+          "name": "Rotten Applebaum"
+        },
+        {
+          "dbf_id": 72923,
+          "popularity": 26.99,
+          "win_rate": 43.18,
+          "name": "Queen Azshara"
+        },
+        {
+          "dbf_id": 102218,
+          "popularity": 29.19,
+          "win_rate": 55.31,
+          "name": "Wargear"
+        },
+        {
+          "dbf_id": 97112,
+          "popularity": 71.69,
+          "win_rate": 63.15,
+          "name": "Zilliax"
+        },
+        {
+          "dbf_id": 79932,
+          "popularity": 6.28,
+          "win_rate": 80.0,
+          "name": "Famished Fool"
+        },
+        {
+          "dbf_id": 85048,
+          "popularity": 43.67,
+          "win_rate": 57.97,
+          "name": "Infectious Ghoul"
+        },
+        {
+          "dbf_id": 66858,
+          "popularity": 68.78,
+          "win_rate": 59.25,
+          "name": "Overlord Runthak"
+        },
+        {
+          "dbf_id": 78133,
+          "popularity": 32.02,
+          "win_rate": 69.38,
+          "name": "Muck Plumber"
+        },
+        {
+          "dbf_id": 78079,
+          "popularity": 13.24,
+          "win_rate": 60.0,
+          "name": "Steamcleaner"
+        },
+        {
+          "dbf_id": 71695,
+          "popularity": 43.7,
+          "win_rate": 74.24,
+          "name": "Gangplank Diver"
+        },
+        {
+          "dbf_id": 85597,
+          "popularity": 4.79,
+          "win_rate": 42.85,
+          "name": "Translocation Instructor"
+        },
+        {
+          "dbf_id": 66856,
+          "popularity": 54.79,
+          "win_rate": 56.25,
+          "name": "Taelan Fordring"
+        },
+        {
+          "dbf_id": 73068,
+          "popularity": 11.03,
+          "win_rate": 75.0,
+          "name": "Ini Stormcoil"
+        },
+        {
+          "dbf_id": 90944,
+          "popularity": 62.16,
+          "win_rate": 52.17,
+          "name": "Kangor, Dancing King"
+        },
+        {
+          "dbf_id": 78393,
+          "popularity": 24.65,
+          "win_rate": 72.22,
+          "name": "Elitist Snob"
+        },
+        {
+          "dbf_id": 102198,
+          "popularity": 33.33,
+          "win_rate": 65.21,
+          "name": "Lothraxion the Redeemed"
+        },
+        {
+          "dbf_id": 86544,
+          "popularity": 29.85,
+          "win_rate": 45.0,
+          "name": "Amber Watcher"
+        },
+        {
+          "dbf_id": 77558,
+          "popularity": 12.69,
+          "win_rate": 37.5,
+          "name": "Necrolord Draka"
+        },
+        {
+          "dbf_id": 86661,
+          "popularity": 48.38,
+          "win_rate": 40.0,
+          "name": "The Purator"
+        },
+        {
+          "dbf_id": 72480,
+          "popularity": 8.47,
+          "win_rate": 60.0,
+          "name": "Bootstrap Sunkeneer"
+        },
+        {
+          "dbf_id": 90603,
+          "popularity": 18.18,
+          "win_rate": 50.0,
+          "name": "MC Blingtron"
+        },
+        {
+          "dbf_id": 62347,
+          "popularity": 68.0,
+          "win_rate": 82.35,
+          "name": "Aegwynn, the Guardian"
+        },
+        {
+          "dbf_id": 72024,
+          "popularity": 18.18,
+          "win_rate": 50.0,
+          "name": "Lady Naz'jar"
+        },
+        {
+          "dbf_id": 84390,
+          "popularity": 22.72,
+          "win_rate": 60.0,
+          "name": "Vexallus"
+        },
+        {
+          "dbf_id": 102718,
+          "popularity": 37.5,
+          "win_rate": 50.0,
+          "name": "Darkbishop Benedictus"
+        },
+        {
+          "dbf_id": 84857,
+          "popularity": 50.0,
+          "win_rate": 66.66,
+          "name": "High Cultist Basaleph"
+        },
+        {
+          "dbf_id": 82116,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Rime Sculptor"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

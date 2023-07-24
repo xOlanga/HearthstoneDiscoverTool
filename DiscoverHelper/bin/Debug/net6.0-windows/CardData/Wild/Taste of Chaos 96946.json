@@ -1,0 +1,125 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 84240,
+          "popularity": 26.03,
+          "win_rate": 50.0,
+          "name": "Deal with a Devil"
+        },
+        {
+          "dbf_id": 63682,
+          "popularity": 43.97,
+          "win_rate": 64.38,
+          "name": "Fury (Rank 1)"
+        },
+        {
+          "dbf_id": 60164,
+          "popularity": 16.86,
+          "win_rate": 42.85,
+          "name": "Fel Guardians"
+        },
+        {
+          "dbf_id": 84235,
+          "popularity": 55.41,
+          "win_rate": 60.91,
+          "name": "Unleash Fel"
+        },
+        {
+          "dbf_id": 61127,
+          "popularity": 38.56,
+          "win_rate": 44.06,
+          "name": "Felscream Blast"
+        },
+        {
+          "dbf_id": 57847,
+          "popularity": 22.0,
+          "win_rate": 57.57,
+          "name": "Chaos Nova"
+        },
+        {
+          "dbf_id": 56791,
+          "popularity": 51.67,
+          "win_rate": 54.54,
+          "name": "Chaos Strike"
+        },
+        {
+          "dbf_id": 58183,
+          "popularity": 46.57,
+          "win_rate": 44.11,
+          "name": "Eye Beam"
+        },
+        {
+          "dbf_id": 58610,
+          "popularity": 41.37,
+          "win_rate": 53.33,
+          "name": "Mana Burn"
+        },
+        {
+          "dbf_id": 59869,
+          "popularity": 27.08,
+          "win_rate": 46.15,
+          "name": "Immolation Aura"
+        },
+        {
+          "dbf_id": 79593,
+          "popularity": 16.08,
+          "win_rate": 52.17,
+          "name": "All Fel Breaks Loose"
+        },
+        {
+          "dbf_id": 72984,
+          "popularity": 40.84,
+          "win_rate": 62.06,
+          "name": "Predation"
+        },
+        {
+          "dbf_id": 64393,
+          "popularity": 43.88,
+          "win_rate": 54.09,
+          "name": "Fel Barrage"
+        },
+        {
+          "dbf_id": 56899,
+          "popularity": 40.57,
+          "win_rate": 50.0,
+          "name": "Metamorphosis"
+        },
+        {
+          "dbf_id": 71694,
+          "popularity": 27.53,
+          "win_rate": 47.36,
+          "name": "Multi-Strike"
+        },
+        {
+          "dbf_id": 62845,
+          "popularity": 24.62,
+          "win_rate": 39.39,
+          "name": "Sigil of Flame"
+        },
+        {
+          "dbf_id": 67892,
+          "popularity": 10.0,
+          "win_rate": 53.84,
+          "name": "Sigil of Reckoning"
+        },
+        {
+          "dbf_id": 64665,
+          "popularity": 37.69,
+          "win_rate": 42.85,
+          "name": "Chaos Leech"
+        },
+        {
+          "dbf_id": 59726,
+          "popularity": 18.46,
+          "win_rate": 70.83,
+          "name": "Felosophy"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

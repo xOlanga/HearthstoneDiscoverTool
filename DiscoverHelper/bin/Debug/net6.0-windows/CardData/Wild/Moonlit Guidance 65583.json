@@ -1,0 +1,617 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 73774,
+          "popularity": 42.54,
+          "win_rate": 58.2,
+          "name": "Aquatic Form"
+        },
+        {
+          "dbf_id": 40372,
+          "popularity": 29.99,
+          "win_rate": 66.42,
+          "name": "Jade Idol"
+        },
+        {
+          "dbf_id": 65583,
+          "popularity": 36.87,
+          "win_rate": 56.25,
+          "name": "Moonlit Guidance"
+        },
+        {
+          "dbf_id": 233,
+          "popularity": 51.45,
+          "win_rate": 61.35,
+          "name": "Naturalize"
+        },
+        {
+          "dbf_id": 1802,
+          "popularity": 21.26,
+          "win_rate": 55.69,
+          "name": "Poison Seeds"
+        },
+        {
+          "dbf_id": 79748,
+          "popularity": 58.58,
+          "win_rate": 60.11,
+          "name": "Dew Process"
+        },
+        {
+          "dbf_id": 69550,
+          "popularity": 17.26,
+          "win_rate": 59.16,
+          "name": "Innervate"
+        },
+        {
+          "dbf_id": 47423,
+          "popularity": 43.69,
+          "win_rate": 60.31,
+          "name": "Ferocious Howl"
+        },
+        {
+          "dbf_id": 85046,
+          "popularity": 31.35,
+          "win_rate": 69.32,
+          "name": "Crypt Keeper"
+        },
+        {
+          "dbf_id": 86510,
+          "popularity": 37.66,
+          "win_rate": 67.36,
+          "name": "Rake"
+        },
+        {
+          "dbf_id": 43294,
+          "popularity": 34.99,
+          "win_rate": 62.14,
+          "name": "Branching Paths"
+        },
+        {
+          "dbf_id": 47887,
+          "popularity": 40.42,
+          "win_rate": 60.0,
+          "name": "Biology Project"
+        },
+        {
+          "dbf_id": 69689,
+          "popularity": 31.76,
+          "win_rate": 72.31,
+          "name": "Pounce"
+        },
+        {
+          "dbf_id": 102185,
+          "popularity": 31.09,
+          "win_rate": 61.23,
+          "name": "Solar Eclipse"
+        },
+        {
+          "dbf_id": 94225,
+          "popularity": 50.82,
+          "win_rate": 68.89,
+          "name": "Spread the Word"
+        },
+        {
+          "dbf_id": 94210,
+          "popularity": 27.01,
+          "win_rate": 63.54,
+          "name": "Harmonic Mood"
+        },
+        {
+          "dbf_id": 66953,
+          "popularity": 77.41,
+          "win_rate": 55.3,
+          "name": "Wildheart Guff"
+        },
+        {
+          "dbf_id": 71247,
+          "popularity": 29.18,
+          "win_rate": 56.65,
+          "name": "Scale of Onyxia"
+        },
+        {
+          "dbf_id": 69594,
+          "popularity": 31.73,
+          "win_rate": 55.34,
+          "name": "Nourish"
+        },
+        {
+          "dbf_id": 42656,
+          "popularity": 22.04,
+          "win_rate": 59.51,
+          "name": "Spreading Plague"
+        },
+        {
+          "dbf_id": 94249,
+          "popularity": 55.45,
+          "win_rate": 63.15,
+          "name": "Groovy Cat"
+        },
+        {
+          "dbf_id": 1050,
+          "popularity": 30.9,
+          "win_rate": 64.17,
+          "name": "Claw"
+        },
+        {
+          "dbf_id": 61461,
+          "popularity": 33.98,
+          "win_rate": 69.53,
+          "name": "Umbral Owl"
+        },
+        {
+          "dbf_id": 55033,
+          "popularity": 39.53,
+          "win_rate": 66.99,
+          "name": "Secure the Deck"
+        },
+        {
+          "dbf_id": 59163,
+          "popularity": 34.62,
+          "win_rate": 56.17,
+          "name": "Nature Studies"
+        },
+        {
+          "dbf_id": 39426,
+          "popularity": 28.69,
+          "win_rate": 72.22,
+          "name": "Arcane Giant"
+        },
+        {
+          "dbf_id": 73462,
+          "popularity": 27.32,
+          "win_rate": 60.43,
+          "name": "Flipper Friends"
+        },
+        {
+          "dbf_id": 79767,
+          "popularity": 2.46,
+          "win_rate": 68.75,
+          "name": "Prince Renathal"
+        },
+        {
+          "dbf_id": 61450,
+          "popularity": 37.34,
+          "win_rate": 64.01,
+          "name": "Solar Eclipse"
+        },
+        {
+          "dbf_id": 77761,
+          "popularity": 30.3,
+          "win_rate": 52.69,
+          "name": "Widowbloom Seedsman"
+        },
+        {
+          "dbf_id": 61602,
+          "popularity": 19.35,
+          "win_rate": 72.54,
+          "name": "Moontouched Amulet"
+        },
+        {
+          "dbf_id": 40523,
+          "popularity": 37.64,
+          "win_rate": 54.54,
+          "name": "Jade Blossom"
+        },
+        {
+          "dbf_id": 72504,
+          "popularity": 34.67,
+          "win_rate": 63.53,
+          "name": "Selfish Shellfish"
+        },
+        {
+          "dbf_id": 94204,
+          "popularity": 29.8,
+          "win_rate": 50.96,
+          "name": "Peaceful Piper"
+        },
+        {
+          "dbf_id": 77654,
+          "popularity": 40.28,
+          "win_rate": 58.79,
+          "name": "Planted Evidence"
+        },
+        {
+          "dbf_id": 90749,
+          "popularity": 29.71,
+          "win_rate": 68.96,
+          "name": "E.T.C., Band Manager"
+        },
+        {
+          "dbf_id": 45828,
+          "popularity": 42.59,
+          "win_rate": 54.1,
+          "name": "Oaken Summons"
+        },
+        {
+          "dbf_id": 41081,
+          "popularity": 30.06,
+          "win_rate": 61.8,
+          "name": "Earthen Scales"
+        },
+        {
+          "dbf_id": 48837,
+          "popularity": 40.26,
+          "win_rate": 63.04,
+          "name": "Floop's Glorious Gloop"
+        },
+        {
+          "dbf_id": 48757,
+          "popularity": 28.13,
+          "win_rate": 70.31,
+          "name": "Flobbidinous Floop"
+        },
+        {
+          "dbf_id": 1016,
+          "popularity": 44.59,
+          "win_rate": 61.61,
+          "name": "Coldlight Oracle"
+        },
+        {
+          "dbf_id": 73471,
+          "popularity": 21.8,
+          "win_rate": 60.63,
+          "name": "Miracle Growth"
+        },
+        {
+          "dbf_id": 78202,
+          "popularity": 32.77,
+          "win_rate": 58.39,
+          "name": "Hedge Maze"
+        },
+        {
+          "dbf_id": 85051,
+          "popularity": 29.23,
+          "win_rate": 59.66,
+          "name": "Chitinous Plating"
+        },
+        {
+          "dbf_id": 46107,
+          "popularity": 28.11,
+          "win_rate": 51.54,
+          "name": "Twig of the World Tree"
+        },
+        {
+          "dbf_id": 59151,
+          "popularity": 17.73,
+          "win_rate": 50.81,
+          "name": "Sphere of Sapience"
+        },
+        {
+          "dbf_id": 69513,
+          "popularity": 21.45,
+          "win_rate": 61.97,
+          "name": "Wild Growth"
+        },
+        {
+          "dbf_id": 94218,
+          "popularity": 61.7,
+          "win_rate": 55.38,
+          "name": "Free Spirit"
+        },
+        {
+          "dbf_id": 53551,
+          "popularity": 23.52,
+          "win_rate": 48.61,
+          "name": "BEEEES!!!"
+        },
+        {
+          "dbf_id": 60016,
+          "popularity": 39.11,
+          "win_rate": 57.39,
+          "name": "Lightning Bloom"
+        },
+        {
+          "dbf_id": 61503,
+          "popularity": 98.23,
+          "win_rate": 87.81,
+          "name": "C'Thun, the Shattered"
+        },
+        {
+          "dbf_id": 2949,
+          "popularity": 27.81,
+          "win_rate": 67.08,
+          "name": "Brann Bronzebeard"
+        },
+        {
+          "dbf_id": 85047,
+          "popularity": 34.51,
+          "win_rate": 54.63,
+          "name": "Unending Swarm"
+        },
+        {
+          "dbf_id": 467,
+          "popularity": 27.61,
+          "win_rate": 52.7,
+          "name": "Moonfire"
+        },
+        {
+          "dbf_id": 69688,
+          "popularity": 29.69,
+          "win_rate": 54.43,
+          "name": "Feral Rage"
+        },
+        {
+          "dbf_id": 79584,
+          "popularity": 26.31,
+          "win_rate": 71.42,
+          "name": "Insatiable Devourer"
+        },
+        {
+          "dbf_id": 70320,
+          "popularity": 28.34,
+          "win_rate": 44.28,
+          "name": "Capture Coldtooth Mine"
+        },
+        {
+          "dbf_id": 75881,
+          "popularity": 53.33,
+          "win_rate": 67.96,
+          "name": "Sire Denathrius"
+        },
+        {
+          "dbf_id": 47117,
+          "popularity": 31.71,
+          "win_rate": 44.44,
+          "name": "Witching Hour"
+        },
+        {
+          "dbf_id": 52438,
+          "popularity": 22.76,
+          "win_rate": 58.82,
+          "name": "Archmage Vargoth"
+        },
+        {
+          "dbf_id": 86626,
+          "popularity": 59.19,
+          "win_rate": 65.15,
+          "name": "Astalor Bloodsworn"
+        },
+        {
+          "dbf_id": 56686,
+          "popularity": 22.42,
+          "win_rate": 52.0,
+          "name": "Bogbeam"
+        },
+        {
+          "dbf_id": 64,
+          "popularity": 27.14,
+          "win_rate": 45.0,
+          "name": "Swipe"
+        },
+        {
+          "dbf_id": 76288,
+          "popularity": 22.58,
+          "win_rate": 53.06,
+          "name": "Wrath"
+        },
+        {
+          "dbf_id": 65584,
+          "popularity": 23.5,
+          "win_rate": 49.01,
+          "name": "Jerry Rig Carpenter"
+        },
+        {
+          "dbf_id": 42759,
+          "popularity": 20.38,
+          "win_rate": 64.28,
+          "name": "Ultimate Infestation"
+        },
+        {
+          "dbf_id": 85052,
+          "popularity": 34.48,
+          "win_rate": 54.28,
+          "name": "Underking"
+        },
+        {
+          "dbf_id": 63040,
+          "popularity": 33.16,
+          "win_rate": 44.77,
+          "name": "Celestial Alignment"
+        },
+        {
+          "dbf_id": 53979,
+          "popularity": 22.38,
+          "win_rate": 68.88,
+          "name": "Overflow"
+        },
+        {
+          "dbf_id": 62548,
+          "popularity": 4.97,
+          "win_rate": 60.0,
+          "name": "Injured Marauder"
+        },
+        {
+          "dbf_id": 64201,
+          "popularity": 27.97,
+          "win_rate": 61.11,
+          "name": "Oracle of Elune"
+        },
+        {
+          "dbf_id": 64337,
+          "popularity": 32.25,
+          "win_rate": 63.33,
+          "name": "Park Panther"
+        },
+        {
+          "dbf_id": 71333,
+          "popularity": 40.43,
+          "win_rate": 70.27,
+          "name": "Raid Boss Onyxia"
+        },
+        {
+          "dbf_id": 69664,
+          "popularity": 37.71,
+          "win_rate": 45.45,
+          "name": "Gadgetzan Auctioneer"
+        },
+        {
+          "dbf_id": 102187,
+          "popularity": 19.07,
+          "win_rate": 60.6,
+          "name": "Lunar Eclipse"
+        },
+        {
+          "dbf_id": 76289,
+          "popularity": 24.41,
+          "win_rate": 57.14,
+          "name": "Living Roots"
+        },
+        {
+          "dbf_id": 76310,
+          "popularity": 28.74,
+          "win_rate": 58.33,
+          "name": "Zola the Gorgon"
+        },
+        {
+          "dbf_id": 67237,
+          "popularity": 10.0,
+          "win_rate": 25.0,
+          "name": "Spammy Arcanist"
+        },
+        {
+          "dbf_id": 85054,
+          "popularity": 29.29,
+          "win_rate": 52.17,
+          "name": "Anub'Rekhan"
+        },
+        {
+          "dbf_id": 61449,
+          "popularity": 26.11,
+          "win_rate": 43.9,
+          "name": "Lunar Eclipse"
+        },
+        {
+          "dbf_id": 50416,
+          "popularity": 17.94,
+          "win_rate": 46.42,
+          "name": "Linecracker"
+        },
+        {
+          "dbf_id": 79782,
+          "popularity": 20.64,
+          "win_rate": 59.37,
+          "name": "The Jailer"
+        },
+        {
+          "dbf_id": 77679,
+          "popularity": 55.19,
+          "win_rate": 68.23,
+          "name": "Topior the Shrubbagazzor"
+        },
+        {
+          "dbf_id": 43288,
+          "popularity": 20.0,
+          "win_rate": 56.66,
+          "name": "Lesser Jasper Spellstone"
+        },
+        {
+          "dbf_id": 79757,
+          "popularity": 21.62,
+          "win_rate": 59.37,
+          "name": "Attorney-at-Maw"
+        },
+        {
+          "dbf_id": 56680,
+          "popularity": 27.33,
+          "win_rate": 42.1,
+          "name": "Overgrowth"
+        },
+        {
+          "dbf_id": 86725,
+          "popularity": 23.84,
+          "win_rate": 61.29,
+          "name": "Rivendare, Warrider"
+        },
+        {
+          "dbf_id": 61622,
+          "popularity": 30.0,
+          "win_rate": 61.53,
+          "name": "Prize Vendor"
+        },
+        {
+          "dbf_id": 56677,
+          "popularity": 24.6,
+          "win_rate": 61.29,
+          "name": "Fungal Fortunes"
+        },
+        {
+          "dbf_id": 92237,
+          "popularity": 21.77,
+          "win_rate": 51.85,
+          "name": "Tony, King of Piracy"
+        },
+        {
+          "dbf_id": 65580,
+          "popularity": 17.21,
+          "win_rate": 52.38,
+          "name": "Druid of the Reef"
+        },
+        {
+          "dbf_id": 64712,
+          "popularity": 30.0,
+          "win_rate": 63.88,
+          "name": "Northshire Farmer"
+        },
+        {
+          "dbf_id": 63030,
+          "popularity": 30.0,
+          "win_rate": 41.66,
+          "name": "Living Seed (Rank 1)"
+        },
+        {
+          "dbf_id": 102186,
+          "popularity": 28.31,
+          "win_rate": 46.87,
+          "name": "Kiri, Chosen of Elune"
+        },
+        {
+          "dbf_id": 62583,
+          "popularity": 36.6,
+          "win_rate": 65.85,
+          "name": "Far Watch Post"
+        },
+        {
+          "dbf_id": 56684,
+          "popularity": 22.72,
+          "win_rate": 68.0,
+          "name": "Ironbark"
+        },
+        {
+          "dbf_id": 86508,
+          "popularity": 25.45,
+          "win_rate": 53.57,
+          "name": "Life from Death"
+        },
+        {
+          "dbf_id": 773,
+          "popularity": 16.51,
+          "win_rate": 66.66,
+          "name": "Healing Touch"
+        },
+        {
+          "dbf_id": 56678,
+          "popularity": 23.36,
+          "win_rate": 56.0,
+          "name": "Germination"
+        },
+        {
+          "dbf_id": 38496,
+          "popularity": 30.39,
+          "win_rate": 41.93,
+          "name": "N'Zoth, the Corruptor"
+        },
+        {
+          "dbf_id": 2595,
+          "popularity": 37.25,
+          "win_rate": 57.89,
+          "name": "Bolf Ramshield"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

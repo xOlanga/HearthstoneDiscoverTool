@@ -1,0 +1,107 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 42442,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Cobalt Scalebane"
+        },
+        {
+          "dbf_id": 43494,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sleepy Dragon"
+        },
+        {
+          "dbf_id": 47924,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Mechanical Whelp"
+        },
+        {
+          "dbf_id": 66864,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Alexstrasza the Life-Binder"
+        },
+        {
+          "dbf_id": 43507,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Hoarding Dragon"
+        },
+        {
+          "dbf_id": 47488,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Houndmaster Shaw"
+        },
+        {
+          "dbf_id": 41304,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Terrorscale Stalker"
+        },
+        {
+          "dbf_id": 59948,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Plagued Protodrake"
+        },
+        {
+          "dbf_id": 2257,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Drakonid Crusher"
+        },
+        {
+          "dbf_id": 41259,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Devilsaur Egg"
+        },
+        {
+          "dbf_id": 57186,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Dragonmaw Sky Stalker"
+        },
+        {
+          "dbf_id": 834,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Deathwing"
+        },
+        {
+          "dbf_id": 71684,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Kazakusan"
+        },
+        {
+          "dbf_id": 58971,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Onyx Magescribe"
+        },
+        {
+          "dbf_id": 55423,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Evasive Feywing"
+        },
+        {
+          "dbf_id": 411,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Nozdormu"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

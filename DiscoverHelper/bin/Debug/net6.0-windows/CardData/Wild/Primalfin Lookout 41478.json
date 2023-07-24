@@ -1,0 +1,425 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 73906,
+          "popularity": 61.11,
+          "win_rate": 50.0,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 510,
+          "popularity": 14.28,
+          "win_rate": 25.0,
+          "name": "Grimscale Oracle"
+        },
+        {
+          "dbf_id": 1016,
+          "popularity": 37.03,
+          "win_rate": 70.0,
+          "name": "Coldlight Oracle"
+        },
+        {
+          "dbf_id": 54191,
+          "popularity": 25.92,
+          "win_rate": 42.85,
+          "name": "Fishflinger"
+        },
+        {
+          "dbf_id": 40803,
+          "popularity": 36.0,
+          "win_rate": 55.55,
+          "name": "Finja, the Flying Star"
+        },
+        {
+          "dbf_id": 92243,
+          "popularity": 40.0,
+          "win_rate": 70.0,
+          "name": "Crowd Surfer"
+        },
+        {
+          "dbf_id": 71729,
+          "popularity": 34.78,
+          "win_rate": 37.5,
+          "name": "Slimescale Diver"
+        },
+        {
+          "dbf_id": 79935,
+          "popularity": 30.43,
+          "win_rate": 28.57,
+          "name": "Murloc Holmes"
+        },
+        {
+          "dbf_id": 72021,
+          "popularity": 36.36,
+          "win_rate": 50.0,
+          "name": "Gorloc Ravager"
+        },
+        {
+          "dbf_id": 52277,
+          "popularity": 50.0,
+          "win_rate": 63.63,
+          "name": "Toxfin"
+        },
+        {
+          "dbf_id": 2948,
+          "popularity": 31.81,
+          "win_rate": 85.71,
+          "name": "Sir Finley Mrrgglton"
+        },
+        {
+          "dbf_id": 38538,
+          "popularity": 9.52,
+          "win_rate": 0.0,
+          "name": "Bilefin Tidehunter"
+        },
+        {
+          "dbf_id": 739,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Bluegill Warrior"
+        },
+        {
+          "dbf_id": 56393,
+          "popularity": 52.38,
+          "win_rate": 45.45,
+          "name": "Felfin Navigator"
+        },
+        {
+          "dbf_id": 59911,
+          "popularity": 47.61,
+          "win_rate": 50.0,
+          "name": "Fishy Flyer"
+        },
+        {
+          "dbf_id": 38545,
+          "popularity": 23.8,
+          "win_rate": 80.0,
+          "name": "Corrupted Seer"
+        },
+        {
+          "dbf_id": 736,
+          "popularity": 55.0,
+          "win_rate": 54.54,
+          "name": "Old Murk-Eye"
+        },
+        {
+          "dbf_id": 72250,
+          "popularity": 30.0,
+          "win_rate": 66.66,
+          "name": "Redgill Razorjaw"
+        },
+        {
+          "dbf_id": 86132,
+          "popularity": 42.1,
+          "win_rate": 62.5,
+          "name": "Rotgill"
+        },
+        {
+          "dbf_id": 40493,
+          "popularity": 26.31,
+          "win_rate": 60.0,
+          "name": "Blowgill Sniper"
+        },
+        {
+          "dbf_id": 61969,
+          "popularity": 31.57,
+          "win_rate": 50.0,
+          "name": "Crabrider"
+        },
+        {
+          "dbf_id": 61428,
+          "popularity": 31.57,
+          "win_rate": 16.66,
+          "name": "Circus Amalgam"
+        },
+        {
+          "dbf_id": 61622,
+          "popularity": 11.11,
+          "win_rate": 50.0,
+          "name": "Prize Vendor"
+        },
+        {
+          "dbf_id": 78155,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "Murlocula"
+        },
+        {
+          "dbf_id": 71781,
+          "popularity": 44.44,
+          "win_rate": 62.5,
+          "name": "Sir Finley, Sea Guide"
+        },
+        {
+          "dbf_id": 453,
+          "popularity": 44.44,
+          "win_rate": 75.0,
+          "name": "Coldlight Seer"
+        },
+        {
+          "dbf_id": 2032,
+          "popularity": 11.11,
+          "win_rate": 0.0,
+          "name": "Puddlestomper"
+        },
+        {
+          "dbf_id": 55208,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Tasty Flyfish"
+        },
+        {
+          "dbf_id": 62484,
+          "popularity": 41.17,
+          "win_rate": 42.85,
+          "name": "Lushwater Scout"
+        },
+        {
+          "dbf_id": 63398,
+          "popularity": 82.35,
+          "win_rate": 35.71,
+          "name": "Mutanus the Devourer"
+        },
+        {
+          "dbf_id": 42663,
+          "popularity": 23.52,
+          "win_rate": 50.0,
+          "name": "Deadscale Knight"
+        },
+        {
+          "dbf_id": 55422,
+          "popularity": 11.76,
+          "win_rate": 100.0,
+          "name": "Skyfin"
+        },
+        {
+          "dbf_id": 191,
+          "popularity": 5.88,
+          "win_rate": 100.0,
+          "name": "Murloc Raider"
+        },
+        {
+          "dbf_id": 63509,
+          "popularity": 29.41,
+          "win_rate": 20.0,
+          "name": "Spawnpool Forager"
+        },
+        {
+          "dbf_id": 51724,
+          "popularity": 62.5,
+          "win_rate": 70.0,
+          "name": "Underbelly Angler"
+        },
+        {
+          "dbf_id": 87317,
+          "popularity": 12.5,
+          "win_rate": 50.0,
+          "name": "Mistake"
+        },
+        {
+          "dbf_id": 90543,
+          "popularity": 50.0,
+          "win_rate": 87.5,
+          "name": "The One-Amalgam Band"
+        },
+        {
+          "dbf_id": 86502,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Frostfin Chomper"
+        },
+        {
+          "dbf_id": 74652,
+          "popularity": 31.25,
+          "win_rate": 40.0,
+          "name": "Twin-fin Fin Twin"
+        },
+        {
+          "dbf_id": 13879,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Murloc Tinyfin"
+        },
+        {
+          "dbf_id": 75589,
+          "popularity": 60.0,
+          "win_rate": 66.66,
+          "name": "Clownfish"
+        },
+        {
+          "dbf_id": 41245,
+          "popularity": 26.66,
+          "win_rate": 75.0,
+          "name": "Rockpool Hunter"
+        },
+        {
+          "dbf_id": 62483,
+          "popularity": 26.66,
+          "win_rate": 25.0,
+          "name": "Lushwater Murcenary"
+        },
+        {
+          "dbf_id": 62515,
+          "popularity": 42.85,
+          "win_rate": 83.33,
+          "name": "South Coast Chieftain"
+        },
+        {
+          "dbf_id": 50402,
+          "popularity": 21.42,
+          "win_rate": 66.66,
+          "name": "Murloc Tastyfin"
+        },
+        {
+          "dbf_id": 76270,
+          "popularity": 28.57,
+          "win_rate": 75.0,
+          "name": "Murloc Warleader"
+        },
+        {
+          "dbf_id": 65700,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Cookie the Cook"
+        },
+        {
+          "dbf_id": 49502,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Nightmare Amalgam"
+        },
+        {
+          "dbf_id": 54730,
+          "popularity": 7.14,
+          "win_rate": 100.0,
+          "name": "Murmy"
+        },
+        {
+          "dbf_id": 63272,
+          "popularity": 84.61,
+          "win_rate": 54.54,
+          "name": "Firemancer Flurgl"
+        },
+        {
+          "dbf_id": 2008,
+          "popularity": 15.38,
+          "win_rate": 50.0,
+          "name": "Siltfin Spiritwalker"
+        },
+        {
+          "dbf_id": 72418,
+          "popularity": 15.38,
+          "win_rate": 50.0,
+          "name": "Piranha Poacher"
+        },
+        {
+          "dbf_id": 52422,
+          "popularity": 8.33,
+          "win_rate": 100.0,
+          "name": "Sludge Slurper"
+        },
+        {
+          "dbf_id": 976,
+          "popularity": 27.27,
+          "win_rate": 66.66,
+          "name": "Murloc Tidehunter"
+        },
+        {
+          "dbf_id": 92227,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Saxophone Soloist"
+        },
+        {
+          "dbf_id": 47600,
+          "popularity": 40.0,
+          "win_rate": 25.0,
+          "name": "Ghost Light Angler"
+        },
+        {
+          "dbf_id": 52636,
+          "popularity": 90.0,
+          "win_rate": 33.33,
+          "name": "Scargil"
+        },
+        {
+          "dbf_id": 75586,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Tidelost Burrower"
+        },
+        {
+          "dbf_id": 42678,
+          "popularity": 30.0,
+          "win_rate": 33.33,
+          "name": "Brrrloc"
+        },
+        {
+          "dbf_id": 61229,
+          "popularity": 40.0,
+          "win_rate": 75.0,
+          "name": "Magicfin"
+        },
+        {
+          "dbf_id": 69675,
+          "popularity": 37.5,
+          "win_rate": 33.33,
+          "name": "Murloc Tidecaller"
+        },
+        {
+          "dbf_id": 475,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Murloc Tidecaller"
+        },
+        {
+          "dbf_id": 71924,
+          "popularity": 50.0,
+          "win_rate": 66.66,
+          "name": "Voidgill"
+        },
+        {
+          "dbf_id": 1063,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Murloc Warleader"
+        },
+        {
+          "dbf_id": 65619,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Brilliant Macaw"
+        },
+        {
+          "dbf_id": 64774,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Bolner Hammerbeak"
+        },
+        {
+          "dbf_id": 56392,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Imprisoned Sungill"
+        },
+        {
+          "dbf_id": 76926,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Bloodscent Vilefin"
+        },
+        {
+          "dbf_id": 69666,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Coldlight Seer"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

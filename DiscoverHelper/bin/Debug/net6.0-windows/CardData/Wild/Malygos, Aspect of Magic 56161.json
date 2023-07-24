@@ -1,0 +1,65 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 56175,
+          "popularity": 27.16,
+          "win_rate": 59.09,
+          "name": "Malygos's Missiles"
+        },
+        {
+          "dbf_id": 56173,
+          "popularity": 54.65,
+          "win_rate": 67.04,
+          "name": "Malygos's Fireball"
+        },
+        {
+          "dbf_id": 56170,
+          "popularity": 43.04,
+          "win_rate": 50.76,
+          "name": "Malygos's Flamestrike"
+        },
+        {
+          "dbf_id": 56165,
+          "popularity": 32.43,
+          "win_rate": 47.91,
+          "name": "Malygos's Tome"
+        },
+        {
+          "dbf_id": 56171,
+          "popularity": 38.51,
+          "win_rate": 57.89,
+          "name": "Malygos's Frostbolt"
+        },
+        {
+          "dbf_id": 56169,
+          "popularity": 42.33,
+          "win_rate": 56.89,
+          "name": "Malygos's Polymorph"
+        },
+        {
+          "dbf_id": 56167,
+          "popularity": 20.45,
+          "win_rate": 51.85,
+          "name": "Malygos's Explosion"
+        },
+        {
+          "dbf_id": 56168,
+          "popularity": 16.0,
+          "win_rate": 65.0,
+          "name": "Malygos's Nova"
+        },
+        {
+          "dbf_id": 56164,
+          "popularity": 15.74,
+          "win_rate": 70.58,
+          "name": "Malygos's Intellect"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

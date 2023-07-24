@@ -1,0 +1,53 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 229,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Steady Shot"
+        },
+        {
+          "dbf_id": 472,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Reinforce"
+        },
+        {
+          "dbf_id": 725,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Armor Up!"
+        },
+        {
+          "dbf_id": 807,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Fireblast"
+        },
+        {
+          "dbf_id": 687,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Totemic Call"
+        },
+        {
+          "dbf_id": 78162,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ghoul Charge"
+        },
+        {
+          "dbf_id": 300,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Life Tap"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

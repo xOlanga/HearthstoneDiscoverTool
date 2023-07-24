@@ -1,0 +1,413 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 43494,
+          "popularity": 30.76,
+          "win_rate": 56.25,
+          "name": "Sleepy Dragon"
+        },
+        {
+          "dbf_id": 58973,
+          "popularity": 14.28,
+          "win_rate": 71.42,
+          "name": "Crimson Hothead"
+        },
+        {
+          "dbf_id": 436,
+          "popularity": 12.24,
+          "win_rate": 66.66,
+          "name": "Malygos"
+        },
+        {
+          "dbf_id": 87317,
+          "popularity": 12.5,
+          "win_rate": 16.66,
+          "name": "Mistake"
+        },
+        {
+          "dbf_id": 76329,
+          "popularity": 6.25,
+          "win_rate": 66.66,
+          "name": "Faerie Dragon"
+        },
+        {
+          "dbf_id": 581,
+          "popularity": 59.57,
+          "win_rate": 57.14,
+          "name": "Alexstrasza"
+        },
+        {
+          "dbf_id": 66868,
+          "popularity": 36.95,
+          "win_rate": 41.17,
+          "name": "Ysera the Dreamer"
+        },
+        {
+          "dbf_id": 42442,
+          "popularity": 32.6,
+          "win_rate": 80.0,
+          "name": "Cobalt Scalebane"
+        },
+        {
+          "dbf_id": 55399,
+          "popularity": 31.11,
+          "win_rate": 57.14,
+          "name": "Big Ol' Whelp"
+        },
+        {
+          "dbf_id": 2280,
+          "popularity": 35.55,
+          "win_rate": 62.5,
+          "name": "Chromaggus"
+        },
+        {
+          "dbf_id": 61963,
+          "popularity": 40.9,
+          "win_rate": 66.66,
+          "name": "Dreaming Drake"
+        },
+        {
+          "dbf_id": 2261,
+          "popularity": 43.18,
+          "win_rate": 42.1,
+          "name": "Nefarian"
+        },
+        {
+          "dbf_id": 54935,
+          "popularity": 50.0,
+          "win_rate": 45.45,
+          "name": "Evasive Drakonid"
+        },
+        {
+          "dbf_id": 73906,
+          "popularity": 54.54,
+          "win_rate": 62.5,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 49502,
+          "popularity": 6.81,
+          "win_rate": 66.66,
+          "name": "Nightmare Amalgam"
+        },
+        {
+          "dbf_id": 57186,
+          "popularity": 39.53,
+          "win_rate": 82.35,
+          "name": "Dragonmaw Sky Stalker"
+        },
+        {
+          "dbf_id": 1186,
+          "popularity": 45.23,
+          "win_rate": 42.1,
+          "name": "Ysera"
+        },
+        {
+          "dbf_id": 43465,
+          "popularity": 7.14,
+          "win_rate": 33.33,
+          "name": "Ebon Dragonsmith"
+        },
+        {
+          "dbf_id": 38832,
+          "popularity": 23.8,
+          "win_rate": 70.0,
+          "name": "Scaled Nightmare"
+        },
+        {
+          "dbf_id": 363,
+          "popularity": 21.95,
+          "win_rate": 66.66,
+          "name": "Onyxia"
+        },
+        {
+          "dbf_id": 84387,
+          "popularity": 48.78,
+          "win_rate": 70.0,
+          "name": "Amber Whelp"
+        },
+        {
+          "dbf_id": 2306,
+          "popularity": 2.5,
+          "win_rate": 0.0,
+          "name": "Dragonkin Sorcerer"
+        },
+        {
+          "dbf_id": 2682,
+          "popularity": 35.0,
+          "win_rate": 57.14,
+          "name": "Chillmaw"
+        },
+        {
+          "dbf_id": 39210,
+          "popularity": 27.5,
+          "win_rate": 54.54,
+          "name": "Book Wyrm"
+        },
+        {
+          "dbf_id": 55425,
+          "popularity": 40.0,
+          "win_rate": 62.5,
+          "name": "Cobalt Spellkin"
+        },
+        {
+          "dbf_id": 71226,
+          "popularity": 48.71,
+          "win_rate": 57.89,
+          "name": "Onyxian Warder"
+        },
+        {
+          "dbf_id": 71333,
+          "popularity": 69.23,
+          "win_rate": 66.66,
+          "name": "Raid Boss Onyxia"
+        },
+        {
+          "dbf_id": 54960,
+          "popularity": 38.46,
+          "win_rate": 53.33,
+          "name": "Twin Tyrant"
+        },
+        {
+          "dbf_id": 38957,
+          "popularity": 15.38,
+          "win_rate": 33.33,
+          "name": "Midnight Drake"
+        },
+        {
+          "dbf_id": 55030,
+          "popularity": 68.42,
+          "win_rate": 65.38,
+          "name": "Ysera, Unleashed"
+        },
+        {
+          "dbf_id": 51816,
+          "popularity": 47.36,
+          "win_rate": 66.66,
+          "name": "Crowd Roaster"
+        },
+        {
+          "dbf_id": 47924,
+          "popularity": 23.68,
+          "win_rate": 88.88,
+          "name": "Mechanical Whelp"
+        },
+        {
+          "dbf_id": 41929,
+          "popularity": 39.47,
+          "win_rate": 60.0,
+          "name": "Primordial Drake"
+        },
+        {
+          "dbf_id": 77679,
+          "popularity": 52.63,
+          "win_rate": 75.0,
+          "name": "Topior the Shrubbagazzor"
+        },
+        {
+          "dbf_id": 2257,
+          "popularity": 5.26,
+          "win_rate": 50.0,
+          "name": "Drakonid Crusher"
+        },
+        {
+          "dbf_id": 90543,
+          "popularity": 37.83,
+          "win_rate": 57.14,
+          "name": "The One-Amalgam Band"
+        },
+        {
+          "dbf_id": 58971,
+          "popularity": 48.64,
+          "win_rate": 77.77,
+          "name": "Onyx Magescribe"
+        },
+        {
+          "dbf_id": 55422,
+          "popularity": 44.44,
+          "win_rate": 62.5,
+          "name": "Skyfin"
+        },
+        {
+          "dbf_id": 61972,
+          "popularity": 47.22,
+          "win_rate": 47.05,
+          "name": "Runaway Blackwing"
+        },
+        {
+          "dbf_id": 66872,
+          "popularity": 25.0,
+          "win_rate": 55.55,
+          "name": "Deathwing the Destroyer"
+        },
+        {
+          "dbf_id": 38943,
+          "popularity": 19.44,
+          "win_rate": 57.14,
+          "name": "Deathwing, Dragonlord"
+        },
+        {
+          "dbf_id": 50412,
+          "popularity": 22.85,
+          "win_rate": 62.5,
+          "name": "Dragonmaw Scorcher"
+        },
+        {
+          "dbf_id": 43507,
+          "popularity": 14.28,
+          "win_rate": 60.0,
+          "name": "Hoarding Dragon"
+        },
+        {
+          "dbf_id": 61428,
+          "popularity": 22.85,
+          "win_rate": 62.5,
+          "name": "Circus Amalgam"
+        },
+        {
+          "dbf_id": 66870,
+          "popularity": 11.42,
+          "win_rate": 75.0,
+          "name": "Nozdormu the Eternal"
+        },
+        {
+          "dbf_id": 2569,
+          "popularity": 31.42,
+          "win_rate": 72.72,
+          "name": "Twilight Guardian"
+        },
+        {
+          "dbf_id": 2283,
+          "popularity": 14.7,
+          "win_rate": 80.0,
+          "name": "Hungry Dragon"
+        },
+        {
+          "dbf_id": 55423,
+          "popularity": 26.47,
+          "win_rate": 22.22,
+          "name": "Evasive Feywing"
+        },
+        {
+          "dbf_id": 47607,
+          "popularity": 2.94,
+          "win_rate": 100.0,
+          "name": "Marsh Drake"
+        },
+        {
+          "dbf_id": 66869,
+          "popularity": 29.41,
+          "win_rate": 50.0,
+          "name": "Malygos the Spellweaver"
+        },
+        {
+          "dbf_id": 59948,
+          "popularity": 47.05,
+          "win_rate": 56.25,
+          "name": "Plagued Protodrake"
+        },
+        {
+          "dbf_id": 42439,
+          "popularity": 26.47,
+          "win_rate": 44.44,
+          "name": "Bone Drake"
+        },
+        {
+          "dbf_id": 55441,
+          "popularity": 54.54,
+          "win_rate": 55.55,
+          "name": "Dragonqueen Alexstrasza"
+        },
+        {
+          "dbf_id": 71684,
+          "popularity": 51.51,
+          "win_rate": 41.17,
+          "name": "Kazakusan"
+        },
+        {
+          "dbf_id": 2258,
+          "popularity": 33.33,
+          "win_rate": 81.81,
+          "name": "Volcanic Drake"
+        },
+        {
+          "dbf_id": 834,
+          "popularity": 12.12,
+          "win_rate": 0.0,
+          "name": "Deathwing"
+        },
+        {
+          "dbf_id": 91659,
+          "popularity": 75.0,
+          "win_rate": 50.0,
+          "name": "Concert Promo-Drake"
+        },
+        {
+          "dbf_id": 66864,
+          "popularity": 78.12,
+          "win_rate": 64.0,
+          "name": "Alexstrasza the Life-Binder"
+        },
+        {
+          "dbf_id": 66866,
+          "popularity": 18.75,
+          "win_rate": 50.0,
+          "name": "Onyxia the Broodmother"
+        },
+        {
+          "dbf_id": 411,
+          "popularity": 21.87,
+          "win_rate": 57.14,
+          "name": "Nozdormu"
+        },
+        {
+          "dbf_id": 76325,
+          "popularity": 13.79,
+          "win_rate": 50.0,
+          "name": "Twilight Drake"
+        },
+        {
+          "dbf_id": 55429,
+          "popularity": 62.96,
+          "win_rate": 47.05,
+          "name": "Evasive Wyrm"
+        },
+        {
+          "dbf_id": 825,
+          "popularity": 57.89,
+          "win_rate": 72.72,
+          "name": "Azure Drake"
+        },
+        {
+          "dbf_id": 76324,
+          "popularity": 37.5,
+          "win_rate": 50.0,
+          "name": "Azure Drake"
+        },
+        {
+          "dbf_id": 1037,
+          "popularity": 33.33,
+          "win_rate": 80.0,
+          "name": "Twilight Drake"
+        },
+        {
+          "dbf_id": 46862,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Nightscale Matriarch"
+        },
+        {
+          "dbf_id": 56161,
+          "popularity": 100.0,
+          "win_rate": 66.66,
+          "name": "Malygos, Aspect of Magic"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

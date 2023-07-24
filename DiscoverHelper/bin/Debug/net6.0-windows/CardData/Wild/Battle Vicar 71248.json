@@ -1,0 +1,371 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 43382,
+          "popularity": 20.0,
+          "win_rate": 42.85,
+          "name": "Lesser Pearl Spellstone"
+        },
+        {
+          "dbf_id": 86228,
+          "popularity": 58.46,
+          "win_rate": 60.52,
+          "name": "The Sunwell"
+        },
+        {
+          "dbf_id": 73424,
+          "popularity": 31.74,
+          "win_rate": 55.0,
+          "name": "Holy Maki Roll"
+        },
+        {
+          "dbf_id": 50028,
+          "popularity": 41.93,
+          "win_rate": 42.3,
+          "name": "Flash of Light"
+        },
+        {
+          "dbf_id": 39716,
+          "popularity": 34.42,
+          "win_rate": 57.14,
+          "name": "Silvermoon Portal"
+        },
+        {
+          "dbf_id": 90689,
+          "popularity": 16.66,
+          "win_rate": 60.0,
+          "name": "Boogie Down"
+        },
+        {
+          "dbf_id": 62947,
+          "popularity": 28.81,
+          "win_rate": 70.58,
+          "name": "Conviction (Rank 1)"
+        },
+        {
+          "dbf_id": 435,
+          "popularity": 11.86,
+          "win_rate": 57.14,
+          "name": "Holy Wrath"
+        },
+        {
+          "dbf_id": 59583,
+          "popularity": 25.86,
+          "win_rate": 46.66,
+          "name": "Blessing of Authority"
+        },
+        {
+          "dbf_id": 53827,
+          "popularity": 29.31,
+          "win_rate": 58.82,
+          "name": "Pharaoh's Blessing"
+        },
+        {
+          "dbf_id": 70,
+          "popularity": 31.57,
+          "win_rate": 72.22,
+          "name": "Blessing of Might"
+        },
+        {
+          "dbf_id": 65591,
+          "popularity": 59.64,
+          "win_rate": 52.94,
+          "name": "Righteous Defense"
+        },
+        {
+          "dbf_id": 64661,
+          "popularity": 41.07,
+          "win_rate": 65.21,
+          "name": "Blessed Goods"
+        },
+        {
+          "dbf_id": 2025,
+          "popularity": 37.5,
+          "win_rate": 42.85,
+          "name": "Seal of Light"
+        },
+        {
+          "dbf_id": 38913,
+          "popularity": 51.78,
+          "win_rate": 62.06,
+          "name": "A Light in the Darkness"
+        },
+        {
+          "dbf_id": 232,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Repentance"
+        },
+        {
+          "dbf_id": 2899,
+          "popularity": 21.81,
+          "win_rate": 25.0,
+          "name": "Sacred Trial"
+        },
+        {
+          "dbf_id": 90694,
+          "popularity": 30.9,
+          "win_rate": 47.05,
+          "name": "Spotlight"
+        },
+        {
+          "dbf_id": 1373,
+          "popularity": 21.81,
+          "win_rate": 50.0,
+          "name": "Blessing of Wisdom"
+        },
+        {
+          "dbf_id": 62921,
+          "popularity": 40.0,
+          "win_rate": 59.09,
+          "name": "Judgment of Justice"
+        },
+        {
+          "dbf_id": 462,
+          "popularity": 22.22,
+          "win_rate": 41.66,
+          "name": "Eye for an Eye"
+        },
+        {
+          "dbf_id": 57546,
+          "popularity": 52.83,
+          "win_rate": 42.85,
+          "name": "Hand of A'dal"
+        },
+        {
+          "dbf_id": 594,
+          "popularity": 17.3,
+          "win_rate": 44.44,
+          "name": "Lay on Hands"
+        },
+        {
+          "dbf_id": 80112,
+          "popularity": 28.84,
+          "win_rate": 66.66,
+          "name": "Immortalized in Stone"
+        },
+        {
+          "dbf_id": 78085,
+          "popularity": 42.3,
+          "win_rate": 40.9,
+          "name": "Divine Toll"
+        },
+        {
+          "dbf_id": 38749,
+          "popularity": 32.69,
+          "win_rate": 52.94,
+          "name": "Divine Strength"
+        },
+        {
+          "dbf_id": 88580,
+          "popularity": 42.3,
+          "win_rate": 50.0,
+          "name": "Harmonic Disco"
+        },
+        {
+          "dbf_id": 2717,
+          "popularity": 54.9,
+          "win_rate": 42.85,
+          "name": "Seal of Champions"
+        },
+        {
+          "dbf_id": 56394,
+          "popularity": 27.45,
+          "win_rate": 57.14,
+          "name": "Libram of Justice"
+        },
+        {
+          "dbf_id": 56555,
+          "popularity": 37.25,
+          "win_rate": 42.1,
+          "name": "Libram of Wisdom"
+        },
+        {
+          "dbf_id": 73434,
+          "popularity": 50.98,
+          "win_rate": 42.3,
+          "name": "The Garden's Grace"
+        },
+        {
+          "dbf_id": 38666,
+          "popularity": 9.8,
+          "win_rate": 20.0,
+          "name": "Forbidden Healing"
+        },
+        {
+          "dbf_id": 84739,
+          "popularity": 45.09,
+          "win_rate": 60.86,
+          "name": "Seal of Blood"
+        },
+        {
+          "dbf_id": 54834,
+          "popularity": 16.0,
+          "win_rate": 75.0,
+          "name": "Righteousness"
+        },
+        {
+          "dbf_id": 90945,
+          "popularity": 46.93,
+          "win_rate": 47.82,
+          "name": "Starlight Groove"
+        },
+        {
+          "dbf_id": 61947,
+          "popularity": 22.44,
+          "win_rate": 27.27,
+          "name": "Rally!"
+        },
+        {
+          "dbf_id": 1174,
+          "popularity": 37.5,
+          "win_rate": 66.66,
+          "name": "Avenging Wrath"
+        },
+        {
+          "dbf_id": 1522,
+          "popularity": 19.14,
+          "win_rate": 44.44,
+          "name": "Blessed Champion"
+        },
+        {
+          "dbf_id": 69532,
+          "popularity": 51.06,
+          "win_rate": 66.66,
+          "name": "Consecration"
+        },
+        {
+          "dbf_id": 70260,
+          "popularity": 51.06,
+          "win_rate": 41.66,
+          "name": "Hold the Bridge"
+        },
+        {
+          "dbf_id": 63079,
+          "popularity": 36.17,
+          "win_rate": 76.47,
+          "name": "Invigorating Sermon"
+        },
+        {
+          "dbf_id": 1804,
+          "popularity": 42.55,
+          "win_rate": 60.0,
+          "name": "Avenge"
+        },
+        {
+          "dbf_id": 59409,
+          "popularity": 32.6,
+          "win_rate": 73.33,
+          "name": "Shield of Honor"
+        },
+        {
+          "dbf_id": 140,
+          "popularity": 15.21,
+          "win_rate": 42.85,
+          "name": "Redemption"
+        },
+        {
+          "dbf_id": 52490,
+          "popularity": 22.22,
+          "win_rate": 70.0,
+          "name": "Lightforged Blessing"
+        },
+        {
+          "dbf_id": 43373,
+          "popularity": 50.0,
+          "win_rate": 68.18,
+          "name": "Potion of Heroism"
+        },
+        {
+          "dbf_id": 679,
+          "popularity": 11.62,
+          "win_rate": 40.0,
+          "name": "Divine Favor"
+        },
+        {
+          "dbf_id": 64464,
+          "popularity": 38.09,
+          "win_rate": 31.25,
+          "name": "Reckoning"
+        },
+        {
+          "dbf_id": 84395,
+          "popularity": 34.14,
+          "win_rate": 50.0,
+          "name": "For Quel'Thalas!"
+        },
+        {
+          "dbf_id": 67211,
+          "popularity": 25.0,
+          "win_rate": 60.0,
+          "name": "Vitality Surge"
+        },
+        {
+          "dbf_id": 42824,
+          "popularity": 20.0,
+          "win_rate": 75.0,
+          "name": "Desperate Stand"
+        },
+        {
+          "dbf_id": 727,
+          "popularity": 28.2,
+          "win_rate": 100.0,
+          "name": "Hand of Protection"
+        },
+        {
+          "dbf_id": 58791,
+          "popularity": 32.43,
+          "win_rate": 66.66,
+          "name": "Gift of Luminance"
+        },
+        {
+          "dbf_id": 56554,
+          "popularity": 54.05,
+          "win_rate": 40.0,
+          "name": "Libram of Hope"
+        },
+        {
+          "dbf_id": 69530,
+          "popularity": 27.77,
+          "win_rate": 70.0,
+          "name": "Blessing of Kings"
+        },
+        {
+          "dbf_id": 102790,
+          "popularity": 38.7,
+          "win_rate": 66.66,
+          "name": "Hammer of Wrath"
+        },
+        {
+          "dbf_id": 756,
+          "popularity": 37.93,
+          "win_rate": 63.63,
+          "name": "Equality"
+        },
+        {
+          "dbf_id": 69614,
+          "popularity": 29.16,
+          "win_rate": 57.14,
+          "name": "Equality"
+        },
+        {
+          "dbf_id": 250,
+          "popularity": 38.09,
+          "win_rate": 12.5,
+          "name": "Hammer of Wrath"
+        },
+        {
+          "dbf_id": 943,
+          "popularity": 50.0,
+          "win_rate": 85.71,
+          "name": "Blessing of Kings"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

@@ -1,0 +1,65 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 67808,
+          "popularity": 12.78,
+          "win_rate": 67.85,
+          "name": "Improved Snake Trap"
+        },
+        {
+          "dbf_id": 70208,
+          "popularity": 21.66,
+          "win_rate": 73.16,
+          "name": "Improved Open the Cages"
+        },
+        {
+          "dbf_id": 67805,
+          "popularity": 32.08,
+          "win_rate": 58.8,
+          "name": "Improved Freezing Trap"
+        },
+        {
+          "dbf_id": 77245,
+          "popularity": 24.34,
+          "win_rate": 72.22,
+          "name": "Improved Emergency Maneuvers"
+        },
+        {
+          "dbf_id": 87910,
+          "popularity": 44.53,
+          "win_rate": 65.86,
+          "name": "Improved ZOMBEEEES!!!"
+        },
+        {
+          "dbf_id": 79785,
+          "popularity": 47.78,
+          "win_rate": 68.45,
+          "name": "Improved Motion Denied"
+        },
+        {
+          "dbf_id": 70207,
+          "popularity": 31.45,
+          "win_rate": 63.94,
+          "name": "Improved Pack Tactics"
+        },
+        {
+          "dbf_id": 71468,
+          "popularity": 41.87,
+          "win_rate": 65.23,
+          "name": "Improved Ice Trap"
+        },
+        {
+          "dbf_id": 67804,
+          "popularity": 46.14,
+          "win_rate": 62.63,
+          "name": "Improved Explosive Trap"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

@@ -1,0 +1,665 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 40517,
+          "popularity": 57.14,
+          "win_rate": 87.5,
+          "name": "Felfire Potion"
+        },
+        {
+          "dbf_id": 63191,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Grimoire of Sacrifice"
+        },
+        {
+          "dbf_id": 79108,
+          "popularity": 45.45,
+          "win_rate": 80.0,
+          "name": "Shadow Waltz"
+        },
+        {
+          "dbf_id": 58796,
+          "popularity": 27.27,
+          "win_rate": 100.0,
+          "name": "School Spirits"
+        },
+        {
+          "dbf_id": 46286,
+          "popularity": 18.18,
+          "win_rate": 100.0,
+          "name": "Cataclysm"
+        },
+        {
+          "dbf_id": 61944,
+          "popularity": 45.45,
+          "win_rate": 80.0,
+          "name": "Hysteria"
+        },
+        {
+          "dbf_id": 86597,
+          "popularity": 9.09,
+          "win_rate": 0.0,
+          "name": "Plague Eruption"
+        },
+        {
+          "dbf_id": 56109,
+          "popularity": 50.0,
+          "win_rate": 60.0,
+          "name": "Twisted Knowledge"
+        },
+        {
+          "dbf_id": 63211,
+          "popularity": 30.0,
+          "win_rate": 100.0,
+          "name": "Altar of Fire"
+        },
+        {
+          "dbf_id": 40957,
+          "popularity": 50.0,
+          "win_rate": 60.0,
+          "name": "Blastcrystal Potion"
+        },
+        {
+          "dbf_id": 49423,
+          "popularity": 20.0,
+          "win_rate": 50.0,
+          "name": "The Soularium"
+        },
+        {
+          "dbf_id": 63368,
+          "popularity": 55.55,
+          "win_rate": 80.0,
+          "name": "Unstable Shadow Blast"
+        },
+        {
+          "dbf_id": 42391,
+          "popularity": 44.44,
+          "win_rate": 25.0,
+          "name": "Unwilling Sacrifice"
+        },
+        {
+          "dbf_id": 1142,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "Demonfire"
+        },
+        {
+          "dbf_id": 2628,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "Fist of Jaraxxus"
+        },
+        {
+          "dbf_id": 59223,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "Raise Dead"
+        },
+        {
+          "dbf_id": 54429,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "Plague of Flames"
+        },
+        {
+          "dbf_id": 52698,
+          "popularity": 55.55,
+          "win_rate": 80.0,
+          "name": "Plot Twist"
+        },
+        {
+          "dbf_id": 61205,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Free Admission"
+        },
+        {
+          "dbf_id": 76922,
+          "popularity": 12.5,
+          "win_rate": 100.0,
+          "name": "Suffocating Shadows"
+        },
+        {
+          "dbf_id": 84288,
+          "popularity": 12.5,
+          "win_rate": 0.0,
+          "name": "Shallow Grave"
+        },
+        {
+          "dbf_id": 2301,
+          "popularity": 62.5,
+          "win_rate": 60.0,
+          "name": "Demonwrath"
+        },
+        {
+          "dbf_id": 65605,
+          "popularity": 12.5,
+          "win_rate": 100.0,
+          "name": "Wicked Shipment"
+        },
+        {
+          "dbf_id": 38456,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Spreading Madness"
+        },
+        {
+          "dbf_id": 63369,
+          "popularity": 25.0,
+          "win_rate": 50.0,
+          "name": "Final Gasp"
+        },
+        {
+          "dbf_id": 2093,
+          "popularity": 12.5,
+          "win_rate": 100.0,
+          "name": "Darkbomb"
+        },
+        {
+          "dbf_id": 64894,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Dark Alley Pact"
+        },
+        {
+          "dbf_id": 86228,
+          "popularity": 62.5,
+          "win_rate": 60.0,
+          "name": "The Sunwell"
+        },
+        {
+          "dbf_id": 63220,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Imp Swarm (Rank 1)"
+        },
+        {
+          "dbf_id": 2013,
+          "popularity": 62.5,
+          "win_rate": 60.0,
+          "name": "Imp-losion"
+        },
+        {
+          "dbf_id": 51966,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Darkest Hour"
+        },
+        {
+          "dbf_id": 90440,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Crescendo"
+        },
+        {
+          "dbf_id": 47033,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Dark Possession"
+        },
+        {
+          "dbf_id": 42565,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Treachery"
+        },
+        {
+          "dbf_id": 919,
+          "popularity": 57.14,
+          "win_rate": 50.0,
+          "name": "Drain Life"
+        },
+        {
+          "dbf_id": 860,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sense Demons"
+        },
+        {
+          "dbf_id": 56501,
+          "popularity": 57.14,
+          "win_rate": 100.0,
+          "name": "Hand of Gul'dan"
+        },
+        {
+          "dbf_id": 41874,
+          "popularity": 42.85,
+          "win_rate": 33.33,
+          "name": "Feeding Time"
+        },
+        {
+          "dbf_id": 48823,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Ectomancy"
+        },
+        {
+          "dbf_id": 950,
+          "popularity": 42.85,
+          "win_rate": 33.33,
+          "name": "Hellfire"
+        },
+        {
+          "dbf_id": 47555,
+          "popularity": 42.85,
+          "win_rate": 33.33,
+          "name": "Curse of Weakness"
+        },
+        {
+          "dbf_id": 69634,
+          "popularity": 85.71,
+          "win_rate": 66.66,
+          "name": "Siphon Soul"
+        },
+        {
+          "dbf_id": 53938,
+          "popularity": 57.14,
+          "win_rate": 50.0,
+          "name": "Impbalming"
+        },
+        {
+          "dbf_id": 72440,
+          "popularity": 28.57,
+          "win_rate": 100.0,
+          "name": "Desecrated Graveyard"
+        },
+        {
+          "dbf_id": 70003,
+          "popularity": 42.85,
+          "win_rate": 33.33,
+          "name": "Felfire in the Hole!"
+        },
+        {
+          "dbf_id": 61885,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Deck of Chaos"
+        },
+        {
+          "dbf_id": 84261,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Scourge Supplies"
+        },
+        {
+          "dbf_id": 67825,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Tamsin's Phylactery"
+        },
+        {
+          "dbf_id": 59726,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Felosophy"
+        },
+        {
+          "dbf_id": 67758,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Impfestation"
+        },
+        {
+          "dbf_id": 1100,
+          "popularity": 100.0,
+          "win_rate": 66.66,
+          "name": "Siphon Soul"
+        },
+        {
+          "dbf_id": 42658,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Drain Soul"
+        },
+        {
+          "dbf_id": 974,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Soulfire"
+        },
+        {
+          "dbf_id": 84289,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Twisted Tether"
+        },
+        {
+          "dbf_id": 42471,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Defile"
+        },
+        {
+          "dbf_id": 50432,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Demonic Project"
+        },
+        {
+          "dbf_id": 48211,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Soul Infusion"
+        },
+        {
+          "dbf_id": 73443,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Chum Bucket"
+        },
+        {
+          "dbf_id": 86595,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Nofin's Imp-ossible"
+        },
+        {
+          "dbf_id": 59628,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Demonic Studies"
+        },
+        {
+          "dbf_id": 71292,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Curse of Agony"
+        },
+        {
+          "dbf_id": 1092,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Mortal Coil"
+        },
+        {
+          "dbf_id": 56511,
+          "popularity": 66.66,
+          "win_rate": 25.0,
+          "name": "The Dark Portal"
+        },
+        {
+          "dbf_id": 2632,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Dark Bargain"
+        },
+        {
+          "dbf_id": 50004,
+          "popularity": 83.33,
+          "win_rate": 60.0,
+          "name": "Void Contract"
+        },
+        {
+          "dbf_id": 90994,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Demonic Dynamics"
+        },
+        {
+          "dbf_id": 56520,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Shadow Council"
+        },
+        {
+          "dbf_id": 38461,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Renounce Darkness"
+        },
+        {
+          "dbf_id": 53882,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Sinister Deal"
+        },
+        {
+          "dbf_id": 914,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Shadow Bolt"
+        },
+        {
+          "dbf_id": 61971,
+          "popularity": 80.0,
+          "win_rate": 25.0,
+          "name": "Backfire"
+        },
+        {
+          "dbf_id": 50991,
+          "popularity": 80.0,
+          "win_rate": 50.0,
+          "name": "Demonbolt"
+        },
+        {
+          "dbf_id": 79538,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Arson Accusation"
+        },
+        {
+          "dbf_id": 52871,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Impferno"
+        },
+        {
+          "dbf_id": 77055,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Impending Catastrophe"
+        },
+        {
+          "dbf_id": 41872,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Bloodbloom"
+        },
+        {
+          "dbf_id": 147,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Shadowflame"
+        },
+        {
+          "dbf_id": 50012,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Grim Rally"
+        },
+        {
+          "dbf_id": 59725,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Soul Shear"
+        },
+        {
+          "dbf_id": 63192,
+          "popularity": 80.0,
+          "win_rate": 50.0,
+          "name": "Soul Rend"
+        },
+        {
+          "dbf_id": 982,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Corruption"
+        },
+        {
+          "dbf_id": 64897,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Demonic Assault"
+        },
+        {
+          "dbf_id": 43128,
+          "popularity": 60.0,
+          "win_rate": 66.66,
+          "name": "Dark Pact"
+        },
+        {
+          "dbf_id": 38770,
+          "popularity": 80.0,
+          "win_rate": 75.0,
+          "name": "DOOM!"
+        },
+        {
+          "dbf_id": 54891,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Dark Skies"
+        },
+        {
+          "dbf_id": 61254,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Cascading Disaster"
+        },
+        {
+          "dbf_id": 46864,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Fiendish Circle"
+        },
+        {
+          "dbf_id": 54892,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Nether Breath"
+        },
+        {
+          "dbf_id": 41871,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Corrupting Mist"
+        },
+        {
+          "dbf_id": 91001,
+          "popularity": 100.0,
+          "win_rate": 75.0,
+          "name": "Symphony of Sins"
+        },
+        {
+          "dbf_id": 39197,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Kara Kazham!"
+        },
+        {
+          "dbf_id": 2535,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Demonfuse"
+        },
+        {
+          "dbf_id": 79540,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Habeas Corpses"
+        },
+        {
+          "dbf_id": 84267,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Soul Barrage"
+        },
+        {
+          "dbf_id": 72320,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rock Bottom"
+        },
+        {
+          "dbf_id": 75637,
+          "popularity": 75.0,
+          "win_rate": 33.33,
+          "name": "Immolate"
+        },
+        {
+          "dbf_id": 163,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Sacrificial Pact"
+        },
+        {
+          "dbf_id": 61648,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Wicked Whispers"
+        },
+        {
+          "dbf_id": 48113,
+          "popularity": 75.0,
+          "win_rate": 66.66,
+          "name": "Spirit Bomb"
+        },
+        {
+          "dbf_id": 69635,
+          "popularity": 75.0,
+          "win_rate": 100.0,
+          "name": "Twisting Nether"
+        },
+        {
+          "dbf_id": 50002,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Shriek"
+        },
+        {
+          "dbf_id": 40393,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Bloodfury Potion"
+        },
+        {
+          "dbf_id": 846,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Power Overwhelming"
+        },
+        {
+          "dbf_id": 57149,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Unstable Felbolt"
+        },
+        {
+          "dbf_id": 90993,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Dirge of Despair"
+        },
+        {
+          "dbf_id": 51371,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Rafaam's Scheme"
+        },
+        {
+          "dbf_id": 23,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Bane of Doom"
+        },
+        {
+          "dbf_id": 64896,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Dreaded Mount"
+        },
+        {
+          "dbf_id": 2879,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Curse of Rafaam"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

@@ -1,0 +1,179 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 80537,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Scourge Rager"
+        },
+        {
+          "dbf_id": 84692,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Flesh Behemoth"
+        },
+        {
+          "dbf_id": 80830,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Boneguard Commander"
+        },
+        {
+          "dbf_id": 84003,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Grand Magister Rommath"
+        },
+        {
+          "dbf_id": 86317,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Bonelord Frostwhisper"
+        },
+        {
+          "dbf_id": 84387,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Amber Whelp"
+        },
+        {
+          "dbf_id": 86722,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Thaddius, Monstrosity"
+        },
+        {
+          "dbf_id": 86619,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rotting Necromancer"
+        },
+        {
+          "dbf_id": 86570,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Trinket Tracker"
+        },
+        {
+          "dbf_id": 85051,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Chitinous Plating"
+        },
+        {
+          "dbf_id": 86574,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Faithful Companions"
+        },
+        {
+          "dbf_id": 84361,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Undying Allies"
+        },
+        {
+          "dbf_id": 84243,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Umbral Geist"
+        },
+        {
+          "dbf_id": 78333,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Corpse Explosion"
+        },
+        {
+          "dbf_id": 85034,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Prismatic Elemental"
+        },
+        {
+          "dbf_id": 84358,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Haunting Nightmare"
+        },
+        {
+          "dbf_id": 86733,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Blightfang"
+        },
+        {
+          "dbf_id": 80091,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Bone Flinger"
+        },
+        {
+          "dbf_id": 86507,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Death Beetle"
+        },
+        {
+          "dbf_id": 84428,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Arcane Defenders"
+        },
+        {
+          "dbf_id": 80083,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Necrotic Mortician"
+        },
+        {
+          "dbf_id": 87325,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rimescale Siren"
+        },
+        {
+          "dbf_id": 80089,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Acolyte of Death"
+        },
+        {
+          "dbf_id": 84752,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Vast Wisdom"
+        },
+        {
+          "dbf_id": 84400,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Hope of Quel'Thalas"
+        },
+        {
+          "dbf_id": 86559,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sunfury Clergy"
+        },
+        {
+          "dbf_id": 87301,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Hawkstrider Rancher"
+        },
+        {
+          "dbf_id": 84370,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Arms Dealer"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

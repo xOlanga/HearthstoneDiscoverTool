@@ -1,0 +1,119 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 79548,
+          "popularity": 73.69,
+          "win_rate": 67.11,
+          "name": "Objection!"
+        },
+        {
+          "dbf_id": 78508,
+          "popularity": 23.95,
+          "win_rate": 57.61,
+          "name": "Vengeful Visage"
+        },
+        {
+          "dbf_id": 69607,
+          "popularity": 61.23,
+          "win_rate": 65.15,
+          "name": "Counterspell"
+        },
+        {
+          "dbf_id": 69608,
+          "popularity": 43.43,
+          "win_rate": 57.66,
+          "name": "Ice Barrier"
+        },
+        {
+          "dbf_id": 86235,
+          "popularity": 50.06,
+          "win_rate": 67.01,
+          "name": "Explosive Runes"
+        },
+        {
+          "dbf_id": 69603,
+          "popularity": 30.24,
+          "win_rate": 54.16,
+          "name": "Explosive Trap"
+        },
+        {
+          "dbf_id": 86567,
+          "popularity": 15.43,
+          "win_rate": 62.94,
+          "name": "ZOMBEEEES!!!"
+        },
+        {
+          "dbf_id": 102190,
+          "popularity": 12.44,
+          "win_rate": 66.66,
+          "name": "Cat Trick"
+        },
+        {
+          "dbf_id": 79555,
+          "popularity": 14.02,
+          "win_rate": 68.58,
+          "name": "Motion Denied"
+        },
+        {
+          "dbf_id": 69604,
+          "popularity": 21.33,
+          "win_rate": 63.55,
+          "name": "Freezing Trap"
+        },
+        {
+          "dbf_id": 72340,
+          "popularity": 12.51,
+          "win_rate": 65.77,
+          "name": "Emergency Maneuvers"
+        },
+        {
+          "dbf_id": 102189,
+          "popularity": 27.11,
+          "win_rate": 56.96,
+          "name": "Wandering Monster"
+        },
+        {
+          "dbf_id": 77150,
+          "popularity": 20.91,
+          "win_rate": 52.72,
+          "name": "Sticky Situation"
+        },
+        {
+          "dbf_id": 77148,
+          "popularity": 19.45,
+          "win_rate": 70.0,
+          "name": "Double Cross"
+        },
+        {
+          "dbf_id": 77151,
+          "popularity": 24.48,
+          "win_rate": 60.0,
+          "name": "Kidnap"
+        },
+        {
+          "dbf_id": 102204,
+          "popularity": 39.91,
+          "win_rate": 58.94,
+          "name": "Plagiarize"
+        },
+        {
+          "dbf_id": 102203,
+          "popularity": 33.33,
+          "win_rate": 64.55,
+          "name": "Cheat Death"
+        },
+        {
+          "dbf_id": 102202,
+          "popularity": 30.04,
+          "win_rate": 56.25,
+          "name": "Ambush"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

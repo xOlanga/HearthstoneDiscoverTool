@@ -1,0 +1,245 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 72896,
+          "popularity": 65.49,
+          "win_rate": 50.32,
+          "name": "Azsharan Saber"
+        },
+        {
+          "dbf_id": 78273,
+          "popularity": 37.27,
+          "win_rate": 59.13,
+          "name": "Batty Guest"
+        },
+        {
+          "dbf_id": 72937,
+          "popularity": 15.43,
+          "win_rate": 40.9,
+          "name": "Hydralodon Head"
+        },
+        {
+          "dbf_id": 78159,
+          "popularity": 88.96,
+          "win_rate": 65.6,
+          "name": "Sunken Saber"
+        },
+        {
+          "dbf_id": 85857,
+          "popularity": 15.63,
+          "win_rate": 44.18,
+          "name": "Hydralodon Head"
+        },
+        {
+          "dbf_id": 78143,
+          "popularity": 83.66,
+          "win_rate": 56.21,
+          "name": "Sinful Sous Chef"
+        },
+        {
+          "dbf_id": 90644,
+          "popularity": 61.53,
+          "win_rate": 62.5,
+          "name": "Mind Eater"
+        },
+        {
+          "dbf_id": 91076,
+          "popularity": 69.56,
+          "win_rate": 25.0,
+          "name": "Amplified Elekk"
+        },
+        {
+          "dbf_id": 72537,
+          "popularity": 50.0,
+          "win_rate": 63.63,
+          "name": "Crabatoa's Claw"
+        },
+        {
+          "dbf_id": 85859,
+          "popularity": 30.0,
+          "win_rate": 66.66,
+          "name": "Crabatoa's Claw"
+        },
+        {
+          "dbf_id": 85152,
+          "popularity": 21.42,
+          "win_rate": 33.33,
+          "name": "Foul Egg"
+        },
+        {
+          "dbf_id": 62497,
+          "popularity": 81.81,
+          "win_rate": 77.77,
+          "name": "Shadowed Spirit"
+        },
+        {
+          "dbf_id": 69600,
+          "popularity": 72.72,
+          "win_rate": 62.5,
+          "name": "Savannah Highmane"
+        },
+        {
+          "dbf_id": 79742,
+          "popularity": 70.0,
+          "win_rate": 28.57,
+          "name": "Incriminating Psychic"
+        },
+        {
+          "dbf_id": 86725,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Rivendare, Warrider"
+        },
+        {
+          "dbf_id": 78146,
+          "popularity": 75.0,
+          "win_rate": 50.0,
+          "name": "Stewart the Steward"
+        },
+        {
+          "dbf_id": 85651,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Banshee"
+        },
+        {
+          "dbf_id": 102229,
+          "popularity": 57.14,
+          "win_rate": 50.0,
+          "name": "Rotten Applebaum"
+        },
+        {
+          "dbf_id": 71828,
+          "popularity": 85.71,
+          "win_rate": 50.0,
+          "name": "Colaque's Shell"
+        },
+        {
+          "dbf_id": 79557,
+          "popularity": 83.33,
+          "win_rate": 60.0,
+          "name": "Bog Beast"
+        },
+        {
+          "dbf_id": 77308,
+          "popularity": 83.33,
+          "win_rate": 60.0,
+          "name": "Sinrunner"
+        },
+        {
+          "dbf_id": 85052,
+          "popularity": 83.33,
+          "win_rate": 20.0,
+          "name": "Underking"
+        },
+        {
+          "dbf_id": 76323,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Plated Beetle"
+        },
+        {
+          "dbf_id": 84169,
+          "popularity": 66.66,
+          "win_rate": 75.0,
+          "name": "Volatile Skeleton"
+        },
+        {
+          "dbf_id": 78383,
+          "popularity": 100.0,
+          "win_rate": 80.0,
+          "name": "Sesselie of the Fae Court"
+        },
+        {
+          "dbf_id": 66856,
+          "popularity": 60.0,
+          "win_rate": 33.33,
+          "name": "Taelan Fordring"
+        },
+        {
+          "dbf_id": 71688,
+          "popularity": 80.0,
+          "win_rate": 50.0,
+          "name": "Naval Mine"
+        },
+        {
+          "dbf_id": 69655,
+          "popularity": 80.0,
+          "win_rate": 100.0,
+          "name": "Bloodmage Thalnos"
+        },
+        {
+          "dbf_id": 90497,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Cage Head"
+        },
+        {
+          "dbf_id": 84358,
+          "popularity": 75.0,
+          "win_rate": 66.66,
+          "name": "Haunting Nightmare"
+        },
+        {
+          "dbf_id": 90463,
+          "popularity": 75.0,
+          "win_rate": 0.0,
+          "name": "Rin, Orchestrator of Doom"
+        },
+        {
+          "dbf_id": 72212,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Azsharan Sentinel"
+        },
+        {
+          "dbf_id": 94860,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Instrument Case"
+        },
+        {
+          "dbf_id": 74742,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Gigafin's Maw"
+        },
+        {
+          "dbf_id": 91252,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Pozzik, Audio Engineer"
+        },
+        {
+          "dbf_id": 90856,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Audio Splitter"
+        },
+        {
+          "dbf_id": 86731,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Thassarian"
+        },
+        {
+          "dbf_id": 72931,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Mothership"
+        },
+        {
+          "dbf_id": 80019,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Brittleskin Zombie"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

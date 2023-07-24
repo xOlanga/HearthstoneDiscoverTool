@@ -1,0 +1,149 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 73906,
+          "popularity": 56.03,
+          "win_rate": 67.76,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 87317,
+          "popularity": 11.15,
+          "win_rate": 66.08,
+          "name": "Mistake"
+        },
+        {
+          "dbf_id": 102230,
+          "popularity": 27.21,
+          "win_rate": 58.02,
+          "name": "Dread Corsair"
+        },
+        {
+          "dbf_id": 72105,
+          "popularity": 28.22,
+          "win_rate": 66.7,
+          "name": "Tuskarrrr Trawler"
+        },
+        {
+          "dbf_id": 90543,
+          "popularity": 76.75,
+          "win_rate": 65.75,
+          "name": "The One-Amalgam Band"
+        },
+        {
+          "dbf_id": 66854,
+          "popularity": 21.34,
+          "win_rate": 64.31,
+          "name": "Fogsail Freebooter"
+        },
+        {
+          "dbf_id": 92237,
+          "popularity": 28.94,
+          "win_rate": 56.38,
+          "name": "Tony, King of Piracy"
+        },
+        {
+          "dbf_id": 69677,
+          "popularity": 10.04,
+          "win_rate": 67.97,
+          "name": "Bloodsail Raider"
+        },
+        {
+          "dbf_id": 71690,
+          "popularity": 27.33,
+          "win_rate": 61.65,
+          "name": "Pufferfist"
+        },
+        {
+          "dbf_id": 71695,
+          "popularity": 39.13,
+          "win_rate": 62.89,
+          "name": "Gangplank Diver"
+        },
+        {
+          "dbf_id": 69679,
+          "popularity": 24.96,
+          "win_rate": 67.24,
+          "name": "Southsea Captain"
+        },
+        {
+          "dbf_id": 72592,
+          "popularity": 36.07,
+          "win_rate": 63.11,
+          "name": "Obsidiansmith"
+        },
+        {
+          "dbf_id": 75910,
+          "popularity": 27.21,
+          "win_rate": 68.97,
+          "name": "Suspicious Pirate"
+        },
+        {
+          "dbf_id": 102214,
+          "popularity": 55.37,
+          "win_rate": 67.91,
+          "name": "Sword Eater"
+        },
+        {
+          "dbf_id": 86692,
+          "popularity": 52.95,
+          "win_rate": 67.29,
+          "name": "Hookfist-3000"
+        },
+        {
+          "dbf_id": 69742,
+          "popularity": 49.37,
+          "win_rate": 63.17,
+          "name": "Swashburglar"
+        },
+        {
+          "dbf_id": 72480,
+          "popularity": 51.54,
+          "win_rate": 64.08,
+          "name": "Bootstrap Sunkeneer"
+        },
+        {
+          "dbf_id": 76285,
+          "popularity": 13.73,
+          "win_rate": 78.66,
+          "name": "Buccaneer"
+        },
+        {
+          "dbf_id": 72495,
+          "popularity": 34.27,
+          "win_rate": 66.48,
+          "name": "Pirate Admiral Hooktusk"
+        },
+        {
+          "dbf_id": 77208,
+          "popularity": 17.42,
+          "win_rate": 69.56,
+          "name": "Cutlass Courier"
+        },
+        {
+          "dbf_id": 86540,
+          "popularity": 59.42,
+          "win_rate": 67.3,
+          "name": "Hench-Clan Burglar"
+        },
+        {
+          "dbf_id": 86487,
+          "popularity": 13.05,
+          "win_rate": 73.52,
+          "name": "Jolly Roger"
+        },
+        {
+          "dbf_id": 74890,
+          "popularity": 26.15,
+          "win_rate": 69.11,
+          "name": "Filletfighter"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

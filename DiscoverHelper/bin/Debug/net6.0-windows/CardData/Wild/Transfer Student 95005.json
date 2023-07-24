@@ -1,0 +1,173 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 79779,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Tight-Lipped Witness"
+        },
+        {
+          "dbf_id": 79780,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Sylvanas, the Accused"
+        },
+        {
+          "dbf_id": 79990,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Demolition Renovator"
+        },
+        {
+          "dbf_id": 78375,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ashen Elemental"
+        },
+        {
+          "dbf_id": 76975,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Convincing Disguise"
+        },
+        {
+          "dbf_id": 77659,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Cold Case"
+        },
+        {
+          "dbf_id": 79548,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Objection!"
+        },
+        {
+          "dbf_id": 79546,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Soul Seeker"
+        },
+        {
+          "dbf_id": 77654,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Planted Evidence"
+        },
+        {
+          "dbf_id": 79748,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dew Process"
+        },
+        {
+          "dbf_id": 79782,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "The Jailer"
+        },
+        {
+          "dbf_id": 78547,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Party Crasher"
+        },
+        {
+          "dbf_id": 78397,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Orion, Mansion Manager"
+        },
+        {
+          "dbf_id": 79482,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Deathborne"
+        },
+        {
+          "dbf_id": 79935,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Murloc Holmes"
+        },
+        {
+          "dbf_id": 79928,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sinfueled Golem"
+        },
+        {
+          "dbf_id": 79767,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Prince Renathal"
+        },
+        {
+          "dbf_id": 79562,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Red Herring"
+        },
+        {
+          "dbf_id": 77714,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sketchy Stranger"
+        },
+        {
+          "dbf_id": 75881,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sire Denathrius"
+        },
+        {
+          "dbf_id": 79778,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Afterlife Attendant"
+        },
+        {
+          "dbf_id": 78133,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Muck Plumber"
+        },
+        {
+          "dbf_id": 78532,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sinstone Totem"
+        },
+        {
+          "dbf_id": 77616,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Relic of Phantasms"
+        },
+        {
+          "dbf_id": 84356,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Nightcloak Sanctum"
+        },
+        {
+          "dbf_id": 78111,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Sinful Brand"
+        },
+        {
+          "dbf_id": 75876,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dispossessed Soul"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

@@ -1,0 +1,647 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 69614,
+          "popularity": 27.09,
+          "win_rate": 54.76,
+          "name": "Equality"
+        },
+        {
+          "dbf_id": 69532,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "Consecration"
+        },
+        {
+          "dbf_id": 73424,
+          "popularity": 21.42,
+          "win_rate": 47.61,
+          "name": "Holy Maki Roll"
+        },
+        {
+          "dbf_id": 64523,
+          "popularity": 33.33,
+          "win_rate": 62.5,
+          "name": "City Tax"
+        },
+        {
+          "dbf_id": 78081,
+          "popularity": 17.64,
+          "win_rate": 66.66,
+          "name": "Service Bell"
+        },
+        {
+          "dbf_id": 80117,
+          "popularity": 39.24,
+          "win_rate": 61.29,
+          "name": "Front Lines"
+        },
+        {
+          "dbf_id": 102790,
+          "popularity": 34.48,
+          "win_rate": 55.0,
+          "name": "Hammer of Wrath"
+        },
+        {
+          "dbf_id": 78144,
+          "popularity": 36.53,
+          "win_rate": 73.68,
+          "name": "Order in the Court"
+        },
+        {
+          "dbf_id": 49999,
+          "popularity": 33.33,
+          "win_rate": 52.94,
+          "name": "Time Out!"
+        },
+        {
+          "dbf_id": 76306,
+          "popularity": 30.43,
+          "win_rate": 64.28,
+          "name": "Flash of Light"
+        },
+        {
+          "dbf_id": 84749,
+          "popularity": 38.09,
+          "win_rate": 62.5,
+          "name": "Feast and Famine"
+        },
+        {
+          "dbf_id": 62924,
+          "popularity": 28.94,
+          "win_rate": 54.54,
+          "name": "Knight of Anointment"
+        },
+        {
+          "dbf_id": 69533,
+          "popularity": 32.43,
+          "win_rate": 58.33,
+          "name": "Truesilver Champion"
+        },
+        {
+          "dbf_id": 52660,
+          "popularity": 45.71,
+          "win_rate": 68.75,
+          "name": "Call to Adventure"
+        },
+        {
+          "dbf_id": 67040,
+          "popularity": 58.06,
+          "win_rate": 50.0,
+          "name": "Lightforged Cariel"
+        },
+        {
+          "dbf_id": 67211,
+          "popularity": 30.0,
+          "win_rate": 66.66,
+          "name": "Vitality Surge"
+        },
+        {
+          "dbf_id": 64368,
+          "popularity": 65.51,
+          "win_rate": 47.36,
+          "name": "Alliance Bannerman"
+        },
+        {
+          "dbf_id": 48985,
+          "popularity": 42.85,
+          "win_rate": 66.66,
+          "name": "Crystology"
+        },
+        {
+          "dbf_id": 70265,
+          "popularity": 50.0,
+          "win_rate": 23.07,
+          "name": "Stonehearth Vindicator"
+        },
+        {
+          "dbf_id": 61305,
+          "popularity": 20.0,
+          "win_rate": 60.0,
+          "name": "Redscale Dragontamer"
+        },
+        {
+          "dbf_id": 2274,
+          "popularity": 48.0,
+          "win_rate": 41.66,
+          "name": "Solemn Vigil"
+        },
+        {
+          "dbf_id": 52742,
+          "popularity": 54.16,
+          "win_rate": 46.15,
+          "name": "Duel!"
+        },
+        {
+          "dbf_id": 90944,
+          "popularity": 65.21,
+          "win_rate": 80.0,
+          "name": "Kangor, Dancing King"
+        },
+        {
+          "dbf_id": 96916,
+          "popularity": 26.08,
+          "win_rate": 83.33,
+          "name": "Muster for Battle"
+        },
+        {
+          "dbf_id": 90941,
+          "popularity": 13.63,
+          "win_rate": 100.0,
+          "name": "Lead Dancer"
+        },
+        {
+          "dbf_id": 90695,
+          "popularity": 4.54,
+          "win_rate": 100.0,
+          "name": "Annoy-o-Troupe"
+        },
+        {
+          "dbf_id": 71984,
+          "popularity": 42.85,
+          "win_rate": 55.55,
+          "name": "The Leviathan"
+        },
+        {
+          "dbf_id": 86545,
+          "popularity": 42.85,
+          "win_rate": 88.88,
+          "name": "Bronze Explorer"
+        },
+        {
+          "dbf_id": 84391,
+          "popularity": 57.14,
+          "win_rate": 75.0,
+          "name": "Flight of the Bronze"
+        },
+        {
+          "dbf_id": 59083,
+          "popularity": 20.0,
+          "win_rate": 33.33,
+          "name": "Wave of Apathy"
+        },
+        {
+          "dbf_id": 65591,
+          "popularity": 40.0,
+          "win_rate": 33.33,
+          "name": "Righteous Defense"
+        },
+        {
+          "dbf_id": 78080,
+          "popularity": 42.85,
+          "win_rate": 50.0,
+          "name": "Muckborn Servant"
+        },
+        {
+          "dbf_id": 84399,
+          "popularity": 21.42,
+          "win_rate": 33.33,
+          "name": "Anachronos"
+        },
+        {
+          "dbf_id": 59602,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Commencement"
+        },
+        {
+          "dbf_id": 70262,
+          "popularity": 33.33,
+          "win_rate": 75.0,
+          "name": "Templar Captain"
+        },
+        {
+          "dbf_id": 102197,
+          "popularity": 36.36,
+          "win_rate": 50.0,
+          "name": "Hand of A'dal"
+        },
+        {
+          "dbf_id": 59411,
+          "popularity": 27.27,
+          "win_rate": 66.66,
+          "name": "Lord Barov"
+        },
+        {
+          "dbf_id": 76258,
+          "popularity": 27.27,
+          "win_rate": 0.0,
+          "name": "Lightray"
+        },
+        {
+          "dbf_id": 71253,
+          "popularity": 45.45,
+          "win_rate": 0.0,
+          "name": "Ring of Courage"
+        },
+        {
+          "dbf_id": 54919,
+          "popularity": 50.0,
+          "win_rate": 80.0,
+          "name": "Nozdormu the Timeless"
+        },
+        {
+          "dbf_id": 82316,
+          "popularity": 10.0,
+          "win_rate": 100.0,
+          "name": "Great Hall"
+        },
+        {
+          "dbf_id": 69613,
+          "popularity": 10.0,
+          "win_rate": 0.0,
+          "name": "Tirion Fordring"
+        },
+        {
+          "dbf_id": 56394,
+          "popularity": 10.0,
+          "win_rate": 0.0,
+          "name": "Libram of Justice"
+        },
+        {
+          "dbf_id": 71248,
+          "popularity": 30.0,
+          "win_rate": 66.66,
+          "name": "Battle Vicar"
+        },
+        {
+          "dbf_id": 90694,
+          "popularity": 44.44,
+          "win_rate": 25.0,
+          "name": "Spotlight"
+        },
+        {
+          "dbf_id": 70264,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Cavalry Horn"
+        },
+        {
+          "dbf_id": 69705,
+          "popularity": 37.5,
+          "win_rate": 33.33,
+          "name": "Righteous Protector"
+        },
+        {
+          "dbf_id": 57546,
+          "popularity": 25.0,
+          "win_rate": 50.0,
+          "name": "Hand of A'dal"
+        },
+        {
+          "dbf_id": 56555,
+          "popularity": 62.5,
+          "win_rate": 40.0,
+          "name": "Libram of Wisdom"
+        },
+        {
+          "dbf_id": 56445,
+          "popularity": 42.85,
+          "win_rate": 66.66,
+          "name": "Aldor Attendant"
+        },
+        {
+          "dbf_id": 78086,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "The Countess"
+        },
+        {
+          "dbf_id": 41912,
+          "popularity": 57.14,
+          "win_rate": 50.0,
+          "name": "Lost in the Jungle"
+        },
+        {
+          "dbf_id": 62993,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Cariel Roame"
+        },
+        {
+          "dbf_id": 79602,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Class Action Lawyer"
+        },
+        {
+          "dbf_id": 2654,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Enter the Coliseum"
+        },
+        {
+          "dbf_id": 78145,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Jury Duty"
+        },
+        {
+          "dbf_id": 69703,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Warhorse Trainer"
+        },
+        {
+          "dbf_id": 73431,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Shimmering Sunfish"
+        },
+        {
+          "dbf_id": 78393,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Elitist Snob"
+        },
+        {
+          "dbf_id": 78143,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sinful Sous Chef"
+        },
+        {
+          "dbf_id": 61187,
+          "popularity": 60.0,
+          "win_rate": 66.66,
+          "name": "Oh My Yogg!"
+        },
+        {
+          "dbf_id": 49981,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Shirvallah, the Tiger"
+        },
+        {
+          "dbf_id": 102196,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Grimestreet Outfitter"
+        },
+        {
+          "dbf_id": 48040,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Academic Espionage"
+        },
+        {
+          "dbf_id": 57476,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Lady Liadrin"
+        },
+        {
+          "dbf_id": 88580,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Harmonic Disco"
+        },
+        {
+          "dbf_id": 435,
+          "popularity": 60.0,
+          "win_rate": 66.66,
+          "name": "Holy Wrath"
+        },
+        {
+          "dbf_id": 63690,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Soldier's Caravan"
+        },
+        {
+          "dbf_id": 86544,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Amber Watcher"
+        },
+        {
+          "dbf_id": 48637,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Crystalsmith Kangor"
+        },
+        {
+          "dbf_id": 38749,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Divine Strength"
+        },
+        {
+          "dbf_id": 77018,
+          "popularity": 60.0,
+          "win_rate": 100.0,
+          "name": "Seafloor Savior"
+        },
+        {
+          "dbf_id": 90688,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Disco Maul"
+        },
+        {
+          "dbf_id": 38758,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ragnaros, Lightlord"
+        },
+        {
+          "dbf_id": 48644,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Shrink Ray"
+        },
+        {
+          "dbf_id": 79741,
+          "popularity": 75.0,
+          "win_rate": 33.33,
+          "name": "Promotion"
+        },
+        {
+          "dbf_id": 854,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Humility"
+        },
+        {
+          "dbf_id": 70261,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Brasswing"
+        },
+        {
+          "dbf_id": 69706,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Stand Against Darkness"
+        },
+        {
+          "dbf_id": 69611,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Argent Protector"
+        },
+        {
+          "dbf_id": 70260,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Hold the Bridge"
+        },
+        {
+          "dbf_id": 51705,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Desperate Measures"
+        },
+        {
+          "dbf_id": 40587,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Getaway Kodo"
+        },
+        {
+          "dbf_id": 43406,
+          "popularity": 75.0,
+          "win_rate": 66.66,
+          "name": "Uther of the Ebon Blade"
+        },
+        {
+          "dbf_id": 40474,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Grimestreet Informant"
+        },
+        {
+          "dbf_id": 56554,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Libram of Hope"
+        },
+        {
+          "dbf_id": 41145,
+          "popularity": 66.66,
+          "win_rate": 100.0,
+          "name": "Sunkeeper Tarim"
+        },
+        {
+          "dbf_id": 84739,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Seal of Blood"
+        },
+        {
+          "dbf_id": 61218,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Day at the Faire"
+        },
+        {
+          "dbf_id": 84737,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Sanguine Soldier"
+        },
+        {
+          "dbf_id": 56556,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Aldor Truthseeker"
+        },
+        {
+          "dbf_id": 54317,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Clever Disguise"
+        },
+        {
+          "dbf_id": 69530,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Blessing of Kings"
+        },
+        {
+          "dbf_id": 102198,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Lothraxion the Redeemed"
+        },
+        {
+          "dbf_id": 52606,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Vendetta"
+        },
+        {
+          "dbf_id": 84388,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Daring Drake"
+        },
+        {
+          "dbf_id": 70636,
+          "popularity": 66.66,
+          "win_rate": 100.0,
+          "name": "Contraband Stash"
+        },
+        {
+          "dbf_id": 90583,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Mixtape"
+        },
+        {
+          "dbf_id": 76250,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Radar Detector"
+        },
+        {
+          "dbf_id": 64661,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Blessed Goods"
+        },
+        {
+          "dbf_id": 61306,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Snack Run"
+        },
+        {
+          "dbf_id": 52494,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Never Surrender!"
+        },
+        {
+          "dbf_id": 48764,
+          "popularity": 66.66,
+          "win_rate": 0.0,
+          "name": "Prismatic Lens"
+        },
+        {
+          "dbf_id": 84752,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Vast Wisdom"
+        },
+        {
+          "dbf_id": 61159,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Swindle"
+        },
+        {
+          "dbf_id": 54924,
+          "popularity": 66.66,
+          "win_rate": 100.0,
+          "name": "Righteous Cause"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

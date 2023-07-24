@@ -1,0 +1,317 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 52422,
+          "popularity": 54.38,
+          "win_rate": 67.74,
+          "name": "Sludge Slurper"
+        },
+        {
+          "dbf_id": 75590,
+          "popularity": 54.0,
+          "win_rate": 62.96,
+          "name": "Command of Neptulon"
+        },
+        {
+          "dbf_id": 84209,
+          "popularity": 30.61,
+          "win_rate": 60.0,
+          "name": "Deathweaver Aura"
+        },
+        {
+          "dbf_id": 960,
+          "popularity": 26.08,
+          "win_rate": 58.33,
+          "name": "Stormforged Axe"
+        },
+        {
+          "dbf_id": 61962,
+          "popularity": 71.73,
+          "win_rate": 60.6,
+          "name": "Guidance"
+        },
+        {
+          "dbf_id": 2006,
+          "popularity": 48.88,
+          "win_rate": 68.18,
+          "name": "Crackle"
+        },
+        {
+          "dbf_id": 92335,
+          "popularity": 50.0,
+          "win_rate": 54.54,
+          "name": "Pack the House"
+        },
+        {
+          "dbf_id": 299,
+          "popularity": 36.36,
+          "win_rate": 68.75,
+          "name": "Forked Lightning"
+        },
+        {
+          "dbf_id": 2620,
+          "popularity": 20.93,
+          "win_rate": 33.33,
+          "name": "Elemental Destruction"
+        },
+        {
+          "dbf_id": 53967,
+          "popularity": 32.55,
+          "win_rate": 50.0,
+          "name": "Sandstorm Elemental"
+        },
+        {
+          "dbf_id": 38724,
+          "popularity": 38.09,
+          "win_rate": 50.0,
+          "name": "Stormcrack"
+        },
+        {
+          "dbf_id": 54965,
+          "popularity": 38.09,
+          "win_rate": 62.5,
+          "name": "Storm's Wrath"
+        },
+        {
+          "dbf_id": 2034,
+          "popularity": 17.07,
+          "win_rate": 14.28,
+          "name": "Dunemaul Shaman"
+        },
+        {
+          "dbf_id": 2610,
+          "popularity": 24.39,
+          "win_rate": 60.0,
+          "name": "Totem Golem"
+        },
+        {
+          "dbf_id": 56411,
+          "popularity": 65.0,
+          "win_rate": 69.23,
+          "name": "Serpentshrine Portal"
+        },
+        {
+          "dbf_id": 62442,
+          "popularity": 22.5,
+          "win_rate": 33.33,
+          "name": "Novice Zapper"
+        },
+        {
+          "dbf_id": 42750,
+          "popularity": 25.64,
+          "win_rate": 30.0,
+          "name": "Drakkari Defender"
+        },
+        {
+          "dbf_id": 2008,
+          "popularity": 5.12,
+          "win_rate": 50.0,
+          "name": "Siltfin Spiritwalker"
+        },
+        {
+          "dbf_id": 505,
+          "popularity": 33.33,
+          "win_rate": 38.46,
+          "name": "Lightning Bolt"
+        },
+        {
+          "dbf_id": 50547,
+          "popularity": 26.31,
+          "win_rate": 90.0,
+          "name": "Rain of Toads"
+        },
+        {
+          "dbf_id": 71234,
+          "popularity": 24.32,
+          "win_rate": 44.44,
+          "name": "Don't Stand in the Fire!"
+        },
+        {
+          "dbf_id": 49052,
+          "popularity": 29.72,
+          "win_rate": 63.63,
+          "name": "Voltaic Burst"
+        },
+        {
+          "dbf_id": 40285,
+          "popularity": 27.02,
+          "win_rate": 40.0,
+          "name": "Jinyu Waterspeaker"
+        },
+        {
+          "dbf_id": 63098,
+          "popularity": 45.94,
+          "win_rate": 47.05,
+          "name": "Perpetual Flame"
+        },
+        {
+          "dbf_id": 61960,
+          "popularity": 8.1,
+          "win_rate": 100.0,
+          "name": "Mistrunner"
+        },
+        {
+          "dbf_id": 54956,
+          "popularity": 25.0,
+          "win_rate": 44.44,
+          "name": "Squallhunter"
+        },
+        {
+          "dbf_id": 47222,
+          "popularity": 41.66,
+          "win_rate": 53.33,
+          "name": "Zap!"
+        },
+        {
+          "dbf_id": 92232,
+          "popularity": 65.71,
+          "win_rate": 47.82,
+          "name": "JIVE, INSECT!"
+        },
+        {
+          "dbf_id": 56292,
+          "popularity": 22.85,
+          "win_rate": 50.0,
+          "name": "Eye of the Storm"
+        },
+        {
+          "dbf_id": 41159,
+          "popularity": 22.85,
+          "win_rate": 62.5,
+          "name": "Volcano"
+        },
+        {
+          "dbf_id": 43322,
+          "popularity": 17.64,
+          "win_rate": 50.0,
+          "name": "Crushing Hand"
+        },
+        {
+          "dbf_id": 48798,
+          "popularity": 35.29,
+          "win_rate": 75.0,
+          "name": "Beakered Lightning"
+        },
+        {
+          "dbf_id": 2010,
+          "popularity": 8.82,
+          "win_rate": 100.0,
+          "name": "Neptulon"
+        },
+        {
+          "dbf_id": 38263,
+          "popularity": 18.18,
+          "win_rate": 66.66,
+          "name": "Flamewreathed Faceless"
+        },
+        {
+          "dbf_id": 69626,
+          "popularity": 57.57,
+          "win_rate": 68.42,
+          "name": "Feral Spirit"
+        },
+        {
+          "dbf_id": 64321,
+          "popularity": 45.16,
+          "win_rate": 78.57,
+          "name": "Canal Slogger"
+        },
+        {
+          "dbf_id": 864,
+          "popularity": 45.16,
+          "win_rate": 64.28,
+          "name": "Lava Burst"
+        },
+        {
+          "dbf_id": 59542,
+          "popularity": 16.12,
+          "win_rate": 20.0,
+          "name": "Runic Carvings"
+        },
+        {
+          "dbf_id": 40529,
+          "popularity": 13.33,
+          "win_rate": 50.0,
+          "name": "Jade Claws"
+        },
+        {
+          "dbf_id": 2290,
+          "popularity": 17.24,
+          "win_rate": 60.0,
+          "name": "Fireguard Destroyer"
+        },
+        {
+          "dbf_id": 79531,
+          "popularity": 10.71,
+          "win_rate": 33.33,
+          "name": "Criminal Lineup"
+        },
+        {
+          "dbf_id": 59558,
+          "popularity": 29.62,
+          "win_rate": 62.5,
+          "name": "Totem Goliath"
+        },
+        {
+          "dbf_id": 618,
+          "popularity": 14.81,
+          "win_rate": 75.0,
+          "name": "Dust Devil"
+        },
+        {
+          "dbf_id": 60016,
+          "popularity": 34.61,
+          "win_rate": 66.66,
+          "name": "Lightning Bloom"
+        },
+        {
+          "dbf_id": 629,
+          "popularity": 37.5,
+          "win_rate": 77.77,
+          "name": "Lightning Storm"
+        },
+        {
+          "dbf_id": 2514,
+          "popularity": 54.54,
+          "win_rate": 66.66,
+          "name": "Ancestral Knowledge"
+        },
+        {
+          "dbf_id": 69630,
+          "popularity": 30.0,
+          "win_rate": 66.66,
+          "name": "Doomhammer"
+        },
+        {
+          "dbf_id": 352,
+          "popularity": 14.28,
+          "win_rate": 50.0,
+          "name": "Doomhammer"
+        },
+        {
+          "dbf_id": 238,
+          "popularity": 63.63,
+          "win_rate": 57.14,
+          "name": "Feral Spirit"
+        },
+        {
+          "dbf_id": 102246,
+          "popularity": 60.0,
+          "win_rate": 66.66,
+          "name": "Ancestral Knowledge"
+        },
+        {
+          "dbf_id": 69629,
+          "popularity": 25.0,
+          "win_rate": 50.0,
+          "name": "Lightning Storm"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

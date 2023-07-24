@@ -1,0 +1,353 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 73906,
+          "popularity": 58.33,
+          "win_rate": 42.85,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 46461,
+          "popularity": 55.55,
+          "win_rate": 40.0,
+          "name": "Void Ripper"
+        },
+        {
+          "dbf_id": 56973,
+          "popularity": 37.5,
+          "win_rate": 33.33,
+          "name": "Sightless Watcher"
+        },
+        {
+          "dbf_id": 61940,
+          "popularity": 37.5,
+          "win_rate": 0.0,
+          "name": "Felsaber"
+        },
+        {
+          "dbf_id": 57194,
+          "popularity": 12.5,
+          "win_rate": 0.0,
+          "name": "Supreme Abyssal"
+        },
+        {
+          "dbf_id": 87317,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Mistake"
+        },
+        {
+          "dbf_id": 56649,
+          "popularity": 42.85,
+          "win_rate": 66.66,
+          "name": "Imprisoned Antaen"
+        },
+        {
+          "dbf_id": 59599,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Desk Imp"
+        },
+        {
+          "dbf_id": 64396,
+          "popularity": 42.85,
+          "win_rate": 100.0,
+          "name": "Felgorger"
+        },
+        {
+          "dbf_id": 57188,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Disguised Wanderer"
+        },
+        {
+          "dbf_id": 39840,
+          "popularity": 66.66,
+          "win_rate": 25.0,
+          "name": "Prince Malchezaar"
+        },
+        {
+          "dbf_id": 64465,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Gan'arg Glaivesmith"
+        },
+        {
+          "dbf_id": 64629,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Metamorfin"
+        },
+        {
+          "dbf_id": 43493,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sneaky Devil"
+        },
+        {
+          "dbf_id": 49502,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Nightmare Amalgam"
+        },
+        {
+          "dbf_id": 556,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Xavius"
+        },
+        {
+          "dbf_id": 67753,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Piggyback Imp"
+        },
+        {
+          "dbf_id": 58455,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Priestess of Fury"
+        },
+        {
+          "dbf_id": 61132,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Bladed Lady"
+        },
+        {
+          "dbf_id": 56820,
+          "popularity": 80.0,
+          "win_rate": 75.0,
+          "name": "Imprisoned Vilefiend"
+        },
+        {
+          "dbf_id": 56806,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Shadowhoof Slayer"
+        },
+        {
+          "dbf_id": 84244,
+          "popularity": 40.0,
+          "win_rate": 0.0,
+          "name": "Vengeful Walloper"
+        },
+        {
+          "dbf_id": 47142,
+          "popularity": 60.0,
+          "win_rate": 33.33,
+          "name": "Witchwood Piper"
+        },
+        {
+          "dbf_id": 86672,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Felscale Evoker"
+        },
+        {
+          "dbf_id": 52950,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Mad Summoner"
+        },
+        {
+          "dbf_id": 56122,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Frenzied Felwing"
+        },
+        {
+          "dbf_id": 67894,
+          "popularity": 100.0,
+          "win_rate": 25.0,
+          "name": "Ur'zul Giant"
+        },
+        {
+          "dbf_id": 58243,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Pit Commander"
+        },
+        {
+          "dbf_id": 40213,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Street Trickster"
+        },
+        {
+          "dbf_id": 52486,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Portal Overfiend"
+        },
+        {
+          "dbf_id": 40465,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Patches the Pirate"
+        },
+        {
+          "dbf_id": 90543,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "The One-Amalgam Band"
+        },
+        {
+          "dbf_id": 84242,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Brutal Annihilan"
+        },
+        {
+          "dbf_id": 64716,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Mo'arg Forgefiend"
+        },
+        {
+          "dbf_id": 79598,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Prosecutor Mel'tranix"
+        },
+        {
+          "dbf_id": 57193,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Mo'arg Artificer"
+        },
+        {
+          "dbf_id": 54433,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Vilefiend"
+        },
+        {
+          "dbf_id": 56189,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Sathrovarr"
+        },
+        {
+          "dbf_id": 58495,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Furious Felfin"
+        },
+        {
+          "dbf_id": 73726,
+          "popularity": 66.66,
+          "win_rate": 100.0,
+          "name": "Xhilag of the Abyss"
+        },
+        {
+          "dbf_id": 56823,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Terrorguard Escapee"
+        },
+        {
+          "dbf_id": 56739,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Ur'zul Horror"
+        },
+        {
+          "dbf_id": 57192,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Scavenging Shivarra"
+        },
+        {
+          "dbf_id": 46991,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Felsoul Inquisitor"
+        },
+        {
+          "dbf_id": 59724,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Spirit Jailer"
+        },
+        {
+          "dbf_id": 96997,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Eye of Shadow"
+        },
+        {
+          "dbf_id": 65609,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Crow's Nest Lookout"
+        },
+        {
+          "dbf_id": 52707,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Portal Keeper"
+        },
+        {
+          "dbf_id": 59865,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Wrathspike Brute"
+        },
+        {
+          "dbf_id": 63230,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Taintheart Tormenter"
+        },
+        {
+          "dbf_id": 58549,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Magtheridon"
+        },
+        {
+          "dbf_id": 61428,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Circus Amalgam"
+        },
+        {
+          "dbf_id": 58489,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Satyr Overseer"
+        },
+        {
+          "dbf_id": 66176,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Illidari Inquisitor"
+        },
+        {
+          "dbf_id": 61269,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Insatiable Felhound"
+        },
+        {
+          "dbf_id": 60143,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ancient Void Hound"
+        },
+        {
+          "dbf_id": 64373,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Irebound Brute"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

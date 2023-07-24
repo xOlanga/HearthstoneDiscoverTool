@@ -1,0 +1,647 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 86228,
+          "popularity": 39.55,
+          "win_rate": 51.2,
+          "name": "The Sunwell"
+        },
+        {
+          "dbf_id": 78349,
+          "popularity": 13.58,
+          "win_rate": 56.41,
+          "name": "Dark Transformation"
+        },
+        {
+          "dbf_id": 78324,
+          "popularity": 50.0,
+          "win_rate": 52.11,
+          "name": "Death Strike"
+        },
+        {
+          "dbf_id": 91251,
+          "popularity": 39.57,
+          "win_rate": 47.32,
+          "name": "Death Growl"
+        },
+        {
+          "dbf_id": 80648,
+          "popularity": 35.58,
+          "win_rate": 65.0,
+          "name": "Remorseless Winter"
+        },
+        {
+          "dbf_id": 78333,
+          "popularity": 35.01,
+          "win_rate": 51.54,
+          "name": "Corpse Explosion"
+        },
+        {
+          "dbf_id": 78317,
+          "popularity": 34.7,
+          "win_rate": 48.38,
+          "name": "Howling Blast"
+        },
+        {
+          "dbf_id": 80090,
+          "popularity": 67.16,
+          "win_rate": 68.33,
+          "name": "The Scourge"
+        },
+        {
+          "dbf_id": 81973,
+          "popularity": 31.95,
+          "win_rate": 58.82,
+          "name": "Glacial Advance"
+        },
+        {
+          "dbf_id": 78334,
+          "popularity": 25.66,
+          "win_rate": 57.35,
+          "name": "Icy Touch"
+        },
+        {
+          "dbf_id": 82088,
+          "popularity": 33.33,
+          "win_rate": 68.18,
+          "name": "Obliterate"
+        },
+        {
+          "dbf_id": 78325,
+          "popularity": 49.42,
+          "win_rate": 60.0,
+          "name": "Frost Strike"
+        },
+        {
+          "dbf_id": 79569,
+          "popularity": 27.09,
+          "win_rate": 47.88,
+          "name": "Defrost"
+        },
+        {
+          "dbf_id": 81206,
+          "popularity": 48.65,
+          "win_rate": 51.96,
+          "name": "Blood Boil"
+        },
+        {
+          "dbf_id": 91412,
+          "popularity": 35.65,
+          "win_rate": 47.82,
+          "name": "Harmonic Metal"
+        },
+        {
+          "dbf_id": 78332,
+          "popularity": 24.21,
+          "win_rate": 48.38,
+          "name": "Heart Strike"
+        },
+        {
+          "dbf_id": 79503,
+          "popularity": 45.88,
+          "win_rate": 49.57,
+          "name": "Asphyxiate"
+        },
+        {
+          "dbf_id": 78352,
+          "popularity": 25.98,
+          "win_rate": 45.45,
+          "name": "Army of the Dead"
+        },
+        {
+          "dbf_id": 80641,
+          "popularity": 12.04,
+          "win_rate": 50.0,
+          "name": "Graveyard Shift"
+        },
+        {
+          "dbf_id": 80664,
+          "popularity": 28.91,
+          "win_rate": 62.5,
+          "name": "Blood Tap"
+        },
+        {
+          "dbf_id": 80736,
+          "popularity": 7.69,
+          "win_rate": 63.15,
+          "name": "Runeforging"
+        },
+        {
+          "dbf_id": 78348,
+          "popularity": 24.89,
+          "win_rate": 67.21,
+          "name": "Unholy Frenzy"
+        },
+        {
+          "dbf_id": 78338,
+          "popularity": 32.78,
+          "win_rate": 52.5,
+          "name": "Horn of Winter"
+        },
+        {
+          "dbf_id": 78320,
+          "popularity": 31.22,
+          "win_rate": 60.81,
+          "name": "Plague Strike"
+        },
+        {
+          "dbf_id": 78342,
+          "popularity": 31.77,
+          "win_rate": 68.0,
+          "name": "Anti-Magic Shell"
+        },
+        {
+          "dbf_id": 80085,
+          "popularity": 28.93,
+          "win_rate": 61.76,
+          "name": "Tomb Guardians"
+        },
+        {
+          "dbf_id": 59207,
+          "popularity": 25.0,
+          "win_rate": 25.0,
+          "name": "Brain Freeze"
+        },
+        {
+          "dbf_id": 59621,
+          "popularity": 45.16,
+          "win_rate": 42.85,
+          "name": "Potion of Illusion"
+        },
+        {
+          "dbf_id": 61282,
+          "popularity": 70.37,
+          "win_rate": 47.36,
+          "name": "Palm Reading"
+        },
+        {
+          "dbf_id": 59223,
+          "popularity": 40.74,
+          "win_rate": 54.54,
+          "name": "Raise Dead"
+        },
+        {
+          "dbf_id": 58976,
+          "popularity": 69.23,
+          "win_rate": 77.77,
+          "name": "Devolving Missiles"
+        },
+        {
+          "dbf_id": 613,
+          "popularity": 15.38,
+          "win_rate": 75.0,
+          "name": "Power Word: Shield"
+        },
+        {
+          "dbf_id": 43414,
+          "popularity": 15.38,
+          "win_rate": 75.0,
+          "name": "Lesser Ruby Spellstone"
+        },
+        {
+          "dbf_id": 61953,
+          "popularity": 7.69,
+          "win_rate": 50.0,
+          "name": "Nitroboost Poison"
+        },
+        {
+          "dbf_id": 55035,
+          "popularity": 16.0,
+          "win_rate": 25.0,
+          "name": "Embiggen"
+        },
+        {
+          "dbf_id": 59542,
+          "popularity": 56.0,
+          "win_rate": 57.14,
+          "name": "Runic Carvings"
+        },
+        {
+          "dbf_id": 47887,
+          "popularity": 12.0,
+          "win_rate": 100.0,
+          "name": "Biology Project"
+        },
+        {
+          "dbf_id": 2999,
+          "popularity": 8.0,
+          "win_rate": 0.0,
+          "name": "Excavated Evil"
+        },
+        {
+          "dbf_id": 42992,
+          "popularity": 41.66,
+          "win_rate": 50.0,
+          "name": "Spirit Lash"
+        },
+        {
+          "dbf_id": 72482,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Illuminate"
+        },
+        {
+          "dbf_id": 48002,
+          "popularity": 8.33,
+          "win_rate": 100.0,
+          "name": "Vivid Nightmare"
+        },
+        {
+          "dbf_id": 43502,
+          "popularity": 54.16,
+          "win_rate": 69.23,
+          "name": "Breath of Sindragosa"
+        },
+        {
+          "dbf_id": 67210,
+          "popularity": 54.16,
+          "win_rate": 69.23,
+          "name": "Siphon Mana"
+        },
+        {
+          "dbf_id": 59725,
+          "popularity": 66.66,
+          "win_rate": 25.0,
+          "name": "Soul Shear"
+        },
+        {
+          "dbf_id": 79745,
+          "popularity": 16.66,
+          "win_rate": 25.0,
+          "name": "Theft Accusation"
+        },
+        {
+          "dbf_id": 77370,
+          "popularity": 41.66,
+          "win_rate": 50.0,
+          "name": "Clean the Scene"
+        },
+        {
+          "dbf_id": 41151,
+          "popularity": 13.04,
+          "win_rate": 0.0,
+          "name": "Flame Geyser"
+        },
+        {
+          "dbf_id": 64391,
+          "popularity": 43.47,
+          "win_rate": 60.0,
+          "name": "Shard of the Naaru"
+        },
+        {
+          "dbf_id": 61944,
+          "popularity": 47.82,
+          "win_rate": 45.45,
+          "name": "Hysteria"
+        },
+        {
+          "dbf_id": 1189,
+          "popularity": 45.45,
+          "win_rate": 50.0,
+          "name": "Silence"
+        },
+        {
+          "dbf_id": 57950,
+          "popularity": 31.81,
+          "win_rate": 42.85,
+          "name": "Deep Freeze"
+        },
+        {
+          "dbf_id": 48692,
+          "popularity": 9.09,
+          "win_rate": 50.0,
+          "name": "Research Project"
+        },
+        {
+          "dbf_id": 61962,
+          "popularity": 77.27,
+          "win_rate": 58.82,
+          "name": "Guidance"
+        },
+        {
+          "dbf_id": 54872,
+          "popularity": 27.27,
+          "win_rate": 83.33,
+          "name": "Whispers of EVIL"
+        },
+        {
+          "dbf_id": 64236,
+          "popularity": 27.27,
+          "win_rate": 50.0,
+          "name": "Sow the Soil"
+        },
+        {
+          "dbf_id": 63062,
+          "popularity": 45.45,
+          "win_rate": 60.0,
+          "name": "Wildfire"
+        },
+        {
+          "dbf_id": 50086,
+          "popularity": 31.81,
+          "win_rate": 71.42,
+          "name": "Blast Wave"
+        },
+        {
+          "dbf_id": 78508,
+          "popularity": 36.36,
+          "win_rate": 25.0,
+          "name": "Vengeful Visage"
+        },
+        {
+          "dbf_id": 662,
+          "popularity": 50.0,
+          "win_rate": 36.36,
+          "name": "Frostbolt"
+        },
+        {
+          "dbf_id": 1367,
+          "popularity": 31.81,
+          "win_rate": 71.42,
+          "name": "Shadow Word: Pain"
+        },
+        {
+          "dbf_id": 56623,
+          "popularity": 36.36,
+          "win_rate": 75.0,
+          "name": "Apotheosis"
+        },
+        {
+          "dbf_id": 85051,
+          "popularity": 72.72,
+          "win_rate": 37.5,
+          "name": "Chitinous Plating"
+        },
+        {
+          "dbf_id": 53932,
+          "popularity": 38.09,
+          "win_rate": 50.0,
+          "name": "Embalming Ritual"
+        },
+        {
+          "dbf_id": 38426,
+          "popularity": 14.28,
+          "win_rate": 33.33,
+          "name": "Power Word: Tentacles"
+        },
+        {
+          "dbf_id": 64392,
+          "popularity": 47.61,
+          "win_rate": 30.0,
+          "name": "Void Shard"
+        },
+        {
+          "dbf_id": 90687,
+          "popularity": 90.47,
+          "win_rate": 57.89,
+          "name": "Fight Over Me"
+        },
+        {
+          "dbf_id": 75556,
+          "popularity": 28.57,
+          "win_rate": 16.66,
+          "name": "Polymorph: Jellyfish"
+        },
+        {
+          "dbf_id": 63056,
+          "popularity": 71.42,
+          "win_rate": 46.66,
+          "name": "Runed Orb"
+        },
+        {
+          "dbf_id": 80120,
+          "popularity": 66.66,
+          "win_rate": 57.14,
+          "name": "Drown"
+        },
+        {
+          "dbf_id": 40375,
+          "popularity": 52.38,
+          "win_rate": 18.18,
+          "name": "Greater Healing Potion"
+        },
+        {
+          "dbf_id": 51734,
+          "popularity": 23.8,
+          "win_rate": 60.0,
+          "name": "Dimensional Ripper"
+        },
+        {
+          "dbf_id": 72483,
+          "popularity": 14.28,
+          "win_rate": 66.66,
+          "name": "Whispers of the Deep"
+        },
+        {
+          "dbf_id": 42009,
+          "popularity": 42.85,
+          "win_rate": 44.44,
+          "name": "Free From Amber"
+        },
+        {
+          "dbf_id": 2568,
+          "popularity": 33.33,
+          "win_rate": 85.71,
+          "name": "Power Word: Glory"
+        },
+        {
+          "dbf_id": 64434,
+          "popularity": 38.09,
+          "win_rate": 25.0,
+          "name": "Ignite"
+        },
+        {
+          "dbf_id": 59402,
+          "popularity": 47.61,
+          "win_rate": 0.0,
+          "name": "Coerce"
+        },
+        {
+          "dbf_id": 62894,
+          "popularity": 33.33,
+          "win_rate": 28.57,
+          "name": "Yoink!"
+        },
+        {
+          "dbf_id": 77305,
+          "popularity": 38.09,
+          "win_rate": 37.5,
+          "name": "The Light! It Burns!"
+        },
+        {
+          "dbf_id": 53576,
+          "popularity": 57.14,
+          "win_rate": 58.33,
+          "name": "Hidden Oasis"
+        },
+        {
+          "dbf_id": 63553,
+          "popularity": 35.0,
+          "win_rate": 57.14,
+          "name": "Oasis Ally"
+        },
+        {
+          "dbf_id": 77659,
+          "popularity": 70.0,
+          "win_rate": 57.14,
+          "name": "Cold Case"
+        },
+        {
+          "dbf_id": 77,
+          "popularity": 50.0,
+          "win_rate": 60.0,
+          "name": "Polymorph"
+        },
+        {
+          "dbf_id": 52819,
+          "popularity": 15.0,
+          "win_rate": 66.66,
+          "name": "The Forest's Aid"
+        },
+        {
+          "dbf_id": 61435,
+          "popularity": 15.0,
+          "win_rate": 100.0,
+          "name": "Insight"
+        },
+        {
+          "dbf_id": 1084,
+          "popularity": 40.0,
+          "win_rate": 37.5,
+          "name": "Mirror Image"
+        },
+        {
+          "dbf_id": 67874,
+          "popularity": 15.0,
+          "win_rate": 33.33,
+          "name": "Arcane Brilliance"
+        },
+        {
+          "dbf_id": 2793,
+          "popularity": 35.0,
+          "win_rate": 57.14,
+          "name": "Mulch"
+        },
+        {
+          "dbf_id": 86624,
+          "popularity": 85.0,
+          "win_rate": 41.17,
+          "name": "Cannibalize"
+        },
+        {
+          "dbf_id": 45308,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Embrace Darkness"
+        },
+        {
+          "dbf_id": 48759,
+          "popularity": 60.0,
+          "win_rate": 50.0,
+          "name": "Cloning Device"
+        },
+        {
+          "dbf_id": 1927,
+          "popularity": 15.0,
+          "win_rate": 33.33,
+          "name": "Flamecannon"
+        },
+        {
+          "dbf_id": 47549,
+          "popularity": 35.0,
+          "win_rate": 85.71,
+          "name": "Divine Hymn"
+        },
+        {
+          "dbf_id": 77562,
+          "popularity": 15.0,
+          "win_rate": 33.33,
+          "name": "Nightshade Bud"
+        },
+        {
+          "dbf_id": 56090,
+          "popularity": 10.0,
+          "win_rate": 50.0,
+          "name": "Dark Prophecy"
+        },
+        {
+          "dbf_id": 145,
+          "popularity": 10.0,
+          "win_rate": 50.0,
+          "name": "Mindgames"
+        },
+        {
+          "dbf_id": 38413,
+          "popularity": 20.0,
+          "win_rate": 50.0,
+          "name": "Forbidden Flame"
+        },
+        {
+          "dbf_id": 48524,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Juicy Psychmelon"
+        },
+        {
+          "dbf_id": 45979,
+          "popularity": 50.0,
+          "win_rate": 60.0,
+          "name": "Psionic Probe"
+        },
+        {
+          "dbf_id": 59221,
+          "popularity": 40.0,
+          "win_rate": 87.5,
+          "name": "Initiation"
+        },
+        {
+          "dbf_id": 61436,
+          "popularity": 20.0,
+          "win_rate": 25.0,
+          "name": "Idol of Y'Shaarj"
+        },
+        {
+          "dbf_id": 54425,
+          "popularity": 45.0,
+          "win_rate": 66.66,
+          "name": "Penance"
+        },
+        {
+          "dbf_id": 62875,
+          "popularity": 30.0,
+          "win_rate": 33.33,
+          "name": "Devouring Plague"
+        },
+        {
+          "dbf_id": 41158,
+          "popularity": 30.0,
+          "win_rate": 33.33,
+          "name": "Mana Bind"
+        },
+        {
+          "dbf_id": 56598,
+          "popularity": 45.0,
+          "win_rate": 77.77,
+          "name": "Psyche Split"
+        },
+        {
+          "dbf_id": 48803,
+          "popularity": 45.0,
+          "win_rate": 44.44,
+          "name": "Unexpected Results"
+        },
+        {
+          "dbf_id": 43424,
+          "popularity": 55.0,
+          "win_rate": 54.54,
+          "name": "Deck of Wonders"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

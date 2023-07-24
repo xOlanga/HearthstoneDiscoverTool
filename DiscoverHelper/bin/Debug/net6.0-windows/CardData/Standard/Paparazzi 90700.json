@@ -1,0 +1,509 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 102216,
+          "popularity": 33.42,
+          "win_rate": 58.9,
+          "name": "Dr. Boom"
+        },
+        {
+          "dbf_id": 86317,
+          "popularity": 5.11,
+          "win_rate": 44.44,
+          "name": "Bonelord Frostwhisper"
+        },
+        {
+          "dbf_id": 69667,
+          "popularity": 24.62,
+          "win_rate": 59.59,
+          "name": "Cairne Bloodhoof"
+        },
+        {
+          "dbf_id": 66868,
+          "popularity": 26.12,
+          "win_rate": 60.82,
+          "name": "Ysera the Dreamer"
+        },
+        {
+          "dbf_id": 73068,
+          "popularity": 6.01,
+          "win_rate": 60.71,
+          "name": "Ini Stormcoil"
+        },
+        {
+          "dbf_id": 79780,
+          "popularity": 60.3,
+          "win_rate": 62.02,
+          "name": "Sylvanas, the Accused"
+        },
+        {
+          "dbf_id": 72923,
+          "popularity": 57.18,
+          "win_rate": 62.68,
+          "name": "Queen Azshara"
+        },
+        {
+          "dbf_id": 69674,
+          "popularity": 21.78,
+          "win_rate": 57.94,
+          "name": "Baron Geddon"
+        },
+        {
+          "dbf_id": 75583,
+          "popularity": 48.55,
+          "win_rate": 60.41,
+          "name": "Neptulon the Tidehunter"
+        },
+        {
+          "dbf_id": 75881,
+          "popularity": 65.26,
+          "win_rate": 61.88,
+          "name": "Sire Denathrius"
+        },
+        {
+          "dbf_id": 91252,
+          "popularity": 25.27,
+          "win_rate": 61.49,
+          "name": "Pozzik, Audio Engineer"
+        },
+        {
+          "dbf_id": 79767,
+          "popularity": 3.2,
+          "win_rate": 61.36,
+          "name": "Prince Renathal"
+        },
+        {
+          "dbf_id": 86367,
+          "popularity": 28.06,
+          "win_rate": 64.15,
+          "name": "Invincible"
+        },
+        {
+          "dbf_id": 92332,
+          "popularity": 48.53,
+          "win_rate": 58.73,
+          "name": "Photographer Fizzle"
+        },
+        {
+          "dbf_id": 71781,
+          "popularity": 21.7,
+          "win_rate": 60.81,
+          "name": "Sir Finley, Sea Guide"
+        },
+        {
+          "dbf_id": 66872,
+          "popularity": 11.52,
+          "win_rate": 50.95,
+          "name": "Deathwing the Destroyer"
+        },
+        {
+          "dbf_id": 102217,
+          "popularity": 30.63,
+          "win_rate": 62.35,
+          "name": "The Black Knight"
+        },
+        {
+          "dbf_id": 79782,
+          "popularity": 15.0,
+          "win_rate": 59.8,
+          "name": "The Jailer"
+        },
+        {
+          "dbf_id": 66870,
+          "popularity": 5.15,
+          "win_rate": 64.28,
+          "name": "Nozdormu the Eternal"
+        },
+        {
+          "dbf_id": 76984,
+          "popularity": 40.37,
+          "win_rate": 55.77,
+          "name": "Theotar, the Mad Duke"
+        },
+        {
+          "dbf_id": 92237,
+          "popularity": 11.86,
+          "win_rate": 51.25,
+          "name": "Tony, King of Piracy"
+        },
+        {
+          "dbf_id": 90543,
+          "popularity": 36.55,
+          "win_rate": 55.89,
+          "name": "The One-Amalgam Band"
+        },
+        {
+          "dbf_id": 66864,
+          "popularity": 47.59,
+          "win_rate": 60.34,
+          "name": "Alexstrasza the Life-Binder"
+        },
+        {
+          "dbf_id": 79935,
+          "popularity": 23.0,
+          "win_rate": 64.37,
+          "name": "Murloc Holmes"
+        },
+        {
+          "dbf_id": 66856,
+          "popularity": 39.56,
+          "win_rate": 58.28,
+          "name": "Taelan Fordring"
+        },
+        {
+          "dbf_id": 79934,
+          "popularity": 11.68,
+          "win_rate": 60.0,
+          "name": "Kael'thas Sinstrider"
+        },
+        {
+          "dbf_id": 66869,
+          "popularity": 8.22,
+          "win_rate": 55.04,
+          "name": "Malygos the Spellweaver"
+        },
+        {
+          "dbf_id": 74907,
+          "popularity": 49.88,
+          "win_rate": 63.18,
+          "name": "Ambassador Faelin"
+        },
+        {
+          "dbf_id": 90749,
+          "popularity": 22.19,
+          "win_rate": 60.06,
+          "name": "E.T.C., Band Manager"
+        },
+        {
+          "dbf_id": 66866,
+          "popularity": 16.23,
+          "win_rate": 53.99,
+          "name": "Onyxia the Broodmother"
+        },
+        {
+          "dbf_id": 86722,
+          "popularity": 25.38,
+          "win_rate": 53.91,
+          "name": "Thaddius, Monstrosity"
+        },
+        {
+          "dbf_id": 72007,
+          "popularity": 47.55,
+          "win_rate": 64.14,
+          "name": "Blademaster Okani"
+        },
+        {
+          "dbf_id": 86626,
+          "popularity": 79.57,
+          "win_rate": 65.48,
+          "name": "Astalor Bloodsworn"
+        },
+        {
+          "dbf_id": 102272,
+          "popularity": 43.37,
+          "win_rate": 62.89,
+          "name": "Ragnaros the Firelord"
+        },
+        {
+          "dbf_id": 66858,
+          "popularity": 42.79,
+          "win_rate": 59.13,
+          "name": "Overlord Runthak"
+        },
+        {
+          "dbf_id": 97112,
+          "popularity": 49.38,
+          "win_rate": 56.21,
+          "name": "Zilliax"
+        },
+        {
+          "dbf_id": 75580,
+          "popularity": 30.39,
+          "win_rate": 59.34,
+          "name": "Ozumat"
+        },
+        {
+          "dbf_id": 86725,
+          "popularity": 47.8,
+          "win_rate": 55.71,
+          "name": "Rivendare, Warrider"
+        },
+        {
+          "dbf_id": 76310,
+          "popularity": 48.28,
+          "win_rate": 60.0,
+          "name": "Zola the Gorgon"
+        },
+        {
+          "dbf_id": 69655,
+          "popularity": 18.9,
+          "win_rate": 64.87,
+          "name": "Bloodmage Thalnos"
+        },
+        {
+          "dbf_id": 86383,
+          "popularity": 57.81,
+          "win_rate": 63.51,
+          "name": "Lor'themar Theron"
+        },
+        {
+          "dbf_id": 86733,
+          "popularity": 45.1,
+          "win_rate": 67.19,
+          "name": "Blightfang"
+        },
+        {
+          "dbf_id": 78644,
+          "popularity": 19.75,
+          "win_rate": 71.95,
+          "name": "Deathbringer Saurfang"
+        },
+        {
+          "dbf_id": 87329,
+          "popularity": 56.41,
+          "win_rate": 72.53,
+          "name": "Frost Queen Sindragosa"
+        },
+        {
+          "dbf_id": 78601,
+          "popularity": 82.23,
+          "win_rate": 63.6,
+          "name": "Patchwerk"
+        },
+        {
+          "dbf_id": 86731,
+          "popularity": 50.49,
+          "win_rate": 67.48,
+          "name": "Thassarian"
+        },
+        {
+          "dbf_id": 90497,
+          "popularity": 36.9,
+          "win_rate": 60.13,
+          "name": "Cage Head"
+        },
+        {
+          "dbf_id": 86732,
+          "popularity": 9.91,
+          "win_rate": 75.67,
+          "name": "Overseer Frigidara"
+        },
+        {
+          "dbf_id": 72488,
+          "popularity": 75.22,
+          "win_rate": 67.84,
+          "name": "Blackwater Behemoth"
+        },
+        {
+          "dbf_id": 84857,
+          "popularity": 18.99,
+          "win_rate": 62.5,
+          "name": "High Cultist Basaleph"
+        },
+        {
+          "dbf_id": 77306,
+          "popularity": 8.45,
+          "win_rate": 57.14,
+          "name": "Pelagos"
+        },
+        {
+          "dbf_id": 102199,
+          "popularity": 40.42,
+          "win_rate": 57.14,
+          "name": "Catrina Muerte"
+        },
+        {
+          "dbf_id": 90956,
+          "popularity": 23.0,
+          "win_rate": 58.66,
+          "name": "Heartbreaker Hedanis"
+        },
+        {
+          "dbf_id": 102718,
+          "popularity": 6.79,
+          "win_rate": 63.63,
+          "name": "Darkbishop Benedictus"
+        },
+        {
+          "dbf_id": 71945,
+          "popularity": 16.66,
+          "win_rate": 60.37,
+          "name": "Priestess Valishj"
+        },
+        {
+          "dbf_id": 78405,
+          "popularity": 32.8,
+          "win_rate": 64.42,
+          "name": "The Harvester of Envy"
+        },
+        {
+          "dbf_id": 84207,
+          "popularity": 46.92,
+          "win_rate": 56.55,
+          "name": "Sister Svalna"
+        },
+        {
+          "dbf_id": 86539,
+          "popularity": 65.77,
+          "win_rate": 63.41,
+          "name": "Tess Greymane"
+        },
+        {
+          "dbf_id": 77152,
+          "popularity": 25.55,
+          "win_rate": 45.65,
+          "name": "Halkias"
+        },
+        {
+          "dbf_id": 102206,
+          "popularity": 43.42,
+          "win_rate": 67.1,
+          "name": "Shadowjeweler Hanar"
+        },
+        {
+          "dbf_id": 86120,
+          "popularity": 53.75,
+          "win_rate": 41.93,
+          "name": "Potionmaster Putricide"
+        },
+        {
+          "dbf_id": 90603,
+          "popularity": 26.31,
+          "win_rate": 66.66,
+          "name": "MC Blingtron"
+        },
+        {
+          "dbf_id": 72495,
+          "popularity": 11.17,
+          "win_rate": 52.63,
+          "name": "Pirate Admiral Hooktusk"
+        },
+        {
+          "dbf_id": 72536,
+          "popularity": 62.94,
+          "win_rate": 66.35,
+          "name": "Crabatoa"
+        },
+        {
+          "dbf_id": 77558,
+          "popularity": 19.04,
+          "win_rate": 62.5,
+          "name": "Necrolord Draka"
+        },
+        {
+          "dbf_id": 62347,
+          "popularity": 46.56,
+          "win_rate": 50.81,
+          "name": "Aegwynn, the Guardian"
+        },
+        {
+          "dbf_id": 96992,
+          "popularity": 19.84,
+          "win_rate": 72.0,
+          "name": "DJ Manastorm"
+        },
+        {
+          "dbf_id": 102195,
+          "popularity": 19.84,
+          "win_rate": 68.0,
+          "name": "Stargazer Luna"
+        },
+        {
+          "dbf_id": 71841,
+          "popularity": 56.45,
+          "win_rate": 55.71,
+          "name": "Gaia, the Techtonic"
+        },
+        {
+          "dbf_id": 78397,
+          "popularity": 28.57,
+          "win_rate": 67.64,
+          "name": "Orion, Mansion Manager"
+        },
+        {
+          "dbf_id": 84003,
+          "popularity": 58.47,
+          "win_rate": 68.11,
+          "name": "Grand Magister Rommath"
+        },
+        {
+          "dbf_id": 78394,
+          "popularity": 41.88,
+          "win_rate": 63.26,
+          "name": "Kel'Thuzad, the Inevitable"
+        },
+        {
+          "dbf_id": 72024,
+          "popularity": 37.93,
+          "win_rate": 61.36,
+          "name": "Lady Naz'jar"
+        },
+        {
+          "dbf_id": 77609,
+          "popularity": 49.09,
+          "win_rate": 66.66,
+          "name": "Commander Sivara"
+        },
+        {
+          "dbf_id": 84390,
+          "popularity": 24.07,
+          "win_rate": 69.23,
+          "name": "Vexallus"
+        },
+        {
+          "dbf_id": 75639,
+          "popularity": 35.71,
+          "win_rate": 65.71,
+          "name": "Commander Ulthok"
+        },
+        {
+          "dbf_id": 79111,
+          "popularity": 58.51,
+          "win_rate": 52.72,
+          "name": "Lady Darkvein"
+        },
+        {
+          "dbf_id": 73446,
+          "popularity": 40.42,
+          "win_rate": 63.15,
+          "name": "Za'qul"
+        },
+        {
+          "dbf_id": 102213,
+          "popularity": 28.72,
+          "win_rate": 59.25,
+          "name": "Mal'Ganis"
+        },
+        {
+          "dbf_id": 84302,
+          "popularity": 83.69,
+          "win_rate": 63.63,
+          "name": "Dar'Khan Drathir"
+        },
+        {
+          "dbf_id": 74741,
+          "popularity": 52.22,
+          "win_rate": 61.7,
+          "name": "Gigafin"
+        },
+        {
+          "dbf_id": 90463,
+          "popularity": 25.88,
+          "win_rate": 45.45,
+          "name": "Rin, Orchestrator of Doom"
+        },
+        {
+          "dbf_id": 84290,
+          "popularity": 12.04,
+          "win_rate": 80.0,
+          "name": "Devourer of Souls"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

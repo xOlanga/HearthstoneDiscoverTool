@@ -1,0 +1,611 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 56386,
+          "popularity": 35.71,
+          "win_rate": 55.29,
+          "name": "Netherwind Portal"
+        },
+        {
+          "dbf_id": 57950,
+          "popularity": 29.95,
+          "win_rate": 46.47,
+          "name": "Deep Freeze"
+        },
+        {
+          "dbf_id": 621,
+          "popularity": 46.58,
+          "win_rate": 44.95,
+          "name": "Ice Barrier"
+        },
+        {
+          "dbf_id": 43502,
+          "popularity": 39.03,
+          "win_rate": 51.68,
+          "name": "Breath of Sindragosa"
+        },
+        {
+          "dbf_id": 79596,
+          "popularity": 39.64,
+          "win_rate": 53.33,
+          "name": "Life Sentence"
+        },
+        {
+          "dbf_id": 84428,
+          "popularity": 41.33,
+          "win_rate": 49.46,
+          "name": "Arcane Defenders"
+        },
+        {
+          "dbf_id": 49081,
+          "popularity": 27.8,
+          "win_rate": 54.83,
+          "name": "Shooting Star"
+        },
+        {
+          "dbf_id": 40411,
+          "popularity": 32.28,
+          "win_rate": 54.16,
+          "name": "Greater Arcane Missiles"
+        },
+        {
+          "dbf_id": 192,
+          "popularity": 66.66,
+          "win_rate": 48.64,
+          "name": "Ice Block"
+        },
+        {
+          "dbf_id": 40409,
+          "popularity": 47.96,
+          "win_rate": 58.49,
+          "name": "Potion of Polymorph"
+        },
+        {
+          "dbf_id": 61587,
+          "popularity": 19.0,
+          "win_rate": 64.28,
+          "name": "Deck of Lunacy"
+        },
+        {
+          "dbf_id": 58976,
+          "popularity": 67.27,
+          "win_rate": 56.08,
+          "name": "Devolving Missiles"
+        },
+        {
+          "dbf_id": 63062,
+          "popularity": 14.54,
+          "win_rate": 68.75,
+          "name": "Wildfire"
+        },
+        {
+          "dbf_id": 286,
+          "popularity": 29.22,
+          "win_rate": 62.5,
+          "name": "Vaporize"
+        },
+        {
+          "dbf_id": 64423,
+          "popularity": 38.07,
+          "win_rate": 42.16,
+          "name": "Fire Sale"
+        },
+        {
+          "dbf_id": 52262,
+          "popularity": 46.75,
+          "win_rate": 62.37,
+          "name": "Tome of Intellect"
+        },
+        {
+          "dbf_id": 64434,
+          "popularity": 54.88,
+          "win_rate": 56.77,
+          "name": "Ignite"
+        },
+        {
+          "dbf_id": 55281,
+          "popularity": 37.2,
+          "win_rate": 51.25,
+          "name": "Learn Draconic"
+        },
+        {
+          "dbf_id": 50230,
+          "popularity": 20.56,
+          "win_rate": 52.27,
+          "name": "Splitting Image"
+        },
+        {
+          "dbf_id": 40297,
+          "popularity": 23.36,
+          "win_rate": 56.0,
+          "name": "Volcanic Potion"
+        },
+        {
+          "dbf_id": 40324,
+          "popularity": 32.24,
+          "win_rate": 50.72,
+          "name": "Freezing Potion"
+        },
+        {
+          "dbf_id": 43407,
+          "popularity": 51.86,
+          "win_rate": 55.85,
+          "name": "Explosive Runes"
+        },
+        {
+          "dbf_id": 63056,
+          "popularity": 70.42,
+          "win_rate": 57.33,
+          "name": "Runed Orb"
+        },
+        {
+          "dbf_id": 54906,
+          "popularity": 25.35,
+          "win_rate": 53.7,
+          "name": "Arcane Breath"
+        },
+        {
+          "dbf_id": 42754,
+          "popularity": 23.58,
+          "win_rate": 60.0,
+          "name": "Frozen Clone"
+        },
+        {
+          "dbf_id": 72650,
+          "popularity": 4.24,
+          "win_rate": 22.22,
+          "name": "Seafloor Gateway"
+        },
+        {
+          "dbf_id": 51971,
+          "popularity": 29.24,
+          "win_rate": 50.0,
+          "name": "Conjurer's Calling"
+        },
+        {
+          "dbf_id": 50122,
+          "popularity": 13.27,
+          "win_rate": 32.14,
+          "name": "Scorch"
+        },
+        {
+          "dbf_id": 90592,
+          "popularity": 51.9,
+          "win_rate": 53.21,
+          "name": "Rewind"
+        },
+        {
+          "dbf_id": 55276,
+          "popularity": 35.71,
+          "win_rate": 53.33,
+          "name": "Rolling Fireball"
+        },
+        {
+          "dbf_id": 2572,
+          "popularity": 25.23,
+          "win_rate": 54.71,
+          "name": "Arcane Blast"
+        },
+        {
+          "dbf_id": 97361,
+          "popularity": 63.8,
+          "win_rate": 55.97,
+          "name": "Infinitize the Maxitude"
+        },
+        {
+          "dbf_id": 48198,
+          "popularity": 21.53,
+          "win_rate": 31.11,
+          "name": "Luna's Pocket Galaxy"
+        },
+        {
+          "dbf_id": 70204,
+          "popularity": 2.87,
+          "win_rate": 33.33,
+          "name": "Iceblood Tower"
+        },
+        {
+          "dbf_id": 1801,
+          "popularity": 34.44,
+          "win_rate": 59.72,
+          "name": "Duplicate"
+        },
+        {
+          "dbf_id": 61179,
+          "popularity": 44.97,
+          "win_rate": 59.57,
+          "name": "Mask of C'Thun"
+        },
+        {
+          "dbf_id": 59540,
+          "popularity": 37.5,
+          "win_rate": 47.43,
+          "name": "Combustion"
+        },
+        {
+          "dbf_id": 78508,
+          "popularity": 31.25,
+          "win_rate": 52.3,
+          "name": "Vengeful Visage"
+        },
+        {
+          "dbf_id": 48692,
+          "popularity": 34.13,
+          "win_rate": 35.21,
+          "name": "Research Project"
+        },
+        {
+          "dbf_id": 41151,
+          "popularity": 30.76,
+          "win_rate": 54.68,
+          "name": "Flame Geyser"
+        },
+        {
+          "dbf_id": 97360,
+          "popularity": 38.83,
+          "win_rate": 53.75,
+          "name": "Volume Up"
+        },
+        {
+          "dbf_id": 71229,
+          "popularity": 27.18,
+          "win_rate": 35.71,
+          "name": "Deep Breath"
+        },
+        {
+          "dbf_id": 2874,
+          "popularity": 40.29,
+          "win_rate": 55.42,
+          "name": "Forgotten Torch"
+        },
+        {
+          "dbf_id": 63553,
+          "popularity": 30.73,
+          "win_rate": 52.38,
+          "name": "Oasis Ally"
+        },
+        {
+          "dbf_id": 61180,
+          "popularity": 7.31,
+          "win_rate": 33.33,
+          "name": "Grand Finale"
+        },
+        {
+          "dbf_id": 59639,
+          "popularity": 18.13,
+          "win_rate": 40.54,
+          "name": "Cram Session"
+        },
+        {
+          "dbf_id": 52640,
+          "popularity": 40.19,
+          "win_rate": 63.41,
+          "name": "Power of Creation"
+        },
+        {
+          "dbf_id": 90738,
+          "popularity": 34.31,
+          "win_rate": 50.0,
+          "name": "Synthesize"
+        },
+        {
+          "dbf_id": 52639,
+          "popularity": 41.17,
+          "win_rate": 55.95,
+          "name": "Ray of Frost"
+        },
+        {
+          "dbf_id": 56460,
+          "popularity": 29.41,
+          "win_rate": 55.0,
+          "name": "Font of Power"
+        },
+        {
+          "dbf_id": 41496,
+          "popularity": 64.53,
+          "win_rate": 51.9,
+          "name": "Primordial Glyph"
+        },
+        {
+          "dbf_id": 53823,
+          "popularity": 40.88,
+          "win_rate": 53.01,
+          "name": "Flame Ward"
+        },
+        {
+          "dbf_id": 2284,
+          "popularity": 18.71,
+          "win_rate": 57.89,
+          "name": "Dragon's Breath"
+        },
+        {
+          "dbf_id": 447,
+          "popularity": 26.23,
+          "win_rate": 45.28,
+          "name": "Arcane Explosion"
+        },
+        {
+          "dbf_id": 38418,
+          "popularity": 32.17,
+          "win_rate": 50.76,
+          "name": "Cabalist's Tome"
+        },
+        {
+          "dbf_id": 47054,
+          "popularity": 6.43,
+          "win_rate": 38.46,
+          "name": "Book of Specters"
+        },
+        {
+          "dbf_id": 86274,
+          "popularity": 36.63,
+          "win_rate": 64.86,
+          "name": "Arcane Bolt"
+        },
+        {
+          "dbf_id": 47821,
+          "popularity": 23.88,
+          "win_rate": 43.75,
+          "name": "Snap Freeze"
+        },
+        {
+          "dbf_id": 50086,
+          "popularity": 27.36,
+          "win_rate": 30.9,
+          "name": "Blast Wave"
+        },
+        {
+          "dbf_id": 59213,
+          "popularity": 34.0,
+          "win_rate": 51.47,
+          "name": "Primordial Studies"
+        },
+        {
+          "dbf_id": 62804,
+          "popularity": 34.0,
+          "win_rate": 48.52,
+          "name": "Flurry (Rank 1)"
+        },
+        {
+          "dbf_id": 77,
+          "popularity": 42.5,
+          "win_rate": 57.64,
+          "name": "Polymorph"
+        },
+        {
+          "dbf_id": 65140,
+          "popularity": 16.0,
+          "win_rate": 56.25,
+          "name": "Hot Streak"
+        },
+        {
+          "dbf_id": 79482,
+          "popularity": 41.2,
+          "win_rate": 56.09,
+          "name": "Deathborne"
+        },
+        {
+          "dbf_id": 79548,
+          "popularity": 68.34,
+          "win_rate": 67.64,
+          "name": "Objection!"
+        },
+        {
+          "dbf_id": 38407,
+          "popularity": 5.02,
+          "win_rate": 20.0,
+          "name": "Shatter"
+        },
+        {
+          "dbf_id": 39715,
+          "popularity": 30.65,
+          "win_rate": 52.45,
+          "name": "Firelands Portal"
+        },
+        {
+          "dbf_id": 43193,
+          "popularity": 21.6,
+          "win_rate": 55.81,
+          "name": "Simulacrum"
+        },
+        {
+          "dbf_id": 90534,
+          "popularity": 36.36,
+          "win_rate": 56.94,
+          "name": "Lightshow"
+        },
+        {
+          "dbf_id": 46715,
+          "popularity": 42.42,
+          "win_rate": 53.57,
+          "name": "Cinderstorm"
+        },
+        {
+          "dbf_id": 48803,
+          "popularity": 22.72,
+          "win_rate": 46.66,
+          "name": "Unexpected Results"
+        },
+        {
+          "dbf_id": 366,
+          "popularity": 34.84,
+          "win_rate": 65.21,
+          "name": "Spellbender"
+        },
+        {
+          "dbf_id": 47978,
+          "popularity": 24.87,
+          "win_rate": 48.97,
+          "name": "Astral Rift"
+        },
+        {
+          "dbf_id": 1927,
+          "popularity": 40.1,
+          "win_rate": 50.63,
+          "name": "Flamecannon"
+        },
+        {
+          "dbf_id": 71290,
+          "popularity": 29.44,
+          "win_rate": 48.27,
+          "name": "Drakefire Amulet"
+        },
+        {
+          "dbf_id": 61585,
+          "popularity": 17.34,
+          "win_rate": 55.88,
+          "name": "Rigged Faire Game"
+        },
+        {
+          "dbf_id": 1929,
+          "popularity": 37.75,
+          "win_rate": 51.35,
+          "name": "Unstable Portal"
+        },
+        {
+          "dbf_id": 1941,
+          "popularity": 20.91,
+          "win_rate": 43.9,
+          "name": "Echo of Medivh"
+        },
+        {
+          "dbf_id": 86438,
+          "popularity": 48.46,
+          "win_rate": 46.31,
+          "name": "Tear Reality"
+        },
+        {
+          "dbf_id": 77642,
+          "popularity": 42.05,
+          "win_rate": 52.43,
+          "name": "Solid Alibi"
+        },
+        {
+          "dbf_id": 45271,
+          "popularity": 19.58,
+          "win_rate": 39.47,
+          "name": "Dragon's Fury"
+        },
+        {
+          "dbf_id": 70011,
+          "popularity": 41.45,
+          "win_rate": 52.5,
+          "name": "Rune of the Archmage"
+        },
+        {
+          "dbf_id": 67210,
+          "popularity": 53.88,
+          "win_rate": 53.84,
+          "name": "Siphon Mana"
+        },
+        {
+          "dbf_id": 54772,
+          "popularity": 13.47,
+          "win_rate": 46.15,
+          "name": "Ancient Mysteries"
+        },
+        {
+          "dbf_id": 63057,
+          "popularity": 32.64,
+          "win_rate": 49.2,
+          "name": "Refreshing Spring Water"
+        },
+        {
+          "dbf_id": 43424,
+          "popularity": 38.02,
+          "win_rate": 53.42,
+          "name": "Deck of Wonders"
+        },
+        {
+          "dbf_id": 57217,
+          "popularity": 14.58,
+          "win_rate": 53.57,
+          "name": "Apexis Blast"
+        },
+        {
+          "dbf_id": 43414,
+          "popularity": 20.94,
+          "win_rate": 47.5,
+          "name": "Lesser Ruby Spellstone"
+        },
+        {
+          "dbf_id": 56385,
+          "popularity": 33.5,
+          "win_rate": 46.87,
+          "name": "Incanter's Flow"
+        },
+        {
+          "dbf_id": 662,
+          "popularity": 50.26,
+          "win_rate": 53.12,
+          "name": "Frostbolt"
+        },
+        {
+          "dbf_id": 53442,
+          "popularity": 41.79,
+          "win_rate": 45.56,
+          "name": "Puzzle Box of Yogg-Saron"
+        },
+        {
+          "dbf_id": 2539,
+          "popularity": 21.16,
+          "win_rate": 47.5,
+          "name": "Flame Lance"
+        },
+        {
+          "dbf_id": 52255,
+          "popularity": 17.55,
+          "win_rate": 54.54,
+          "name": "Icicle"
+        },
+        {
+          "dbf_id": 84354,
+          "popularity": 44.14,
+          "win_rate": 61.44,
+          "name": "Frozen Touch"
+        },
+        {
+          "dbf_id": 70005,
+          "popularity": 31.91,
+          "win_rate": 50.0,
+          "name": "Build a Snowman"
+        },
+        {
+          "dbf_id": 1084,
+          "popularity": 30.48,
+          "win_rate": 50.87,
+          "name": "Mirror Image"
+        },
+        {
+          "dbf_id": 61291,
+          "popularity": 50.8,
+          "win_rate": 55.78,
+          "name": "Ring Toss"
+        },
+        {
+          "dbf_id": 2541,
+          "popularity": 14.51,
+          "win_rate": 74.07,
+          "name": "Effigy"
+        },
+        {
+          "dbf_id": 63515,
+          "popularity": 6.45,
+          "win_rate": 25.0,
+          "name": "Shattering Blast"
+        },
+        {
+          "dbf_id": 564,
+          "popularity": 44.62,
+          "win_rate": 53.01,
+          "name": "Arcane Missiles"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

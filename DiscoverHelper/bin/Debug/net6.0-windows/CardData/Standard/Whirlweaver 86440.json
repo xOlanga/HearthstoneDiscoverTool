@@ -1,0 +1,149 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 76319,
+          "popularity": 32.64,
+          "win_rate": 56.69,
+          "name": "Tar Creeper"
+        },
+        {
+          "dbf_id": 72248,
+          "popularity": 22.13,
+          "win_rate": 61.72,
+          "name": "Emerald Skytalon"
+        },
+        {
+          "dbf_id": 73906,
+          "popularity": 47.8,
+          "win_rate": 56.32,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 75583,
+          "popularity": 71.7,
+          "win_rate": 60.53,
+          "name": "Neptulon the Tidehunter"
+        },
+        {
+          "dbf_id": 72586,
+          "popularity": 16.89,
+          "win_rate": 57.37,
+          "name": "Reefwalker"
+        },
+        {
+          "dbf_id": 78375,
+          "popularity": 30.74,
+          "win_rate": 55.85,
+          "name": "Ashen Elemental"
+        },
+        {
+          "dbf_id": 88982,
+          "popularity": 18.18,
+          "win_rate": 48.43,
+          "name": "Rolling Stone"
+        },
+        {
+          "dbf_id": 71646,
+          "popularity": 5.91,
+          "win_rate": 60.0,
+          "name": "Bubbler"
+        },
+        {
+          "dbf_id": 102272,
+          "popularity": 57.78,
+          "win_rate": 67.87,
+          "name": "Ragnaros the Firelord"
+        },
+        {
+          "dbf_id": 91175,
+          "popularity": 15.96,
+          "win_rate": 60.37,
+          "name": "Static Waveform"
+        },
+        {
+          "dbf_id": 102227,
+          "popularity": 27.74,
+          "win_rate": 58.24,
+          "name": "Glacial Shard"
+        },
+        {
+          "dbf_id": 85034,
+          "popularity": 61.28,
+          "win_rate": 63.18,
+          "name": "Prismatic Elemental"
+        },
+        {
+          "dbf_id": 69674,
+          "popularity": 26.99,
+          "win_rate": 56.81,
+          "name": "Baron Geddon"
+        },
+        {
+          "dbf_id": 84390,
+          "popularity": 33.75,
+          "win_rate": 56.6,
+          "name": "Vexallus"
+        },
+        {
+          "dbf_id": 90543,
+          "popularity": 46.0,
+          "win_rate": 61.11,
+          "name": "The One-Amalgam Band"
+        },
+        {
+          "dbf_id": 87317,
+          "popularity": 5.82,
+          "win_rate": 77.77,
+          "name": "Mistake"
+        },
+        {
+          "dbf_id": 97374,
+          "popularity": 46.75,
+          "win_rate": 55.47,
+          "name": "Arcane Artificer"
+        },
+        {
+          "dbf_id": 75555,
+          "popularity": 31.94,
+          "win_rate": 64.13,
+          "name": "Submerged Spacerock"
+        },
+        {
+          "dbf_id": 77152,
+          "popularity": 35.48,
+          "win_rate": 45.45,
+          "name": "Halkias"
+        },
+        {
+          "dbf_id": 76259,
+          "popularity": 3.84,
+          "win_rate": 0.0,
+          "name": "Shattershambler"
+        },
+        {
+          "dbf_id": 97608,
+          "popularity": 30.76,
+          "win_rate": 50.0,
+          "name": "Mana Geode"
+        },
+        {
+          "dbf_id": 74988,
+          "popularity": 22.22,
+          "win_rate": 50.0,
+          "name": "Disarming Elemental"
+        },
+        {
+          "dbf_id": 69731,
+          "popularity": 57.14,
+          "win_rate": 50.0,
+          "name": "Menacing Nimbus"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

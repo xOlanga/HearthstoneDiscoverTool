@@ -1,0 +1,221 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 102246,
+          "popularity": 33.55,
+          "win_rate": 57.97,
+          "name": "Ancestral Knowledge"
+        },
+        {
+          "dbf_id": 75590,
+          "popularity": 33.83,
+          "win_rate": 52.63,
+          "name": "Command of Neptulon"
+        },
+        {
+          "dbf_id": 102207,
+          "popularity": 20.05,
+          "win_rate": 49.3,
+          "name": "Overdraft"
+        },
+        {
+          "dbf_id": 92335,
+          "popularity": 42.69,
+          "win_rate": 57.04,
+          "name": "Pack the House"
+        },
+        {
+          "dbf_id": 92222,
+          "popularity": 36.21,
+          "win_rate": 52.98,
+          "name": "Altered Chord"
+        },
+        {
+          "dbf_id": 69625,
+          "popularity": 27.2,
+          "win_rate": 50.81,
+          "name": "Lightning Bolt"
+        },
+        {
+          "dbf_id": 79531,
+          "popularity": 25.54,
+          "win_rate": 58.89,
+          "name": "Criminal Lineup"
+        },
+        {
+          "dbf_id": 69629,
+          "popularity": 35.45,
+          "win_rate": 56.22,
+          "name": "Lightning Storm"
+        },
+        {
+          "dbf_id": 77209,
+          "popularity": 45.39,
+          "win_rate": 55.76,
+          "name": "Azsharan Scroll"
+        },
+        {
+          "dbf_id": 72508,
+          "popularity": 39.31,
+          "win_rate": 54.33,
+          "name": "Scalding Geyser"
+        },
+        {
+          "dbf_id": 76293,
+          "popularity": 27.64,
+          "win_rate": 56.86,
+          "name": "Far Sight"
+        },
+        {
+          "dbf_id": 69626,
+          "popularity": 36.24,
+          "win_rate": 52.77,
+          "name": "Feral Spirit"
+        },
+        {
+          "dbf_id": 86150,
+          "popularity": 29.59,
+          "win_rate": 44.82,
+          "name": "Prescience"
+        },
+        {
+          "dbf_id": 72416,
+          "popularity": 27.2,
+          "win_rate": 46.47,
+          "name": "Schooling"
+        },
+        {
+          "dbf_id": 92232,
+          "popularity": 56.68,
+          "win_rate": 65.71,
+          "name": "JIVE, INSECT!"
+        },
+        {
+          "dbf_id": 77211,
+          "popularity": 44.79,
+          "win_rate": 57.57,
+          "name": "Sunken Scroll"
+        },
+        {
+          "dbf_id": 69551,
+          "popularity": 23.68,
+          "win_rate": 52.77,
+          "name": "Hex"
+        },
+        {
+          "dbf_id": 92325,
+          "popularity": 21.77,
+          "win_rate": 59.25,
+          "name": "Chill Vibes"
+        },
+        {
+          "dbf_id": 102208,
+          "popularity": 24.34,
+          "win_rate": 50.0,
+          "name": "Zap!"
+        },
+        {
+          "dbf_id": 86505,
+          "popularity": 35.45,
+          "win_rate": 61.53,
+          "name": "Cold Storage"
+        },
+        {
+          "dbf_id": 92276,
+          "popularity": 45.9,
+          "win_rate": 46.42,
+          "name": "Melomania"
+        },
+        {
+          "dbf_id": 84209,
+          "popularity": 25.42,
+          "win_rate": 46.66,
+          "name": "Deathweaver Aura"
+        },
+        {
+          "dbf_id": 72316,
+          "popularity": 39.28,
+          "win_rate": 40.9,
+          "name": "Bioluminescence"
+        },
+        {
+          "dbf_id": 77554,
+          "popularity": 19.14,
+          "win_rate": 66.66,
+          "name": "Bloodlust"
+        },
+        {
+          "dbf_id": 84219,
+          "popularity": 40.42,
+          "win_rate": 73.68,
+          "name": "From De Other Side"
+        },
+        {
+          "dbf_id": 76975,
+          "popularity": 32.55,
+          "win_rate": 64.28,
+          "name": "Convincing Disguise"
+        },
+        {
+          "dbf_id": 79542,
+          "popularity": 28.2,
+          "win_rate": 63.63,
+          "name": "Totemic Evidence"
+        },
+        {
+          "dbf_id": 76982,
+          "popularity": 32.43,
+          "win_rate": 50.0,
+          "name": "Primordial Wave"
+        },
+        {
+          "dbf_id": 86504,
+          "popularity": 11.53,
+          "win_rate": 33.33,
+          "name": "Blazing Transmutation"
+        },
+        {
+          "dbf_id": 84212,
+          "popularity": 45.0,
+          "win_rate": 66.66,
+          "name": "Shadow Suffusion"
+        },
+        {
+          "dbf_id": 86228,
+          "popularity": 38.88,
+          "win_rate": 71.42,
+          "name": "The Sunwell"
+        },
+        {
+          "dbf_id": 77305,
+          "popularity": 53.84,
+          "win_rate": 85.71,
+          "name": "The Light! It Burns!"
+        },
+        {
+          "dbf_id": 86624,
+          "popularity": 81.81,
+          "win_rate": 66.66,
+          "name": "Cannibalize"
+        },
+        {
+          "dbf_id": 77368,
+          "popularity": 45.45,
+          "win_rate": 80.0,
+          "name": "Identity Theft"
+        },
+        {
+          "dbf_id": 84206,
+          "popularity": 40.0,
+          "win_rate": 25.0,
+          "name": "Shadow Word: Undeath"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

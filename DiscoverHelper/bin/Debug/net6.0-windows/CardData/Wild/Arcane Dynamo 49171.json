@@ -1,0 +1,281 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 80090,
+          "popularity": 30.21,
+          "win_rate": 61.9,
+          "name": "The Scourge"
+        },
+        {
+          "dbf_id": 78333,
+          "popularity": 78.3,
+          "win_rate": 66.66,
+          "name": "Corpse Explosion"
+        },
+        {
+          "dbf_id": 78352,
+          "popularity": 6.74,
+          "win_rate": 72.22,
+          "name": "Army of the Dead"
+        },
+        {
+          "dbf_id": 81206,
+          "popularity": 17.29,
+          "win_rate": 54.34,
+          "name": "Blood Boil"
+        },
+        {
+          "dbf_id": 50004,
+          "popularity": 57.14,
+          "win_rate": 50.0,
+          "name": "Void Contract"
+        },
+        {
+          "dbf_id": 46286,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Cataclysm"
+        },
+        {
+          "dbf_id": 2041,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Cobra Shot"
+        },
+        {
+          "dbf_id": 67758,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Impfestation"
+        },
+        {
+          "dbf_id": 64355,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Tiny Toys"
+        },
+        {
+          "dbf_id": 48823,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ectomancy"
+        },
+        {
+          "dbf_id": 38770,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "DOOM!"
+        },
+        {
+          "dbf_id": 70003,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Felfire in the Hole!"
+        },
+        {
+          "dbf_id": 91001,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Symphony of Sins"
+        },
+        {
+          "dbf_id": 79108,
+          "popularity": 100.0,
+          "win_rate": 66.66,
+          "name": "Shadow Waltz"
+        },
+        {
+          "dbf_id": 51966,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Darkest Hour"
+        },
+        {
+          "dbf_id": 61885,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Deck of Chaos"
+        },
+        {
+          "dbf_id": 61436,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Idol of Y'Shaarj"
+        },
+        {
+          "dbf_id": 67192,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Glaciate"
+        },
+        {
+          "dbf_id": 79531,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Criminal Lineup"
+        },
+        {
+          "dbf_id": 1171,
+          "popularity": 66.66,
+          "win_rate": 100.0,
+          "name": "Bloodlust"
+        },
+        {
+          "dbf_id": 54424,
+          "popularity": 66.66,
+          "win_rate": 0.0,
+          "name": "Swarm of Locusts"
+        },
+        {
+          "dbf_id": 61690,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Jewel of N'Zoth"
+        },
+        {
+          "dbf_id": 50547,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rain of Toads"
+        },
+        {
+          "dbf_id": 84267,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Soul Barrage"
+        },
+        {
+          "dbf_id": 54160,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Earthquake"
+        },
+        {
+          "dbf_id": 48799,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Eureka!"
+        },
+        {
+          "dbf_id": 86574,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Faithful Companions"
+        },
+        {
+          "dbf_id": 2632,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dark Bargain"
+        },
+        {
+          "dbf_id": 56292,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Eye of the Storm"
+        },
+        {
+          "dbf_id": 64627,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rats of Extraordinary Size"
+        },
+        {
+          "dbf_id": 92335,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Pack the House"
+        },
+        {
+          "dbf_id": 50991,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Demonbolt"
+        },
+        {
+          "dbf_id": 59542,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Runic Carvings"
+        },
+        {
+          "dbf_id": 43363,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Lesser Emerald Spellstone"
+        },
+        {
+          "dbf_id": 39197,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Kara Kazham!"
+        },
+        {
+          "dbf_id": 53099,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Hunting Party"
+        },
+        {
+          "dbf_id": 46450,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Crushing Walls"
+        },
+        {
+          "dbf_id": 45271,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dragon's Fury"
+        },
+        {
+          "dbf_id": 45546,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "To My Side!"
+        },
+        {
+          "dbf_id": 3007,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Everyfin is Awesome"
+        },
+        {
+          "dbf_id": 69635,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Twisting Nether"
+        },
+        {
+          "dbf_id": 75590,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Command of Neptulon"
+        },
+        {
+          "dbf_id": 79482,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Deathborne"
+        },
+        {
+          "dbf_id": 84219,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "From De Other Side"
+        },
+        {
+          "dbf_id": 50466,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Baited Arrow"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

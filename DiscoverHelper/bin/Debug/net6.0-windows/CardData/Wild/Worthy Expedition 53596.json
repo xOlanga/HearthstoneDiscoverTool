@@ -1,0 +1,329 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 42651,
+          "popularity": 35.82,
+          "win_rate": 54.16,
+          "name": "Druid of the Swarm"
+        },
+        {
+          "dbf_id": 2783,
+          "popularity": 18.75,
+          "win_rate": 58.33,
+          "name": "Druid of the Saber"
+        },
+        {
+          "dbf_id": 43417,
+          "popularity": 32.75,
+          "win_rate": 52.63,
+          "name": "Malfurion the Pestilent"
+        },
+        {
+          "dbf_id": 61462,
+          "popularity": 42.1,
+          "win_rate": 50.0,
+          "name": "Faire Arborist"
+        },
+        {
+          "dbf_id": 53576,
+          "popularity": 38.18,
+          "win_rate": 66.66,
+          "name": "Hidden Oasis"
+        },
+        {
+          "dbf_id": 73462,
+          "popularity": 44.44,
+          "win_rate": 54.16,
+          "name": "Flipper Friends"
+        },
+        {
+          "dbf_id": 95,
+          "popularity": 40.74,
+          "win_rate": 36.36,
+          "name": "Nourish"
+        },
+        {
+          "dbf_id": 59542,
+          "popularity": 20.75,
+          "win_rate": 27.27,
+          "name": "Runic Carvings"
+        },
+        {
+          "dbf_id": 46859,
+          "popularity": 24.52,
+          "win_rate": 61.53,
+          "name": "Druid of the Scythe"
+        },
+        {
+          "dbf_id": 65580,
+          "popularity": 30.18,
+          "win_rate": 81.25,
+          "name": "Druid of the Reef"
+        },
+        {
+          "dbf_id": 2225,
+          "popularity": 25.0,
+          "win_rate": 53.84,
+          "name": "Grove Tender"
+        },
+        {
+          "dbf_id": 40973,
+          "popularity": 25.49,
+          "win_rate": 53.84,
+          "name": "Shellshifter"
+        },
+        {
+          "dbf_id": 48609,
+          "popularity": 27.45,
+          "win_rate": 57.14,
+          "name": "Tending Tauren"
+        },
+        {
+          "dbf_id": 94204,
+          "popularity": 19.6,
+          "win_rate": 60.0,
+          "name": "Peaceful Piper"
+        },
+        {
+          "dbf_id": 94201,
+          "popularity": 50.0,
+          "win_rate": 68.0,
+          "name": "Drum Circle"
+        },
+        {
+          "dbf_id": 59457,
+          "popularity": 4.0,
+          "win_rate": 50.0,
+          "name": "Shan'do Wildclaw"
+        },
+        {
+          "dbf_id": 2009,
+          "popularity": 30.61,
+          "win_rate": 46.66,
+          "name": "Dark Wispers"
+        },
+        {
+          "dbf_id": 54489,
+          "popularity": 44.89,
+          "win_rate": 50.0,
+          "name": "Oasis Surger"
+        },
+        {
+          "dbf_id": 38655,
+          "popularity": 44.89,
+          "win_rate": 59.09,
+          "name": "Wisps of the Old Gods"
+        },
+        {
+          "dbf_id": 2096,
+          "popularity": 22.44,
+          "win_rate": 36.36,
+          "name": "Anodized Robo Cub"
+        },
+        {
+          "dbf_id": 40372,
+          "popularity": 39.58,
+          "win_rate": 52.63,
+          "name": "Jade Idol"
+        },
+        {
+          "dbf_id": 79757,
+          "popularity": 33.33,
+          "win_rate": 43.75,
+          "name": "Attorney-at-Maw"
+        },
+        {
+          "dbf_id": 692,
+          "popularity": 27.08,
+          "win_rate": 46.15,
+          "name": "Druid of the Claw"
+        },
+        {
+          "dbf_id": 38718,
+          "popularity": 23.4,
+          "win_rate": 54.54,
+          "name": "Mire Keeper"
+        },
+        {
+          "dbf_id": 70320,
+          "popularity": 34.04,
+          "win_rate": 75.0,
+          "name": "Capture Coldtooth Mine"
+        },
+        {
+          "dbf_id": 51769,
+          "popularity": 29.78,
+          "win_rate": 35.71,
+          "name": "Crystal Power"
+        },
+        {
+          "dbf_id": 151,
+          "popularity": 30.43,
+          "win_rate": 57.14,
+          "name": "Mark of Nature"
+        },
+        {
+          "dbf_id": 71241,
+          "popularity": 37.77,
+          "win_rate": 58.82,
+          "name": "Boomkin"
+        },
+        {
+          "dbf_id": 43310,
+          "popularity": 35.55,
+          "win_rate": 56.25,
+          "name": "Wardruid Loti"
+        },
+        {
+          "dbf_id": 13335,
+          "popularity": 56.81,
+          "win_rate": 64.0,
+          "name": "Raven Idol"
+        },
+        {
+          "dbf_id": 85049,
+          "popularity": 59.09,
+          "win_rate": 53.84,
+          "name": "Beetlemancy"
+        },
+        {
+          "dbf_id": 601,
+          "popularity": 30.23,
+          "win_rate": 53.84,
+          "name": "Keeper of the Grove"
+        },
+        {
+          "dbf_id": 56057,
+          "popularity": 30.23,
+          "win_rate": 15.38,
+          "name": "Rising Winds"
+        },
+        {
+          "dbf_id": 86,
+          "popularity": 39.53,
+          "win_rate": 64.7,
+          "name": "Starfall"
+        },
+        {
+          "dbf_id": 77562,
+          "popularity": 23.8,
+          "win_rate": 80.0,
+          "name": "Nightshade Bud"
+        },
+        {
+          "dbf_id": 42615,
+          "popularity": 16.66,
+          "win_rate": 42.85,
+          "name": "Fatespinner"
+        },
+        {
+          "dbf_id": 50042,
+          "popularity": 31.7,
+          "win_rate": 30.76,
+          "name": "Mark of the Loa"
+        },
+        {
+          "dbf_id": 94251,
+          "popularity": 78.04,
+          "win_rate": 62.5,
+          "name": "Rhythm and Roots"
+        },
+        {
+          "dbf_id": 40416,
+          "popularity": 47.5,
+          "win_rate": 57.89,
+          "name": "Kun the Forgotten King"
+        },
+        {
+          "dbf_id": 55039,
+          "popularity": 17.94,
+          "win_rate": 57.14,
+          "name": "Treenforcements"
+        },
+        {
+          "dbf_id": 36,
+          "popularity": 43.24,
+          "win_rate": 68.75,
+          "name": "Cenarius"
+        },
+        {
+          "dbf_id": 503,
+          "popularity": 29.72,
+          "win_rate": 90.9,
+          "name": "Power of the Wild"
+        },
+        {
+          "dbf_id": 64236,
+          "popularity": 21.21,
+          "win_rate": 57.14,
+          "name": "Sow the Soil"
+        },
+        {
+          "dbf_id": 2292,
+          "popularity": 9.37,
+          "win_rate": 66.66,
+          "name": "Druid of the Flame"
+        },
+        {
+          "dbf_id": 76288,
+          "popularity": 60.0,
+          "win_rate": 44.44,
+          "name": "Wrath"
+        },
+        {
+          "dbf_id": 76291,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Ancient of Lore"
+        },
+        {
+          "dbf_id": 2792,
+          "popularity": 26.92,
+          "win_rate": 71.42,
+          "name": "Living Roots"
+        },
+        {
+          "dbf_id": 69688,
+          "popularity": 45.83,
+          "win_rate": 45.45,
+          "name": "Feral Rage"
+        },
+        {
+          "dbf_id": 920,
+          "popularity": 20.83,
+          "win_rate": 20.0,
+          "name": "Ancient of Lore"
+        },
+        {
+          "dbf_id": 38334,
+          "popularity": 45.45,
+          "win_rate": 40.0,
+          "name": "Feral Rage"
+        },
+        {
+          "dbf_id": 69593,
+          "popularity": 36.84,
+          "win_rate": 85.71,
+          "name": "Power of the Wild"
+        },
+        {
+          "dbf_id": 76289,
+          "popularity": 37.5,
+          "win_rate": 16.66,
+          "name": "Living Roots"
+        },
+        {
+          "dbf_id": 836,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Wrath"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

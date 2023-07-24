@@ -1,0 +1,131 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 90687,
+          "popularity": 29.85,
+          "win_rate": 57.71,
+          "name": "Fight Over Me"
+        },
+        {
+          "dbf_id": 69569,
+          "popularity": 35.78,
+          "win_rate": 62.45,
+          "name": "Shadow Word: Death"
+        },
+        {
+          "dbf_id": 66861,
+          "popularity": 26.83,
+          "win_rate": 64.45,
+          "name": "Thrive in the Shadows"
+        },
+        {
+          "dbf_id": 84206,
+          "popularity": 30.25,
+          "win_rate": 60.8,
+          "name": "Shadow Word: Undeath"
+        },
+        {
+          "dbf_id": 77368,
+          "popularity": 54.09,
+          "win_rate": 62.99,
+          "name": "Identity Theft"
+        },
+        {
+          "dbf_id": 90366,
+          "popularity": 35.16,
+          "win_rate": 63.53,
+          "name": "Shadow Chord: Distort"
+        },
+        {
+          "dbf_id": 86621,
+          "popularity": 38.22,
+          "win_rate": 65.74,
+          "name": "Mind Sear"
+        },
+        {
+          "dbf_id": 84586,
+          "popularity": 10.89,
+          "win_rate": 66.18,
+          "name": "Grave Digging"
+        },
+        {
+          "dbf_id": 84132,
+          "popularity": 38.87,
+          "win_rate": 63.29,
+          "name": "Animate Dead"
+        },
+        {
+          "dbf_id": 72483,
+          "popularity": 21.62,
+          "win_rate": 62.9,
+          "name": "Whispers of the Deep"
+        },
+        {
+          "dbf_id": 69616,
+          "popularity": 23.34,
+          "win_rate": 56.04,
+          "name": "Shadow Word: Ruin"
+        },
+        {
+          "dbf_id": 80120,
+          "popularity": 61.89,
+          "win_rate": 62.25,
+          "name": "Drown"
+        },
+        {
+          "dbf_id": 86624,
+          "popularity": 65.22,
+          "win_rate": 63.71,
+          "name": "Cannibalize"
+        },
+        {
+          "dbf_id": 84361,
+          "popularity": 16.16,
+          "win_rate": 63.06,
+          "name": "Undying Allies"
+        },
+        {
+          "dbf_id": 79745,
+          "popularity": 11.73,
+          "win_rate": 59.0,
+          "name": "Theft Accusation"
+        },
+        {
+          "dbf_id": 77556,
+          "popularity": 8.69,
+          "win_rate": 41.66,
+          "name": "Door of Shadows"
+        },
+        {
+          "dbf_id": 88403,
+          "popularity": 39.33,
+          "win_rate": 53.27,
+          "name": "Harmonic Hip Hop"
+        },
+        {
+          "dbf_id": 86092,
+          "popularity": 33.45,
+          "win_rate": 58.42,
+          "name": "Shadow of Demise"
+        },
+        {
+          "dbf_id": 90591,
+          "popularity": 44.61,
+          "win_rate": 54.31,
+          "name": "Breakdance"
+        },
+        {
+          "dbf_id": 69622,
+          "popularity": 42.27,
+          "win_rate": 56.73,
+          "name": "Shadowstep"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

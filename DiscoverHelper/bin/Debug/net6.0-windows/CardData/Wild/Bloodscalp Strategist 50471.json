@@ -1,0 +1,389 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 180,
+          "popularity": 66.66,
+          "win_rate": 0.0,
+          "name": "Backstab"
+        },
+        {
+          "dbf_id": 78416,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Wild Spirits"
+        },
+        {
+          "dbf_id": 2483,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ball of Spiders"
+        },
+        {
+          "dbf_id": 45546,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "To My Side!"
+        },
+        {
+          "dbf_id": 84250,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Ricochet Shot"
+        },
+        {
+          "dbf_id": 61169,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Malevolent Strike"
+        },
+        {
+          "dbf_id": 904,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Eviscerate"
+        },
+        {
+          "dbf_id": 86228,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "The Sunwell"
+        },
+        {
+          "dbf_id": 38393,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Journey Below"
+        },
+        {
+          "dbf_id": 41363,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dinomancy"
+        },
+        {
+          "dbf_id": 51827,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Unidentified Contract"
+        },
+        {
+          "dbf_id": 2587,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Beneath the Grounds"
+        },
+        {
+          "dbf_id": 345,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Assassinate"
+        },
+        {
+          "dbf_id": 67243,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Ice Trap"
+        },
+        {
+          "dbf_id": 55399,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Big Ol' Whelp"
+        },
+        {
+          "dbf_id": 43357,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Flanking Strike"
+        },
+        {
+          "dbf_id": 92296,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Big Dreams"
+        },
+        {
+          "dbf_id": 54317,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Clever Disguise"
+        },
+        {
+          "dbf_id": 365,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Shadowstep"
+        },
+        {
+          "dbf_id": 55432,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Kobold Stickyfinger"
+        },
+        {
+          "dbf_id": 64033,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "SI:7 Extortion"
+        },
+        {
+          "dbf_id": 69623,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Preparation"
+        },
+        {
+          "dbf_id": 71289,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Tooth of Nefarian"
+        },
+        {
+          "dbf_id": 61159,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Swindle"
+        },
+        {
+          "dbf_id": 56526,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dirty Tricks"
+        },
+        {
+          "dbf_id": 77148,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Double Cross"
+        },
+        {
+          "dbf_id": 42665,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Leeching Poison"
+        },
+        {
+          "dbf_id": 52082,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Nine Lives"
+        },
+        {
+          "dbf_id": 41350,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Grievous Bite"
+        },
+        {
+          "dbf_id": 59449,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Overwhelm"
+        },
+        {
+          "dbf_id": 61955,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Shenanigans"
+        },
+        {
+          "dbf_id": 53099,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Hunting Party"
+        },
+        {
+          "dbf_id": 56484,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Pack Tactics"
+        },
+        {
+          "dbf_id": 54424,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Swarm of Locusts"
+        },
+        {
+          "dbf_id": 47840,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Bomb Toss"
+        },
+        {
+          "dbf_id": 86567,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "ZOMBEEEES!!!"
+        },
+        {
+          "dbf_id": 56697,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Scrap Shot"
+        },
+        {
+          "dbf_id": 84345,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Collateral Damage"
+        },
+        {
+          "dbf_id": 437,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Animal Companion"
+        },
+        {
+          "dbf_id": 102226,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Eater of Secrets"
+        },
+        {
+          "dbf_id": 77150,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sticky Situation"
+        },
+        {
+          "dbf_id": 52070,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Marked Shot"
+        },
+        {
+          "dbf_id": 97363,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Stranglethorn Heart"
+        },
+        {
+          "dbf_id": 56703,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Scavenger's Ingenuity"
+        },
+        {
+          "dbf_id": 64627,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rats of Extraordinary Size"
+        },
+        {
+          "dbf_id": 53919,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Pressure Plate"
+        },
+        {
+          "dbf_id": 47128,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rat Trap"
+        },
+        {
+          "dbf_id": 50212,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Master's Call"
+        },
+        {
+          "dbf_id": 54935,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Evasive Drakonid"
+        },
+        {
+          "dbf_id": 41834,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Envenom Weapon"
+        },
+        {
+          "dbf_id": 47799,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Pick Pocket"
+        },
+        {
+          "dbf_id": 86383,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Lor'themar Theron"
+        },
+        {
+          "dbf_id": 2283,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Hungry Dragon"
+        },
+        {
+          "dbf_id": 61640,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Silas Darkmoon"
+        },
+        {
+          "dbf_id": 196,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Vanish"
+        },
+        {
+          "dbf_id": 96996,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Bunch of Bananas"
+        },
+        {
+          "dbf_id": 38329,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Infest"
+        },
+        {
+          "dbf_id": 90583,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Mixtape"
+        },
+        {
+          "dbf_id": 72333,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Smothering Starfish"
+        },
+        {
+          "dbf_id": 42801,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Doomerang"
+        },
+        {
+          "dbf_id": 72111,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Azsharan Vessel"
+        },
+        {
+          "dbf_id": 79608,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Murder Accusation"
+        },
+        {
+          "dbf_id": 62894,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Yoink!"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

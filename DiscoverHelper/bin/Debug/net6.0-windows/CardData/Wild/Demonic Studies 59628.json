@@ -1,0 +1,545 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 87317,
+          "popularity": 12.5,
+          "win_rate": 20.0,
+          "name": "Mistake"
+        },
+        {
+          "dbf_id": 52486,
+          "popularity": 41.02,
+          "win_rate": 75.0,
+          "name": "Portal Overfiend"
+        },
+        {
+          "dbf_id": 49502,
+          "popularity": 15.38,
+          "win_rate": 50.0,
+          "name": "Nightmare Amalgam"
+        },
+        {
+          "dbf_id": 43493,
+          "popularity": 21.05,
+          "win_rate": 62.5,
+          "name": "Sneaky Devil"
+        },
+        {
+          "dbf_id": 57188,
+          "popularity": 40.62,
+          "win_rate": 38.46,
+          "name": "Disguised Wanderer"
+        },
+        {
+          "dbf_id": 54433,
+          "popularity": 31.25,
+          "win_rate": 50.0,
+          "name": "Vilefiend"
+        },
+        {
+          "dbf_id": 556,
+          "popularity": 37.5,
+          "win_rate": 66.66,
+          "name": "Xavius"
+        },
+        {
+          "dbf_id": 64716,
+          "popularity": 78.12,
+          "win_rate": 64.0,
+          "name": "Mo'arg Forgefiend"
+        },
+        {
+          "dbf_id": 52707,
+          "popularity": 41.93,
+          "win_rate": 61.53,
+          "name": "Portal Keeper"
+        },
+        {
+          "dbf_id": 56114,
+          "popularity": 61.29,
+          "win_rate": 57.89,
+          "name": "Chaos Gazer"
+        },
+        {
+          "dbf_id": 46461,
+          "popularity": 30.0,
+          "win_rate": 33.33,
+          "name": "Void Ripper"
+        },
+        {
+          "dbf_id": 58549,
+          "popularity": 36.66,
+          "win_rate": 45.45,
+          "name": "Magtheridon"
+        },
+        {
+          "dbf_id": 52950,
+          "popularity": 20.0,
+          "win_rate": 50.0,
+          "name": "Mad Summoner"
+        },
+        {
+          "dbf_id": 56502,
+          "popularity": 10.0,
+          "win_rate": 33.33,
+          "name": "Nightshade Matron"
+        },
+        {
+          "dbf_id": 67753,
+          "popularity": 43.33,
+          "win_rate": 30.76,
+          "name": "Piggyback Imp"
+        },
+        {
+          "dbf_id": 42743,
+          "popularity": 50.0,
+          "win_rate": 53.33,
+          "name": "Despicable Dreadlord"
+        },
+        {
+          "dbf_id": 57192,
+          "popularity": 46.66,
+          "win_rate": 71.42,
+          "name": "Scavenging Shivarra"
+        },
+        {
+          "dbf_id": 39840,
+          "popularity": 17.24,
+          "win_rate": 60.0,
+          "name": "Prince Malchezaar"
+        },
+        {
+          "dbf_id": 56823,
+          "popularity": 6.89,
+          "win_rate": 100.0,
+          "name": "Terrorguard Escapee"
+        },
+        {
+          "dbf_id": 69636,
+          "popularity": 31.03,
+          "win_rate": 44.44,
+          "name": "Flame Imp"
+        },
+        {
+          "dbf_id": 57194,
+          "popularity": 27.58,
+          "win_rate": 62.5,
+          "name": "Supreme Abyssal"
+        },
+        {
+          "dbf_id": 56820,
+          "popularity": 44.82,
+          "win_rate": 23.07,
+          "name": "Imprisoned Vilefiend"
+        },
+        {
+          "dbf_id": 73906,
+          "popularity": 62.06,
+          "win_rate": 55.55,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 48835,
+          "popularity": 28.57,
+          "win_rate": 25.0,
+          "name": "Void Analyst"
+        },
+        {
+          "dbf_id": 47142,
+          "popularity": 57.14,
+          "win_rate": 50.0,
+          "name": "Witchwood Piper"
+        },
+        {
+          "dbf_id": 2172,
+          "popularity": 42.85,
+          "win_rate": 66.66,
+          "name": "Queen of Pain"
+        },
+        {
+          "dbf_id": 2537,
+          "popularity": 37.03,
+          "win_rate": 50.0,
+          "name": "Void Crusher"
+        },
+        {
+          "dbf_id": 46991,
+          "popularity": 37.03,
+          "win_rate": 60.0,
+          "name": "Felsoul Inquisitor"
+        },
+        {
+          "dbf_id": 59192,
+          "popularity": 25.92,
+          "win_rate": 42.85,
+          "name": "Void Drinker"
+        },
+        {
+          "dbf_id": 61428,
+          "popularity": 29.62,
+          "win_rate": 62.5,
+          "name": "Circus Amalgam"
+        },
+        {
+          "dbf_id": 56516,
+          "popularity": 51.85,
+          "win_rate": 50.0,
+          "name": "Enhanced Dreadlord"
+        },
+        {
+          "dbf_id": 90854,
+          "popularity": 44.44,
+          "win_rate": 58.33,
+          "name": "Void Virtuoso"
+        },
+        {
+          "dbf_id": 47262,
+          "popularity": 14.81,
+          "win_rate": 25.0,
+          "name": "Witchwood Imp"
+        },
+        {
+          "dbf_id": 2822,
+          "popularity": 19.23,
+          "win_rate": 20.0,
+          "name": "Dreadsteed"
+        },
+        {
+          "dbf_id": 48116,
+          "popularity": 16.0,
+          "win_rate": 75.0,
+          "name": "Doubling Imp"
+        },
+        {
+          "dbf_id": 2623,
+          "popularity": 16.0,
+          "win_rate": 100.0,
+          "name": "Wrathguard"
+        },
+        {
+          "dbf_id": 1806,
+          "popularity": 52.0,
+          "win_rate": 61.53,
+          "name": "Voidcaller"
+        },
+        {
+          "dbf_id": 2624,
+          "popularity": 16.0,
+          "win_rate": 25.0,
+          "name": "Fearsome Doomguard"
+        },
+        {
+          "dbf_id": 61942,
+          "popularity": 88.0,
+          "win_rate": 63.63,
+          "name": "Envoy Rustwix"
+        },
+        {
+          "dbf_id": 59599,
+          "popularity": 4.0,
+          "win_rate": 0.0,
+          "name": "Desk Imp"
+        },
+        {
+          "dbf_id": 61206,
+          "popularity": 36.0,
+          "win_rate": 55.55,
+          "name": "Midway Maniac"
+        },
+        {
+          "dbf_id": 87681,
+          "popularity": 56.0,
+          "win_rate": 35.71,
+          "name": "Opera Soloist"
+        },
+        {
+          "dbf_id": 77056,
+          "popularity": 52.0,
+          "win_rate": 53.84,
+          "name": "Mischievous Imp"
+        },
+        {
+          "dbf_id": 48298,
+          "popularity": 4.16,
+          "win_rate": 100.0,
+          "name": "Nethersoul Buster"
+        },
+        {
+          "dbf_id": 61884,
+          "popularity": 45.83,
+          "win_rate": 45.45,
+          "name": "Ring Matron"
+        },
+        {
+          "dbf_id": 40213,
+          "popularity": 8.33,
+          "win_rate": 50.0,
+          "name": "Street Trickster"
+        },
+        {
+          "dbf_id": 64903,
+          "popularity": 45.83,
+          "win_rate": 54.54,
+          "name": "Anetheron"
+        },
+        {
+          "dbf_id": 52873,
+          "popularity": 45.83,
+          "win_rate": 63.63,
+          "name": "Fel Lord Betrug"
+        },
+        {
+          "dbf_id": 40465,
+          "popularity": 8.33,
+          "win_rate": 100.0,
+          "name": "Patches the Pirate"
+        },
+        {
+          "dbf_id": 61646,
+          "popularity": 79.16,
+          "win_rate": 52.63,
+          "name": "Tickatus"
+        },
+        {
+          "dbf_id": 2068,
+          "popularity": 29.16,
+          "win_rate": 71.42,
+          "name": "Floating Watcher"
+        },
+        {
+          "dbf_id": 57193,
+          "popularity": 29.16,
+          "win_rate": 42.85,
+          "name": "Mo'arg Artificer"
+        },
+        {
+          "dbf_id": 517,
+          "popularity": 26.08,
+          "win_rate": 50.0,
+          "name": "Felguard"
+        },
+        {
+          "dbf_id": 76283,
+          "popularity": 47.82,
+          "win_rate": 36.36,
+          "name": "Abyssal Enforcer"
+        },
+        {
+          "dbf_id": 61203,
+          "popularity": 39.13,
+          "win_rate": 77.77,
+          "name": "Man'ari Mosher"
+        },
+        {
+          "dbf_id": 70118,
+          "popularity": 17.39,
+          "win_rate": 25.0,
+          "name": "Felwalker"
+        },
+        {
+          "dbf_id": 43133,
+          "popularity": 45.45,
+          "win_rate": 40.0,
+          "name": "Hooked Reaver"
+        },
+        {
+          "dbf_id": 56189,
+          "popularity": 68.18,
+          "win_rate": 33.33,
+          "name": "Sathrovarr"
+        },
+        {
+          "dbf_id": 41873,
+          "popularity": 18.18,
+          "win_rate": 75.0,
+          "name": "Lakkari Felhound"
+        },
+        {
+          "dbf_id": 46056,
+          "popularity": 54.54,
+          "win_rate": 50.0,
+          "name": "Voidlord"
+        },
+        {
+          "dbf_id": 469,
+          "popularity": 9.09,
+          "win_rate": 50.0,
+          "name": "Blood Imp"
+        },
+        {
+          "dbf_id": 631,
+          "popularity": 31.81,
+          "win_rate": 28.57,
+          "name": "Doomguard"
+        },
+        {
+          "dbf_id": 783,
+          "popularity": 4.76,
+          "win_rate": 100.0,
+          "name": "Pit Lord"
+        },
+        {
+          "dbf_id": 79537,
+          "popularity": 9.52,
+          "win_rate": 0.0,
+          "name": "Imp-oster"
+        },
+        {
+          "dbf_id": 90543,
+          "popularity": 61.9,
+          "win_rate": 46.15,
+          "name": "The One-Amalgam Band"
+        },
+        {
+          "dbf_id": 56122,
+          "popularity": 23.8,
+          "win_rate": 80.0,
+          "name": "Frenzied Felwing"
+        },
+        {
+          "dbf_id": 56112,
+          "popularity": 23.8,
+          "win_rate": 40.0,
+          "name": "Fiendish Servant"
+        },
+        {
+          "dbf_id": 63370,
+          "popularity": 42.85,
+          "win_rate": 22.22,
+          "name": "Stealer of Souls"
+        },
+        {
+          "dbf_id": 56523,
+          "popularity": 19.04,
+          "win_rate": 25.0,
+          "name": "Darkglare"
+        },
+        {
+          "dbf_id": 90439,
+          "popularity": 15.0,
+          "win_rate": 100.0,
+          "name": "Baritone Imp"
+        },
+        {
+          "dbf_id": 54835,
+          "popularity": 55.0,
+          "win_rate": 54.54,
+          "name": "Siegebreaker"
+        },
+        {
+          "dbf_id": 592,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Felstalker"
+        },
+        {
+          "dbf_id": 76281,
+          "popularity": 30.0,
+          "win_rate": 66.66,
+          "name": "Voidwalker"
+        },
+        {
+          "dbf_id": 2288,
+          "popularity": 35.0,
+          "win_rate": 42.85,
+          "name": "Imp Gang Boss"
+        },
+        {
+          "dbf_id": 52480,
+          "popularity": 50.0,
+          "win_rate": 40.0,
+          "name": "Jumbo Imp"
+        },
+        {
+          "dbf_id": 59724,
+          "popularity": 36.84,
+          "win_rate": 57.14,
+          "name": "Spirit Jailer"
+        },
+        {
+          "dbf_id": 40537,
+          "popularity": 26.31,
+          "win_rate": 60.0,
+          "name": "Krul the Unshackled"
+        },
+        {
+          "dbf_id": 65606,
+          "popularity": 22.22,
+          "win_rate": 25.0,
+          "name": "Hullbreaker"
+        },
+        {
+          "dbf_id": 40598,
+          "popularity": 5.88,
+          "win_rate": 0.0,
+          "name": "Unlicensed Apothecary"
+        },
+        {
+          "dbf_id": 56519,
+          "popularity": 37.5,
+          "win_rate": 50.0,
+          "name": "Imprisoned Scrap Imp"
+        },
+        {
+          "dbf_id": 61202,
+          "popularity": 25.0,
+          "win_rate": 75.0,
+          "name": "Fire Breather"
+        },
+        {
+          "dbf_id": 43121,
+          "popularity": 33.33,
+          "win_rate": 40.0,
+          "name": "Vulgar Homunculus"
+        },
+        {
+          "dbf_id": 53887,
+          "popularity": 13.33,
+          "win_rate": 50.0,
+          "name": "Riftcleaver"
+        },
+        {
+          "dbf_id": 52058,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Aranasi Broodmother"
+        },
+        {
+          "dbf_id": 102213,
+          "popularity": 57.14,
+          "win_rate": 62.5,
+          "name": "Mal'Ganis"
+        },
+        {
+          "dbf_id": 39740,
+          "popularity": 21.42,
+          "win_rate": 33.33,
+          "name": "Malchezaar's Imp"
+        },
+        {
+          "dbf_id": 64893,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Bloodbound Imp"
+        },
+        {
+          "dbf_id": 42642,
+          "popularity": 10.0,
+          "win_rate": 100.0,
+          "name": "Howlfiend"
+        },
+        {
+          "dbf_id": 48,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Voidwalker"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

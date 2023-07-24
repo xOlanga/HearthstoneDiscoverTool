@@ -1,0 +1,53 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 52897,
+          "popularity": 26.54,
+          "win_rate": 40.0,
+          "name": "Goblin Lackey"
+        },
+        {
+          "dbf_id": 52900,
+          "popularity": 61.68,
+          "win_rate": 40.9,
+          "name": "Ethereal Lackey"
+        },
+        {
+          "dbf_id": 53163,
+          "popularity": 19.6,
+          "win_rate": 35.0,
+          "name": "Titanic Lackey"
+        },
+        {
+          "dbf_id": 53160,
+          "popularity": 46.07,
+          "win_rate": 51.06,
+          "name": "Faceless Lackey"
+        },
+        {
+          "dbf_id": 53161,
+          "popularity": 33.33,
+          "win_rate": 44.11,
+          "name": "Kobold Lackey"
+        },
+        {
+          "dbf_id": 53162,
+          "popularity": 14.85,
+          "win_rate": 40.0,
+          "name": "Witchy Lackey"
+        },
+        {
+          "dbf_id": 55378,
+          "popularity": 30.2,
+          "win_rate": 48.27,
+          "name": "Draconic Lackey"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

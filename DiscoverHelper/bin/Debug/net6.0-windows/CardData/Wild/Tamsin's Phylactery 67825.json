@@ -1,0 +1,341 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 71688,
+          "popularity": 97.9,
+          "win_rate": 93.59,
+          "name": "Naval Mine"
+        },
+        {
+          "dbf_id": 41566,
+          "popularity": 7.38,
+          "win_rate": 40.0,
+          "name": "Mistress of Mixtures"
+        },
+        {
+          "dbf_id": 64716,
+          "popularity": 82.89,
+          "win_rate": 88.88,
+          "name": "Mo'arg Forgefiend"
+        },
+        {
+          "dbf_id": 69655,
+          "popularity": 5.88,
+          "win_rate": 50.0,
+          "name": "Bloodmage Thalnos"
+        },
+        {
+          "dbf_id": 72504,
+          "popularity": 93.54,
+          "win_rate": 77.58,
+          "name": "Selfish Shellfish"
+        },
+        {
+          "dbf_id": 61942,
+          "popularity": 68.0,
+          "win_rate": 85.29,
+          "name": "Envoy Rustwix"
+        },
+        {
+          "dbf_id": 67927,
+          "popularity": 91.11,
+          "win_rate": 90.24,
+          "name": "Humongous Owl"
+        },
+        {
+          "dbf_id": 69717,
+          "popularity": 9.09,
+          "win_rate": 100.0,
+          "name": "Explosive Sheep"
+        },
+        {
+          "dbf_id": 48625,
+          "popularity": 100.0,
+          "win_rate": 73.91,
+          "name": "Mecha'thun"
+        },
+        {
+          "dbf_id": 69665,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Loot Hoarder"
+        },
+        {
+          "dbf_id": 39433,
+          "popularity": 10.0,
+          "win_rate": 0.0,
+          "name": "Runic Egg"
+        },
+        {
+          "dbf_id": 102211,
+          "popularity": 41.17,
+          "win_rate": 42.85,
+          "name": "Voidcaller"
+        },
+        {
+          "dbf_id": 46056,
+          "popularity": 17.64,
+          "win_rate": 100.0,
+          "name": "Voidlord"
+        },
+        {
+          "dbf_id": 56534,
+          "popularity": 46.66,
+          "win_rate": 71.42,
+          "name": "Kanrethad Ebonlocke"
+        },
+        {
+          "dbf_id": 53409,
+          "popularity": 26.66,
+          "win_rate": 75.0,
+          "name": "Khartut Defender"
+        },
+        {
+          "dbf_id": 65606,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Hullbreaker"
+        },
+        {
+          "dbf_id": 97346,
+          "popularity": 92.85,
+          "win_rate": 76.92,
+          "name": "Enhanced Dreadlord"
+        },
+        {
+          "dbf_id": 84169,
+          "popularity": 91.66,
+          "win_rate": 72.72,
+          "name": "Volatile Skeleton"
+        },
+        {
+          "dbf_id": 92243,
+          "popularity": 91.66,
+          "win_rate": 54.54,
+          "name": "Crowd Surfer"
+        },
+        {
+          "dbf_id": 45195,
+          "popularity": 75.0,
+          "win_rate": 22.22,
+          "name": "Carnivorous Cube"
+        },
+        {
+          "dbf_id": 61884,
+          "popularity": 11.11,
+          "win_rate": 0.0,
+          "name": "Ring Matron"
+        },
+        {
+          "dbf_id": 66856,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Taelan Fordring"
+        },
+        {
+          "dbf_id": 56516,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Enhanced Dreadlord"
+        },
+        {
+          "dbf_id": 62744,
+          "popularity": 42.85,
+          "win_rate": 33.33,
+          "name": "Death's Head Cultist"
+        },
+        {
+          "dbf_id": 85859,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Crabatoa's Claw"
+        },
+        {
+          "dbf_id": 79142,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Shadowborn"
+        },
+        {
+          "dbf_id": 72537,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Crabatoa's Claw"
+        },
+        {
+          "dbf_id": 53885,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Expired Merchant"
+        },
+        {
+          "dbf_id": 1806,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Voidcaller"
+        },
+        {
+          "dbf_id": 79532,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Stoneborn General"
+        },
+        {
+          "dbf_id": 72583,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Treasure Guard"
+        },
+        {
+          "dbf_id": 84243,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Umbral Geist"
+        },
+        {
+          "dbf_id": 79742,
+          "popularity": 75.0,
+          "win_rate": 0.0,
+          "name": "Incriminating Psychic"
+        },
+        {
+          "dbf_id": 41869,
+          "popularity": 75.0,
+          "win_rate": 66.66,
+          "name": "Cruel Dinomancer"
+        },
+        {
+          "dbf_id": 50411,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Arena Treasure Chest"
+        },
+        {
+          "dbf_id": 54917,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Mindflayer Kaahrj"
+        },
+        {
+          "dbf_id": 76323,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Plated Beetle"
+        },
+        {
+          "dbf_id": 84692,
+          "popularity": 100.0,
+          "win_rate": 66.66,
+          "name": "Flesh Behemoth"
+        },
+        {
+          "dbf_id": 46040,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rin, the First Disciple"
+        },
+        {
+          "dbf_id": 74741,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Gigafin"
+        },
+        {
+          "dbf_id": 90856,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Audio Splitter"
+        },
+        {
+          "dbf_id": 84357,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Amorphous Slime"
+        },
+        {
+          "dbf_id": 62347,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Aegwynn, the Guardian"
+        },
+        {
+          "dbf_id": 39026,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Undercity Huckster"
+        },
+        {
+          "dbf_id": 78329,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Shatterskin Gargoyle"
+        },
+        {
+          "dbf_id": 69667,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Cairne Bloodhoof"
+        },
+        {
+          "dbf_id": 84856,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Plaguespreader"
+        },
+        {
+          "dbf_id": 70258,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Korrak the Bloodrager"
+        },
+        {
+          "dbf_id": 74742,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Gigafin's Maw"
+        },
+        {
+          "dbf_id": 45820,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Possessed Lackey"
+        },
+        {
+          "dbf_id": 90463,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Rin, Orchestrator of Doom"
+        },
+        {
+          "dbf_id": 41173,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Crystalline Oracle"
+        },
+        {
+          "dbf_id": 102229,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rotten Applebaum"
+        },
+        {
+          "dbf_id": 55421,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Bad Luck Albatross"
+        },
+        {
+          "dbf_id": 56717,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Astromancer Solarian"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

@@ -1,0 +1,653 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 86228,
+          "popularity": 45.45,
+          "win_rate": 20.0,
+          "name": "The Sunwell"
+        },
+        {
+          "dbf_id": 48670,
+          "popularity": 22.22,
+          "win_rate": 50.0,
+          "name": "Flark's Boom-Zooka"
+        },
+        {
+          "dbf_id": 437,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "Animal Companion"
+        },
+        {
+          "dbf_id": 48201,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "Dire Frenzy"
+        },
+        {
+          "dbf_id": 43359,
+          "popularity": 25.0,
+          "win_rate": 50.0,
+          "name": "Wandering Monster"
+        },
+        {
+          "dbf_id": 814,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Snipe"
+        },
+        {
+          "dbf_id": 59705,
+          "popularity": 12.5,
+          "win_rate": 0.0,
+          "name": "Adorable Infestation"
+        },
+        {
+          "dbf_id": 141,
+          "popularity": 37.5,
+          "win_rate": 33.33,
+          "name": "Hunter's Mark"
+        },
+        {
+          "dbf_id": 61690,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Jewel of N'Zoth"
+        },
+        {
+          "dbf_id": 59539,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Guardian Animals"
+        },
+        {
+          "dbf_id": 61700,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Petting Zoo"
+        },
+        {
+          "dbf_id": 41360,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Stampede"
+        },
+        {
+          "dbf_id": 62812,
+          "popularity": 71.42,
+          "win_rate": 40.0,
+          "name": "Piercing Shot"
+        },
+        {
+          "dbf_id": 41363,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Dinomancy"
+        },
+        {
+          "dbf_id": 70103,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Revive Pet"
+        },
+        {
+          "dbf_id": 46940,
+          "popularity": 42.85,
+          "win_rate": 100.0,
+          "name": "Wing Blast"
+        },
+        {
+          "dbf_id": 53861,
+          "popularity": 71.42,
+          "win_rate": 20.0,
+          "name": "Hunter's Pack"
+        },
+        {
+          "dbf_id": 78420,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Stag Charge"
+        },
+        {
+          "dbf_id": 64965,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ramming Mount"
+        },
+        {
+          "dbf_id": 92296,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Big Dreams"
+        },
+        {
+          "dbf_id": 3001,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Explorer's Hat"
+        },
+        {
+          "dbf_id": 52076,
+          "popularity": 83.33,
+          "win_rate": 60.0,
+          "name": "Rapid Fire"
+        },
+        {
+          "dbf_id": 64627,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rats of Extraordinary Size"
+        },
+        {
+          "dbf_id": 55301,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Toxic Reinforcements"
+        },
+        {
+          "dbf_id": 50466,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Baited Arrow"
+        },
+        {
+          "dbf_id": 86567,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "ZOMBEEEES!!!"
+        },
+        {
+          "dbf_id": 48770,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Goblin Prank"
+        },
+        {
+          "dbf_id": 38727,
+          "popularity": 83.33,
+          "win_rate": 40.0,
+          "name": "Call of the Wild"
+        },
+        {
+          "dbf_id": 877,
+          "popularity": 83.33,
+          "win_rate": 60.0,
+          "name": "Arcane Shot"
+        },
+        {
+          "dbf_id": 2094,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Call Pet"
+        },
+        {
+          "dbf_id": 903,
+          "popularity": 50.0,
+          "win_rate": 66.66,
+          "name": "Bestial Wrath"
+        },
+        {
+          "dbf_id": 72897,
+          "popularity": 83.33,
+          "win_rate": 40.0,
+          "name": "Urchin Spines"
+        },
+        {
+          "dbf_id": 47128,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Rat Trap"
+        },
+        {
+          "dbf_id": 42648,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Toxic Arrow"
+        },
+        {
+          "dbf_id": 46450,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Crushing Walls"
+        },
+        {
+          "dbf_id": 55288,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Clear the Way"
+        },
+        {
+          "dbf_id": 56697,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Scrap Shot"
+        },
+        {
+          "dbf_id": 2893,
+          "popularity": 80.0,
+          "win_rate": 50.0,
+          "name": "Dart Trap"
+        },
+        {
+          "dbf_id": 71709,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Barbed Nets"
+        },
+        {
+          "dbf_id": 84007,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Conjured Arrow"
+        },
+        {
+          "dbf_id": 79555,
+          "popularity": 40.0,
+          "win_rate": 0.0,
+          "name": "Motion Denied"
+        },
+        {
+          "dbf_id": 61846,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Don't Feed the Animals"
+        },
+        {
+          "dbf_id": 84237,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Arcane Quiver"
+        },
+        {
+          "dbf_id": 56703,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Scavenger's Ingenuity"
+        },
+        {
+          "dbf_id": 69604,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Freezing Trap"
+        },
+        {
+          "dbf_id": 40339,
+          "popularity": 40.0,
+          "win_rate": 0.0,
+          "name": "Hidden Cache"
+        },
+        {
+          "dbf_id": 47840,
+          "popularity": 60.0,
+          "win_rate": 33.33,
+          "name": "Bomb Toss"
+        },
+        {
+          "dbf_id": 56067,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Fresh Scent"
+        },
+        {
+          "dbf_id": 74884,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Conch's Call"
+        },
+        {
+          "dbf_id": 78264,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Frenzied Fangs"
+        },
+        {
+          "dbf_id": 54424,
+          "popularity": 60.0,
+          "win_rate": 33.33,
+          "name": "Swarm of Locusts"
+        },
+        {
+          "dbf_id": 71233,
+          "popularity": 80.0,
+          "win_rate": 75.0,
+          "name": "Dragonbane Shot"
+        },
+        {
+          "dbf_id": 61965,
+          "popularity": 60.0,
+          "win_rate": 66.66,
+          "name": "Bola Shot"
+        },
+        {
+          "dbf_id": 38377,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "On the Hunt"
+        },
+        {
+          "dbf_id": 65603,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Doggie Biscuit"
+        },
+        {
+          "dbf_id": 76225,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Shellshot"
+        },
+        {
+          "dbf_id": 1091,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Misdirection"
+        },
+        {
+          "dbf_id": 2483,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Ball of Spiders"
+        },
+        {
+          "dbf_id": 63334,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Serpentbloom"
+        },
+        {
+          "dbf_id": 2041,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Cobra Shot"
+        },
+        {
+          "dbf_id": 78416,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Wild Spirits"
+        },
+        {
+          "dbf_id": 97362,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Barrel of Monkeys"
+        },
+        {
+          "dbf_id": 84266,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Eversong Portal"
+        },
+        {
+          "dbf_id": 53099,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Hunting Party"
+        },
+        {
+          "dbf_id": 896,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Flare"
+        },
+        {
+          "dbf_id": 65044,
+          "popularity": 75.0,
+          "win_rate": 33.33,
+          "name": "Devouring Swarm"
+        },
+        {
+          "dbf_id": 51159,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Revenge of the Wild"
+        },
+        {
+          "dbf_id": 72928,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Naga's Pride"
+        },
+        {
+          "dbf_id": 54922,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Corrosive Breath"
+        },
+        {
+          "dbf_id": 48519,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Secret Plan"
+        },
+        {
+          "dbf_id": 69605,
+          "popularity": 75.0,
+          "win_rate": 66.66,
+          "name": "Deadly Shot"
+        },
+        {
+          "dbf_id": 50644,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "The Beast Within"
+        },
+        {
+          "dbf_id": 61683,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Open the Cages"
+        },
+        {
+          "dbf_id": 84250,
+          "popularity": 75.0,
+          "win_rate": 100.0,
+          "name": "Ricochet Shot"
+        },
+        {
+          "dbf_id": 41350,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Grievous Bite"
+        },
+        {
+          "dbf_id": 53919,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Pressure Plate"
+        },
+        {
+          "dbf_id": 61967,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Resizing Pouch"
+        },
+        {
+          "dbf_id": 64631,
+          "popularity": 75.0,
+          "win_rate": 66.66,
+          "name": "Aimed Shot"
+        },
+        {
+          "dbf_id": 2638,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Powershot"
+        },
+        {
+          "dbf_id": 63002,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Tame Beast (Rank 1)"
+        },
+        {
+          "dbf_id": 61154,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Cloak of Shadows"
+        },
+        {
+          "dbf_id": 42652,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Play Dead"
+        },
+        {
+          "dbf_id": 48772,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Cybertech Chip"
+        },
+        {
+          "dbf_id": 2260,
+          "popularity": 66.66,
+          "win_rate": 0.0,
+          "name": "Quick Shot"
+        },
+        {
+          "dbf_id": 58782,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Carrion Studies"
+        },
+        {
+          "dbf_id": 40437,
+          "popularity": 100.0,
+          "win_rate": 33.33,
+          "name": "Counterfeit Coin"
+        },
+        {
+          "dbf_id": 72340,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Emergency Maneuvers"
+        },
+        {
+          "dbf_id": 296,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Kill Command"
+        },
+        {
+          "dbf_id": 86574,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Faithful Companions"
+        },
+        {
+          "dbf_id": 50212,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Master's Call"
+        },
+        {
+          "dbf_id": 67243,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Ice Trap"
+        },
+        {
+          "dbf_id": 56484,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Pack Tactics"
+        },
+        {
+          "dbf_id": 38329,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Infest"
+        },
+        {
+          "dbf_id": 47054,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Book of Specters"
+        },
+        {
+          "dbf_id": 292,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Multi-Shot"
+        },
+        {
+          "dbf_id": 1243,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Unleash the Hounds"
+        },
+        {
+          "dbf_id": 59449,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Overwhelm"
+        },
+        {
+          "dbf_id": 52082,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Nine Lives"
+        },
+        {
+          "dbf_id": 43363,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Lesser Emerald Spellstone"
+        },
+        {
+          "dbf_id": 1801,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Duplicate"
+        },
+        {
+          "dbf_id": 394,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Explosive Shot"
+        },
+        {
+          "dbf_id": 2641,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Bear Trap"
+        },
+        {
+          "dbf_id": 71231,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Furious Howl"
+        },
+        {
+          "dbf_id": 63062,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Wildfire"
+        },
+        {
+          "dbf_id": 71321,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dun Baldar Bunker"
+        },
+        {
+          "dbf_id": 45546,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "To My Side!"
+        },
+        {
+          "dbf_id": 69500,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Arcane Intellect"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

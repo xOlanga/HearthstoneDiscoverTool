@@ -1,0 +1,695 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 2249,
+          "popularity": 18.18,
+          "win_rate": 0.0,
+          "name": "Soot Spewer"
+        },
+        {
+          "dbf_id": 38463,
+          "popularity": 10.0,
+          "win_rate": 0.0,
+          "name": "Anomalus"
+        },
+        {
+          "dbf_id": 59013,
+          "popularity": 10.0,
+          "win_rate": 0.0,
+          "name": "Lab Partner"
+        },
+        {
+          "dbf_id": 63059,
+          "popularity": 12.5,
+          "win_rate": 0.0,
+          "name": "Reckless Apprentice"
+        },
+        {
+          "dbf_id": 90856,
+          "popularity": 75.0,
+          "win_rate": 50.0,
+          "name": "Audio Splitter"
+        },
+        {
+          "dbf_id": 38414,
+          "popularity": 12.5,
+          "win_rate": 0.0,
+          "name": "Servant of Yogg-Saron"
+        },
+        {
+          "dbf_id": 40583,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Kabal Crystal Runner"
+        },
+        {
+          "dbf_id": 63060,
+          "popularity": 71.42,
+          "win_rate": 60.0,
+          "name": "Arcane Luminary"
+        },
+        {
+          "dbf_id": 84351,
+          "popularity": 14.28,
+          "win_rate": 100.0,
+          "name": "Contract Conjurer"
+        },
+        {
+          "dbf_id": 52706,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Mana Cyclone"
+        },
+        {
+          "dbf_id": 61959,
+          "popularity": 14.28,
+          "win_rate": 0.0,
+          "name": "Imprisoned Phoenix"
+        },
+        {
+          "dbf_id": 54904,
+          "popularity": 42.85,
+          "win_rate": 66.66,
+          "name": "Chenvaala"
+        },
+        {
+          "dbf_id": 42756,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Doomed Apprentice"
+        },
+        {
+          "dbf_id": 78394,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Kel'Thuzad, the Inevitable"
+        },
+        {
+          "dbf_id": 59216,
+          "popularity": 71.42,
+          "win_rate": 20.0,
+          "name": "Ras Frostwhisper"
+        },
+        {
+          "dbf_id": 61176,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Confection Cyclone"
+        },
+        {
+          "dbf_id": 2571,
+          "popularity": 57.14,
+          "win_rate": 50.0,
+          "name": "Spellslinger"
+        },
+        {
+          "dbf_id": 40496,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Kabal Courier"
+        },
+        {
+          "dbf_id": 50121,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Arcanosaur"
+        },
+        {
+          "dbf_id": 84736,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Energy Shaper"
+        },
+        {
+          "dbf_id": 52502,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Khadgar"
+        },
+        {
+          "dbf_id": 61178,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Game Master"
+        },
+        {
+          "dbf_id": 53822,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Arcane Flakmage"
+        },
+        {
+          "dbf_id": 78397,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Orion, Mansion Manager"
+        },
+        {
+          "dbf_id": 59703,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Trick Totem"
+        },
+        {
+          "dbf_id": 38725,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Faceless Summoner"
+        },
+        {
+          "dbf_id": 40408,
+          "popularity": 83.33,
+          "win_rate": 40.0,
+          "name": "Kazakus"
+        },
+        {
+          "dbf_id": 50088,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Jan'alai, the Dragonhawk"
+        },
+        {
+          "dbf_id": 54493,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Cloud Prince"
+        },
+        {
+          "dbf_id": 72649,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Mecha-Shark"
+        },
+        {
+          "dbf_id": 52638,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Kirin Tor Tricaster"
+        },
+        {
+          "dbf_id": 38900,
+          "popularity": 60.0,
+          "win_rate": 0.0,
+          "name": "Cult Sorcerer"
+        },
+        {
+          "dbf_id": 86439,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Spectral Trainee"
+        },
+        {
+          "dbf_id": 47429,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Curio Collector"
+        },
+        {
+          "dbf_id": 78371,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Chatty Bartender"
+        },
+        {
+          "dbf_id": 90671,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Holotechnician"
+        },
+        {
+          "dbf_id": 53002,
+          "popularity": 100.0,
+          "win_rate": 60.0,
+          "name": "Kalecgos"
+        },
+        {
+          "dbf_id": 61589,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Sayge, Seer of Darkmoon"
+        },
+        {
+          "dbf_id": 50084,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Pyromaniac"
+        },
+        {
+          "dbf_id": 72024,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Lady Naz'jar"
+        },
+        {
+          "dbf_id": 54907,
+          "popularity": 60.0,
+          "win_rate": 0.0,
+          "name": "Violet Spellwing"
+        },
+        {
+          "dbf_id": 2234,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Wee Spellstopper"
+        },
+        {
+          "dbf_id": 53771,
+          "popularity": 40.0,
+          "win_rate": 100.0,
+          "name": "Tortollan Pilgrim"
+        },
+        {
+          "dbf_id": 2875,
+          "popularity": 100.0,
+          "win_rate": 40.0,
+          "name": "Ethereal Conjurer"
+        },
+        {
+          "dbf_id": 63064,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Mordresh Fire Eye"
+        },
+        {
+          "dbf_id": 84421,
+          "popularity": 60.0,
+          "win_rate": 0.0,
+          "name": "Arcsplitter"
+        },
+        {
+          "dbf_id": 58770,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Mozaki, Master Duelist"
+        },
+        {
+          "dbf_id": 64438,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Grand Magus Antonidas"
+        },
+        {
+          "dbf_id": 63520,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Floecaster"
+        },
+        {
+          "dbf_id": 56071,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Animated Avalanche"
+        },
+        {
+          "dbf_id": 45269,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Raven Familiar"
+        },
+        {
+          "dbf_id": 84003,
+          "popularity": 60.0,
+          "win_rate": 66.66,
+          "name": "Grand Magister Rommath"
+        },
+        {
+          "dbf_id": 85035,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Arcane Wyrm"
+        },
+        {
+          "dbf_id": 87648,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Keyboard Soloist"
+        },
+        {
+          "dbf_id": 53974,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Naga Sand Witch"
+        },
+        {
+          "dbf_id": 46654,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Arcane Keysmith"
+        },
+        {
+          "dbf_id": 1080,
+          "popularity": 75.0,
+          "win_rate": 33.33,
+          "name": "Archmage Antonidas"
+        },
+        {
+          "dbf_id": 96992,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "DJ Manastorm"
+        },
+        {
+          "dbf_id": 40988,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Cryomancer"
+        },
+        {
+          "dbf_id": 42836,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Coldwraith"
+        },
+        {
+          "dbf_id": 53778,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Reno the Relicologist"
+        },
+        {
+          "dbf_id": 71996,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Spitelash Siren"
+        },
+        {
+          "dbf_id": 56439,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Starscryer"
+        },
+        {
+          "dbf_id": 748,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Kirin Tor Mage"
+        },
+        {
+          "dbf_id": 50095,
+          "popularity": 75.0,
+          "win_rate": 33.33,
+          "name": "Hex Lord Malacrass"
+        },
+        {
+          "dbf_id": 67871,
+          "popularity": 25.0,
+          "win_rate": 100.0,
+          "name": "Shivering Sorceress"
+        },
+        {
+          "dbf_id": 70015,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Balinda Stonehearth"
+        },
+        {
+          "dbf_id": 41927,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Shimmering Tempest"
+        },
+        {
+          "dbf_id": 49263,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Celestial Emissary"
+        },
+        {
+          "dbf_id": 71230,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Haleh, Matron Protectorate"
+        },
+        {
+          "dbf_id": 61958,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Glacier Racer"
+        },
+        {
+          "dbf_id": 1939,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Flame Leviathan"
+        },
+        {
+          "dbf_id": 72925,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Trench Surveyor"
+        },
+        {
+          "dbf_id": 56461,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Apexis Smuggler"
+        },
+        {
+          "dbf_id": 43506,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Sindragosa"
+        },
+        {
+          "dbf_id": 61177,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Firework Elemental"
+        },
+        {
+          "dbf_id": 54909,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Mana Giant"
+        },
+        {
+          "dbf_id": 84390,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Vexallus"
+        },
+        {
+          "dbf_id": 86440,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Whirlweaver"
+        },
+        {
+          "dbf_id": 63112,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Rimetongue"
+        },
+        {
+          "dbf_id": 40701,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Inkmaster Solia"
+        },
+        {
+          "dbf_id": 75866,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Suspicious Alchemist"
+        },
+        {
+          "dbf_id": 1928,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Snowchugger"
+        },
+        {
+          "dbf_id": 38412,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Demented Frostcaller"
+        },
+        {
+          "dbf_id": 41154,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Steam Surger"
+        },
+        {
+          "dbf_id": 41162,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Pyros"
+        },
+        {
+          "dbf_id": 54901,
+          "popularity": 100.0,
+          "win_rate": 33.33,
+          "name": "Azure Explorer"
+        },
+        {
+          "dbf_id": 40407,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Kabal Chemist"
+        },
+        {
+          "dbf_id": 38409,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Twilight Flamecaller"
+        },
+        {
+          "dbf_id": 59002,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Wyrm Weaver"
+        },
+        {
+          "dbf_id": 42716,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ice Walker"
+        },
+        {
+          "dbf_id": 47982,
+          "popularity": 66.66,
+          "win_rate": 100.0,
+          "name": "Stargazer Luna"
+        },
+        {
+          "dbf_id": 48445,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Black Cat"
+        },
+        {
+          "dbf_id": 77609,
+          "popularity": 66.66,
+          "win_rate": 0.0,
+          "name": "Commander Sivara"
+        },
+        {
+          "dbf_id": 45590,
+          "popularity": 100.0,
+          "win_rate": 33.33,
+          "name": "Arcane Artificer"
+        },
+        {
+          "dbf_id": 39169,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Babbling Book"
+        },
+        {
+          "dbf_id": 75555,
+          "popularity": 66.66,
+          "win_rate": 0.0,
+          "name": "Submerged Spacerock"
+        },
+        {
+          "dbf_id": 51977,
+          "popularity": 66.66,
+          "win_rate": 100.0,
+          "name": "Magic Dart Frog"
+        },
+        {
+          "dbf_id": 84426,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Magister's Apprentice"
+        },
+        {
+          "dbf_id": 59000,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Firebrand"
+        },
+        {
+          "dbf_id": 42718,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Ghastly Conjurer"
+        },
+        {
+          "dbf_id": 56717,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Astromancer Solarian"
+        },
+        {
+          "dbf_id": 85034,
+          "popularity": 100.0,
+          "win_rate": 66.66,
+          "name": "Prismatic Elemental"
+        },
+        {
+          "dbf_id": 1934,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Goblin Blastmage"
+        },
+        {
+          "dbf_id": 36111,
+          "popularity": 100.0,
+          "win_rate": 33.33,
+          "name": "Animated Armor"
+        },
+        {
+          "dbf_id": 47692,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Archmage Arugal"
+        },
+        {
+          "dbf_id": 62347,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Aegwynn, the Guardian"
+        },
+        {
+          "dbf_id": 56387,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Imprisoned Observer"
+        },
+        {
+          "dbf_id": 40299,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Kabal Lackey"
+        },
+        {
+          "dbf_id": 64436,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Prestor's Pyromancer"
+        },
+        {
+          "dbf_id": 614,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sorcerer's Apprentice"
+        },
+        {
+          "dbf_id": 54408,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Dune Sculptor"
+        },
+        {
+          "dbf_id": 55280,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Dragoncaster"
+        },
+        {
+          "dbf_id": 59556,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Wand Thief"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

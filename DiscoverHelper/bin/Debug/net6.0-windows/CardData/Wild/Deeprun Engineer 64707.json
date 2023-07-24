@@ -1,0 +1,611 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 91078,
+          "popularity": 54.54,
+          "win_rate": 33.33,
+          "name": "Audio Amplifier"
+        },
+        {
+          "dbf_id": 2046,
+          "popularity": 13.63,
+          "win_rate": 100.0,
+          "name": "Mechanical Yeti"
+        },
+        {
+          "dbf_id": 2064,
+          "popularity": 47.61,
+          "win_rate": 80.0,
+          "name": "Piloted Shredder"
+        },
+        {
+          "dbf_id": 1982,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Fel Reaver"
+        },
+        {
+          "dbf_id": 49170,
+          "popularity": 50.0,
+          "win_rate": 20.0,
+          "name": "Spark Engine"
+        },
+        {
+          "dbf_id": 92249,
+          "popularity": 40.0,
+          "win_rate": 62.5,
+          "name": "Frequency Oscillator"
+        },
+        {
+          "dbf_id": 49279,
+          "popularity": 30.0,
+          "win_rate": 50.0,
+          "name": "Kaboom Bot"
+        },
+        {
+          "dbf_id": 48060,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Unpowered Mauler"
+        },
+        {
+          "dbf_id": 2037,
+          "popularity": 45.0,
+          "win_rate": 55.55,
+          "name": "Antique Healbot"
+        },
+        {
+          "dbf_id": 65705,
+          "popularity": 31.57,
+          "win_rate": 33.33,
+          "name": "Goliath, Sneed's Masterpiece"
+        },
+        {
+          "dbf_id": 61639,
+          "popularity": 57.89,
+          "win_rate": 36.36,
+          "name": "Darkmoon Dirigible"
+        },
+        {
+          "dbf_id": 72338,
+          "popularity": 52.63,
+          "win_rate": 50.0,
+          "name": "Security Automaton"
+        },
+        {
+          "dbf_id": 47924,
+          "popularity": 47.36,
+          "win_rate": 77.77,
+          "name": "Mechanical Whelp"
+        },
+        {
+          "dbf_id": 39225,
+          "popularity": 31.57,
+          "win_rate": 50.0,
+          "name": "The Curator"
+        },
+        {
+          "dbf_id": 2074,
+          "popularity": 36.84,
+          "win_rate": 28.57,
+          "name": "Junkbot"
+        },
+        {
+          "dbf_id": 61428,
+          "popularity": 36.84,
+          "win_rate": 57.14,
+          "name": "Circus Amalgam"
+        },
+        {
+          "dbf_id": 55406,
+          "popularity": 42.1,
+          "win_rate": 62.5,
+          "name": "Gyrocopter"
+        },
+        {
+          "dbf_id": 48505,
+          "popularity": 44.44,
+          "win_rate": 50.0,
+          "name": "Spring Rocket"
+        },
+        {
+          "dbf_id": 49161,
+          "popularity": 27.77,
+          "win_rate": 60.0,
+          "name": "Explodinator"
+        },
+        {
+          "dbf_id": 47979,
+          "popularity": 22.22,
+          "win_rate": 50.0,
+          "name": "Spark Drill"
+        },
+        {
+          "dbf_id": 2075,
+          "popularity": 41.17,
+          "win_rate": 28.57,
+          "name": "Enhance-o Mechano"
+        },
+        {
+          "dbf_id": 48886,
+          "popularity": 29.41,
+          "win_rate": 20.0,
+          "name": "Mecharoo"
+        },
+        {
+          "dbf_id": 1940,
+          "popularity": 47.05,
+          "win_rate": 25.0,
+          "name": "Mechwarper"
+        },
+        {
+          "dbf_id": 2050,
+          "popularity": 41.17,
+          "win_rate": 42.85,
+          "name": "Clockwork Gnome"
+        },
+        {
+          "dbf_id": 52288,
+          "popularity": 41.17,
+          "win_rate": 57.14,
+          "name": "Safeguard"
+        },
+        {
+          "dbf_id": 72931,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Mothership"
+        },
+        {
+          "dbf_id": 54284,
+          "popularity": 12.5,
+          "win_rate": 100.0,
+          "name": "Mortuary Machine"
+        },
+        {
+          "dbf_id": 71688,
+          "popularity": 25.0,
+          "win_rate": 75.0,
+          "name": "Naval Mine"
+        },
+        {
+          "dbf_id": 2071,
+          "popularity": 25.0,
+          "win_rate": 50.0,
+          "name": "Micro Machine"
+        },
+        {
+          "dbf_id": 1658,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Alarm-o-Bot"
+        },
+        {
+          "dbf_id": 2249,
+          "popularity": 6.25,
+          "win_rate": 100.0,
+          "name": "Soot Spewer"
+        },
+        {
+          "dbf_id": 2081,
+          "popularity": 25.0,
+          "win_rate": 50.0,
+          "name": "Foe Reaper 4000"
+        },
+        {
+          "dbf_id": 43051,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Meat Wagon"
+        },
+        {
+          "dbf_id": 49269,
+          "popularity": 33.33,
+          "win_rate": 60.0,
+          "name": "Augmented Elekk"
+        },
+        {
+          "dbf_id": 43453,
+          "popularity": 46.66,
+          "win_rate": 42.85,
+          "name": "Scorp-o-matic"
+        },
+        {
+          "dbf_id": 64716,
+          "popularity": 46.66,
+          "win_rate": 85.71,
+          "name": "Mo'arg Forgefiend"
+        },
+        {
+          "dbf_id": 61626,
+          "popularity": 33.33,
+          "win_rate": 60.0,
+          "name": "Claw Machine"
+        },
+        {
+          "dbf_id": 51733,
+          "popularity": 40.0,
+          "win_rate": 16.66,
+          "name": "Hecklebot"
+        },
+        {
+          "dbf_id": 38528,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Corrupted Healbot"
+        },
+        {
+          "dbf_id": 47888,
+          "popularity": 13.33,
+          "win_rate": 0.0,
+          "name": "Rusty Recycler"
+        },
+        {
+          "dbf_id": 91215,
+          "popularity": 13.33,
+          "win_rate": 50.0,
+          "name": "Metrognome"
+        },
+        {
+          "dbf_id": 2073,
+          "popularity": 35.71,
+          "win_rate": 40.0,
+          "name": "Piloted Sky Golem"
+        },
+        {
+          "dbf_id": 2061,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Target Dummy"
+        },
+        {
+          "dbf_id": 92254,
+          "popularity": 50.0,
+          "win_rate": 57.14,
+          "name": "Annoying Fan"
+        },
+        {
+          "dbf_id": 2082,
+          "popularity": 64.28,
+          "win_rate": 55.55,
+          "name": "Sneed's Old Shredder"
+        },
+        {
+          "dbf_id": 2500,
+          "popularity": 14.28,
+          "win_rate": 50.0,
+          "name": "Clockwork Knight"
+        },
+        {
+          "dbf_id": 778,
+          "popularity": 35.71,
+          "win_rate": 60.0,
+          "name": "Harvest Golem"
+        },
+        {
+          "dbf_id": 55402,
+          "popularity": 42.85,
+          "win_rate": 33.33,
+          "name": "Hot Air Balloon"
+        },
+        {
+          "dbf_id": 48025,
+          "popularity": 35.71,
+          "win_rate": 60.0,
+          "name": "Faithful Lumi"
+        },
+        {
+          "dbf_id": 48983,
+          "popularity": 64.28,
+          "win_rate": 66.66,
+          "name": "Galvanizer"
+        },
+        {
+          "dbf_id": 49184,
+          "popularity": 71.42,
+          "win_rate": 70.0,
+          "name": "Zilliax"
+        },
+        {
+          "dbf_id": 78079,
+          "popularity": 30.76,
+          "win_rate": 75.0,
+          "name": "Steamcleaner"
+        },
+        {
+          "dbf_id": 49447,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Subject 9"
+        },
+        {
+          "dbf_id": 2052,
+          "popularity": 15.38,
+          "win_rate": 50.0,
+          "name": "Flying Machine"
+        },
+        {
+          "dbf_id": 48536,
+          "popularity": 46.15,
+          "win_rate": 50.0,
+          "name": "Replicating Menace"
+        },
+        {
+          "dbf_id": 2059,
+          "popularity": 53.84,
+          "win_rate": 28.57,
+          "name": "Arcane Nullifier X-21"
+        },
+        {
+          "dbf_id": 47439,
+          "popularity": 33.33,
+          "win_rate": 25.0,
+          "name": "Clockwork Automaton"
+        },
+        {
+          "dbf_id": 48529,
+          "popularity": 16.66,
+          "win_rate": 0.0,
+          "name": "Upgradeable Framebot"
+        },
+        {
+          "dbf_id": 2062,
+          "popularity": 8.33,
+          "win_rate": 0.0,
+          "name": "Jeeves"
+        },
+        {
+          "dbf_id": 87317,
+          "popularity": 16.66,
+          "win_rate": 50.0,
+          "name": "Mistake"
+        },
+        {
+          "dbf_id": 48625,
+          "popularity": 8.33,
+          "win_rate": 0.0,
+          "name": "Mecha'thun"
+        },
+        {
+          "dbf_id": 49502,
+          "popularity": 25.0,
+          "win_rate": 66.66,
+          "name": "Nightmare Amalgam"
+        },
+        {
+          "dbf_id": 2084,
+          "popularity": 16.66,
+          "win_rate": 100.0,
+          "name": "Mekgineer Thermaplugg"
+        },
+        {
+          "dbf_id": 49019,
+          "popularity": 8.33,
+          "win_rate": 100.0,
+          "name": "Damaged Stegotron"
+        },
+        {
+          "dbf_id": 39839,
+          "popularity": 18.18,
+          "win_rate": 100.0,
+          "name": "Zoobot"
+        },
+        {
+          "dbf_id": 72417,
+          "popularity": 45.45,
+          "win_rate": 20.0,
+          "name": "Click-Clocker"
+        },
+        {
+          "dbf_id": 979,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Demolisher"
+        },
+        {
+          "dbf_id": 2911,
+          "popularity": 63.63,
+          "win_rate": 42.85,
+          "name": "Gorillabot A-3"
+        },
+        {
+          "dbf_id": 49233,
+          "popularity": 18.18,
+          "win_rate": 50.0,
+          "name": "Coppertail Imposter"
+        },
+        {
+          "dbf_id": 40337,
+          "popularity": 54.54,
+          "win_rate": 66.66,
+          "name": "Wind-up Burglebot"
+        },
+        {
+          "dbf_id": 2079,
+          "popularity": 36.36,
+          "win_rate": 75.0,
+          "name": "Mimiron's Head"
+        },
+        {
+          "dbf_id": 47895,
+          "popularity": 18.18,
+          "win_rate": 50.0,
+          "name": "Unpowered Steambot"
+        },
+        {
+          "dbf_id": 2087,
+          "popularity": 18.18,
+          "win_rate": 50.0,
+          "name": "Blingtron 3000"
+        },
+        {
+          "dbf_id": 48552,
+          "popularity": 9.09,
+          "win_rate": 0.0,
+          "name": "Missile Launcher"
+        },
+        {
+          "dbf_id": 2047,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Force-Tank MAX"
+        },
+        {
+          "dbf_id": 1928,
+          "popularity": 27.27,
+          "win_rate": 66.66,
+          "name": "Snowchugger"
+        },
+        {
+          "dbf_id": 73906,
+          "popularity": 72.72,
+          "win_rate": 12.5,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 57907,
+          "popularity": 20.0,
+          "win_rate": 50.0,
+          "name": "Replicat-o-tron"
+        },
+        {
+          "dbf_id": 56223,
+          "popularity": 50.0,
+          "win_rate": 60.0,
+          "name": "SN1P-SN4P"
+        },
+        {
+          "dbf_id": 48890,
+          "popularity": 20.0,
+          "win_rate": 0.0,
+          "name": "Steel Rager"
+        },
+        {
+          "dbf_id": 48518,
+          "popularity": 70.0,
+          "win_rate": 42.85,
+          "name": "Weaponized Piñata"
+        },
+        {
+          "dbf_id": 66887,
+          "popularity": 10.0,
+          "win_rate": 0.0,
+          "name": "Popsicooler"
+        },
+        {
+          "dbf_id": 49163,
+          "popularity": 20.0,
+          "win_rate": 50.0,
+          "name": "Bull Dozer"
+        },
+        {
+          "dbf_id": 90856,
+          "popularity": 20.0,
+          "win_rate": 50.0,
+          "name": "Audio Splitter"
+        },
+        {
+          "dbf_id": 55424,
+          "popularity": 10.0,
+          "win_rate": 100.0,
+          "name": "Camouflaged Dirigible"
+        },
+        {
+          "dbf_id": 1939,
+          "popularity": 20.0,
+          "win_rate": 50.0,
+          "name": "Flame Leviathan"
+        },
+        {
+          "dbf_id": 2053,
+          "popularity": 40.0,
+          "win_rate": 50.0,
+          "name": "Annoy-o-Tron"
+        },
+        {
+          "dbf_id": 47837,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Goblin Bomb"
+        },
+        {
+          "dbf_id": 90543,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "The One-Amalgam Band"
+        },
+        {
+          "dbf_id": 47775,
+          "popularity": 44.44,
+          "win_rate": 50.0,
+          "name": "Skaterbot"
+        },
+        {
+          "dbf_id": 49356,
+          "popularity": 37.5,
+          "win_rate": 100.0,
+          "name": "Wargear"
+        },
+        {
+          "dbf_id": 69718,
+          "popularity": 50.0,
+          "win_rate": 25.0,
+          "name": "Annoy-o-Tron"
+        },
+        {
+          "dbf_id": 71841,
+          "popularity": 62.5,
+          "win_rate": 100.0,
+          "name": "Gaia, the Techtonic"
+        },
+        {
+          "dbf_id": 47781,
+          "popularity": 62.5,
+          "win_rate": 20.0,
+          "name": "Bronze Gatekeeper"
+        },
+        {
+          "dbf_id": 38526,
+          "popularity": 57.14,
+          "win_rate": 25.0,
+          "name": "Psych-o-Tron"
+        },
+        {
+          "dbf_id": 72925,
+          "popularity": 42.85,
+          "win_rate": 33.33,
+          "name": "Trench Surveyor"
+        },
+        {
+          "dbf_id": 2044,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Explosive Sheep"
+        },
+        {
+          "dbf_id": 48223,
+          "popularity": 33.33,
+          "win_rate": 50.0,
+          "name": "Piloted Reaper"
+        },
+        {
+          "dbf_id": 72649,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Mecha-Shark"
+        },
+        {
+          "dbf_id": 57193,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Mo'arg Artificer"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

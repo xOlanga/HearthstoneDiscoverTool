@@ -1,0 +1,6 @@
+C:\Users\juliu\Desktop\HS Programs\Backup\DiscoverHelper\DiscoverHelper\bin\publish\DiscoverHelper.exe
+C:\Users\juliu\Desktop\HS Programs\Backup\DiscoverHelper\DiscoverHelper\bin\publish\DiscoverHelper.dll
+C:\Users\juliu\Desktop\HS Programs\Backup\DiscoverHelper\DiscoverHelper\bin\publish\DiscoverHelper.deps.json
+C:\Users\juliu\Desktop\HS Programs\Backup\DiscoverHelper\DiscoverHelper\bin\publish\DiscoverHelper.runtimeconfig.json
+C:\Users\juliu\Desktop\HS Programs\Backup\DiscoverHelper\DiscoverHelper\bin\publish\DiscoverHelper.pdb
+C:\Users\juliu\Desktop\HS Programs\Backup\DiscoverHelper\DiscoverHelper\bin\publish\Newtonsoft.Json.dll

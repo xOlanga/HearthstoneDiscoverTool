@@ -1,0 +1,161 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 90543,
+          "popularity": 51.01,
+          "win_rate": 60.63,
+          "name": "The One-Amalgam Band"
+        },
+        {
+          "dbf_id": 66870,
+          "popularity": 8.0,
+          "win_rate": 59.32,
+          "name": "Nozdormu the Eternal"
+        },
+        {
+          "dbf_id": 76329,
+          "popularity": 9.52,
+          "win_rate": 61.42,
+          "name": "Faerie Dragon"
+        },
+        {
+          "dbf_id": 66864,
+          "popularity": 66.16,
+          "win_rate": 66.39,
+          "name": "Alexstrasza the Life-Binder"
+        },
+        {
+          "dbf_id": 91659,
+          "popularity": 52.13,
+          "win_rate": 60.05,
+          "name": "Concert Promo-Drake"
+        },
+        {
+          "dbf_id": 76327,
+          "popularity": 37.41,
+          "win_rate": 52.78,
+          "name": "Primordial Drake"
+        },
+        {
+          "dbf_id": 76324,
+          "popularity": 27.45,
+          "win_rate": 64.79,
+          "name": "Azure Drake"
+        },
+        {
+          "dbf_id": 66869,
+          "popularity": 12.58,
+          "win_rate": 73.03,
+          "name": "Malygos the Spellweaver"
+        },
+        {
+          "dbf_id": 84387,
+          "popularity": 25.32,
+          "win_rate": 57.86,
+          "name": "Amber Whelp"
+        },
+        {
+          "dbf_id": 87317,
+          "popularity": 7.1,
+          "win_rate": 61.22,
+          "name": "Mistake"
+        },
+        {
+          "dbf_id": 66868,
+          "popularity": 43.63,
+          "win_rate": 68.47,
+          "name": "Ysera the Dreamer"
+        },
+        {
+          "dbf_id": 76325,
+          "popularity": 22.84,
+          "win_rate": 62.98,
+          "name": "Twilight Drake"
+        },
+        {
+          "dbf_id": 66866,
+          "popularity": 28.42,
+          "win_rate": 59.16,
+          "name": "Onyxia the Broodmother"
+        },
+        {
+          "dbf_id": 66872,
+          "popularity": 19.75,
+          "win_rate": 50.38,
+          "name": "Deathwing the Destroyer"
+        },
+        {
+          "dbf_id": 69726,
+          "popularity": 26.28,
+          "win_rate": 57.47,
+          "name": "Sleepy Dragon"
+        },
+        {
+          "dbf_id": 73906,
+          "popularity": 40.36,
+          "win_rate": 61.65,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 86544,
+          "popularity": 47.83,
+          "win_rate": 62.5,
+          "name": "Amber Watcher"
+        },
+        {
+          "dbf_id": 84399,
+          "popularity": 53.57,
+          "win_rate": 61.94,
+          "name": "Anachronos"
+        },
+        {
+          "dbf_id": 84388,
+          "popularity": 43.91,
+          "win_rate": 55.44,
+          "name": "Daring Drake"
+        },
+        {
+          "dbf_id": 86660,
+          "popularity": 32.38,
+          "win_rate": 61.48,
+          "name": "Goldwing"
+        },
+        {
+          "dbf_id": 83089,
+          "popularity": 36.4,
+          "win_rate": 63.25,
+          "name": "Timewarden"
+        },
+        {
+          "dbf_id": 86545,
+          "popularity": 63.28,
+          "win_rate": 60.49,
+          "name": "Bronze Explorer"
+        },
+        {
+          "dbf_id": 79742,
+          "popularity": 53.94,
+          "win_rate": 58.53,
+          "name": "Incriminating Psychic"
+        },
+        {
+          "dbf_id": 86535,
+          "popularity": 25.92,
+          "win_rate": 71.42,
+          "name": "Drakonid Operative"
+        },
+        {
+          "dbf_id": 87329,
+          "popularity": 75.0,
+          "win_rate": 66.66,
+          "name": "Frost Queen Sindragosa"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

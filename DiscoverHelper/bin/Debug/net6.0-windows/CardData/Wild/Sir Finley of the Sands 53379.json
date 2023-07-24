@@ -1,0 +1,131 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 2744,
+          "popularity": 37.31,
+          "win_rate": 76.0,
+          "name": "Soul Tap"
+        },
+        {
+          "dbf_id": 79943,
+          "popularity": 28.57,
+          "win_rate": 50.0,
+          "name": "Ghoul Frenzy"
+        },
+        {
+          "dbf_id": 2738,
+          "popularity": 18.33,
+          "win_rate": 45.45,
+          "name": "Ballista Shot"
+        },
+        {
+          "dbf_id": 2742,
+          "popularity": 10.52,
+          "win_rate": 33.33,
+          "name": "Totemic Slam"
+        },
+        {
+          "dbf_id": 60483,
+          "popularity": 38.88,
+          "win_rate": 61.9,
+          "name": "Demon's Bite"
+        },
+        {
+          "dbf_id": 2743,
+          "popularity": 12.96,
+          "win_rate": 57.14,
+          "name": "Poisoned Daggers"
+        },
+        {
+          "dbf_id": 2737,
+          "popularity": 50.0,
+          "win_rate": 68.0,
+          "name": "Dire Shapeshift"
+        },
+        {
+          "dbf_id": 2739,
+          "popularity": 50.0,
+          "win_rate": 54.16,
+          "name": "Fireblast Rank 2"
+        },
+        {
+          "dbf_id": 2741,
+          "popularity": 50.0,
+          "win_rate": 52.17,
+          "name": "Heal"
+        },
+        {
+          "dbf_id": 2745,
+          "popularity": 48.88,
+          "win_rate": 54.54,
+          "name": "Tank Up!"
+        },
+        {
+          "dbf_id": 2740,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "The Silver Hand"
+        },
+        {
+          "dbf_id": 69500,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Arcane Intellect"
+        },
+        {
+          "dbf_id": 54772,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ancient Mysteries"
+        },
+        {
+          "dbf_id": 1167,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Aldor Peacekeeper"
+        },
+        {
+          "dbf_id": 55288,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Clear the Way"
+        },
+        {
+          "dbf_id": 79555,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Motion Denied"
+        },
+        {
+          "dbf_id": 52262,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Tome of Intellect"
+        },
+        {
+          "dbf_id": 2893,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dart Trap"
+        },
+        {
+          "dbf_id": 45539,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Lynessa Sunsorrow"
+        },
+        {
+          "dbf_id": 84739,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Seal of Blood"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

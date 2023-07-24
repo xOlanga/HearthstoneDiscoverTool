@@ -1,0 +1,65 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 84240,
+          "popularity": 20.81,
+          "win_rate": 54.63,
+          "name": "Deal with a Devil"
+        },
+        {
+          "dbf_id": 71694,
+          "popularity": 17.64,
+          "win_rate": 60.04,
+          "name": "Multi-Strike"
+        },
+        {
+          "dbf_id": 69558,
+          "popularity": 41.35,
+          "win_rate": 62.12,
+          "name": "Chaos Strike"
+        },
+        {
+          "dbf_id": 84235,
+          "popularity": 56.34,
+          "win_rate": 66.16,
+          "name": "Unleash Fel"
+        },
+        {
+          "dbf_id": 76308,
+          "popularity": 28.39,
+          "win_rate": 61.56,
+          "name": "Metamorphosis"
+        },
+        {
+          "dbf_id": 79593,
+          "popularity": 26.81,
+          "win_rate": 66.27,
+          "name": "All Fel Breaks Loose"
+        },
+        {
+          "dbf_id": 97379,
+          "popularity": 28.71,
+          "win_rate": 58.01,
+          "name": "Immolation Aura"
+        },
+        {
+          "dbf_id": 72984,
+          "popularity": 38.12,
+          "win_rate": 64.97,
+          "name": "Predation"
+        },
+        {
+          "dbf_id": 69740,
+          "popularity": 42.05,
+          "win_rate": 57.75,
+          "name": "Eye Beam"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

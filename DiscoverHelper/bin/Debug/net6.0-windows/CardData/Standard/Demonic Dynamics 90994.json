@@ -1,0 +1,107 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 90543,
+          "popularity": 50.58,
+          "win_rate": 57.81,
+          "name": "The One-Amalgam Band"
+        },
+        {
+          "dbf_id": 87317,
+          "popularity": 8.83,
+          "win_rate": 54.27,
+          "name": "Mistake"
+        },
+        {
+          "dbf_id": 73906,
+          "popularity": 38.92,
+          "win_rate": 58.98,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 69636,
+          "popularity": 10.24,
+          "win_rate": 51.06,
+          "name": "Flame Imp"
+        },
+        {
+          "dbf_id": 102211,
+          "popularity": 41.13,
+          "win_rate": 59.75,
+          "name": "Voidcaller"
+        },
+        {
+          "dbf_id": 79537,
+          "popularity": 6.56,
+          "win_rate": 46.06,
+          "name": "Imp-oster"
+        },
+        {
+          "dbf_id": 69737,
+          "popularity": 10.08,
+          "win_rate": 47.4,
+          "name": "Lakkari Felhound"
+        },
+        {
+          "dbf_id": 90854,
+          "popularity": 36.12,
+          "win_rate": 57.76,
+          "name": "Void Virtuoso"
+        },
+        {
+          "dbf_id": 97346,
+          "popularity": 65.29,
+          "win_rate": 55.45,
+          "name": "Enhanced Dreadlord"
+        },
+        {
+          "dbf_id": 90439,
+          "popularity": 18.49,
+          "win_rate": 58.36,
+          "name": "Baritone Imp"
+        },
+        {
+          "dbf_id": 77056,
+          "popularity": 42.67,
+          "win_rate": 57.82,
+          "name": "Mischievous Imp"
+        },
+        {
+          "dbf_id": 76282,
+          "popularity": 28.73,
+          "win_rate": 53.05,
+          "name": "Imp Gang Boss"
+        },
+        {
+          "dbf_id": 102213,
+          "popularity": 58.72,
+          "win_rate": 61.92,
+          "name": "Mal'Ganis"
+        },
+        {
+          "dbf_id": 87681,
+          "popularity": 49.53,
+          "win_rate": 57.09,
+          "name": "Opera Soloist"
+        },
+        {
+          "dbf_id": 76281,
+          "popularity": 39.67,
+          "win_rate": 54.77,
+          "name": "Voidwalker"
+        },
+        {
+          "dbf_id": 76283,
+          "popularity": 31.29,
+          "win_rate": 53.04,
+          "name": "Abyssal Enforcer"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

@@ -1,0 +1,293 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 232,
+          "popularity": 18.51,
+          "win_rate": 60.0,
+          "name": "Repentance"
+        },
+        {
+          "dbf_id": 63323,
+          "popularity": 25.49,
+          "win_rate": 53.84,
+          "name": "Galloping Savior"
+        },
+        {
+          "dbf_id": 64464,
+          "popularity": 47.05,
+          "win_rate": 50.0,
+          "name": "Reckoning"
+        },
+        {
+          "dbf_id": 48832,
+          "popularity": 20.4,
+          "win_rate": 50.0,
+          "name": "Hidden Wisdom"
+        },
+        {
+          "dbf_id": 2899,
+          "popularity": 35.41,
+          "win_rate": 35.29,
+          "name": "Sacred Trial"
+        },
+        {
+          "dbf_id": 1804,
+          "popularity": 45.83,
+          "win_rate": 68.18,
+          "name": "Avenge"
+        },
+        {
+          "dbf_id": 48984,
+          "popularity": 29.78,
+          "win_rate": 64.28,
+          "name": "Autodefense Matrix"
+        },
+        {
+          "dbf_id": 61187,
+          "popularity": 69.56,
+          "win_rate": 59.37,
+          "name": "Oh My Yogg!"
+        },
+        {
+          "dbf_id": 140,
+          "popularity": 18.6,
+          "win_rate": 87.5,
+          "name": "Redemption"
+        },
+        {
+          "dbf_id": 2648,
+          "popularity": 25.58,
+          "win_rate": 45.45,
+          "name": "Competitive Spirit"
+        },
+        {
+          "dbf_id": 40587,
+          "popularity": 39.02,
+          "win_rate": 50.0,
+          "name": "Getaway Kodo"
+        },
+        {
+          "dbf_id": 52494,
+          "popularity": 36.58,
+          "win_rate": 53.33,
+          "name": "Never Surrender!"
+        },
+        {
+          "dbf_id": 462,
+          "popularity": 12.5,
+          "win_rate": 40.0,
+          "name": "Eye for an Eye"
+        },
+        {
+          "dbf_id": 62921,
+          "popularity": 42.5,
+          "win_rate": 64.7,
+          "name": "Judgment of Justice"
+        },
+        {
+          "dbf_id": 77151,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Kidnap"
+        },
+        {
+          "dbf_id": 45535,
+          "popularity": 20.0,
+          "win_rate": 100.0,
+          "name": "Evasion"
+        },
+        {
+          "dbf_id": 79607,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Perjury"
+        },
+        {
+          "dbf_id": 77148,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Double Cross"
+        },
+        {
+          "dbf_id": 45520,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Cheat Death"
+        },
+        {
+          "dbf_id": 61156,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Shadow Clone"
+        },
+        {
+          "dbf_id": 59877,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Plagiarize"
+        },
+        {
+          "dbf_id": 61955,
+          "popularity": 66.66,
+          "win_rate": 50.0,
+          "name": "Shenanigans"
+        },
+        {
+          "dbf_id": 56524,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ambush"
+        },
+        {
+          "dbf_id": 57145,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Bamboozle"
+        },
+        {
+          "dbf_id": 45529,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Sudden Betrayal"
+        },
+        {
+          "dbf_id": 77150,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sticky Situation"
+        },
+        {
+          "dbf_id": 84739,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Seal of Blood"
+        },
+        {
+          "dbf_id": 86274,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Arcane Bolt"
+        },
+        {
+          "dbf_id": 59621,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Potion of Illusion"
+        },
+        {
+          "dbf_id": 72333,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Smothering Starfish"
+        },
+        {
+          "dbf_id": 38857,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "C'Thun"
+        },
+        {
+          "dbf_id": 52421,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Witch's Brew"
+        },
+        {
+          "dbf_id": 41158,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Mana Bind"
+        },
+        {
+          "dbf_id": 192,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ice Block"
+        },
+        {
+          "dbf_id": 52490,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Lightforged Blessing"
+        },
+        {
+          "dbf_id": 90749,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "E.T.C., Band Manager"
+        },
+        {
+          "dbf_id": 72003,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Spell Counter"
+        },
+        {
+          "dbf_id": 67932,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Windchill"
+        },
+        {
+          "dbf_id": 59540,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Combustion"
+        },
+        {
+          "dbf_id": 58791,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Gift of Luminance"
+        },
+        {
+          "dbf_id": 61180,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Grand Finale"
+        },
+        {
+          "dbf_id": 53985,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Plague of Murlocs"
+        },
+        {
+          "dbf_id": 79548,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Objection!"
+        },
+        {
+          "dbf_id": 2084,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Mekgineer Thermaplugg"
+        },
+        {
+          "dbf_id": 72001,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Minion Counter"
+        },
+        {
+          "dbf_id": 69608,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ice Barrier"
+        },
+        {
+          "dbf_id": 56526,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dirty Tricks"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

@@ -1,0 +1,83 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 94210,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Harmonic Mood"
+        },
+        {
+          "dbf_id": 2015,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sabotage"
+        },
+        {
+          "dbf_id": 69688,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Feral Rage"
+        },
+        {
+          "dbf_id": 40401,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Pilfered Power"
+        },
+        {
+          "dbf_id": 79608,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Murder Accusation"
+        },
+        {
+          "dbf_id": 2001,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Tree of Life"
+        },
+        {
+          "dbf_id": 53596,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Worthy Expedition"
+        },
+        {
+          "dbf_id": 47887,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Biology Project"
+        },
+        {
+          "dbf_id": 52819,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "The Forest's Aid"
+        },
+        {
+          "dbf_id": 47063,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Wispering Woods"
+        },
+        {
+          "dbf_id": 62892,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Paralytic Poison"
+        },
+        {
+          "dbf_id": 51781,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Crystalsong Portal"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

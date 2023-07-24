@@ -1,0 +1,239 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 92258,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Merch Seller"
+        },
+        {
+          "dbf_id": 90959,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Love Everlasting"
+        },
+        {
+          "dbf_id": 90699,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Audio Medic"
+        },
+        {
+          "dbf_id": 94218,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Free Spirit"
+        },
+        {
+          "dbf_id": 91076,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Amplified Elekk"
+        },
+        {
+          "dbf_id": 90671,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Holotechnician"
+        },
+        {
+          "dbf_id": 91175,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Static Waveform"
+        },
+        {
+          "dbf_id": 91232,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Arcanite Ripper"
+        },
+        {
+          "dbf_id": 92254,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Annoying Fan"
+        },
+        {
+          "dbf_id": 91989,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Hipster"
+        },
+        {
+          "dbf_id": 92249,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Frequency Oscillator"
+        },
+        {
+          "dbf_id": 90592,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rewind"
+        },
+        {
+          "dbf_id": 90532,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Glaivetar"
+        },
+        {
+          "dbf_id": 90368,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Cosmic Keyboard"
+        },
+        {
+          "dbf_id": 90572,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Rhyme Spinner"
+        },
+        {
+          "dbf_id": 90603,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "MC Blingtron"
+        },
+        {
+          "dbf_id": 92256,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Cover Artist"
+        },
+        {
+          "dbf_id": 90534,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Lightshow"
+        },
+        {
+          "dbf_id": 94250,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Zok Fogsnout"
+        },
+        {
+          "dbf_id": 90681,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Idol's Adoration"
+        },
+        {
+          "dbf_id": 91215,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Metrognome"
+        },
+        {
+          "dbf_id": 90952,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dreamboat"
+        },
+        {
+          "dbf_id": 91874,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Party Animal"
+        },
+        {
+          "dbf_id": 91412,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Harmonic Metal"
+        },
+        {
+          "dbf_id": 92332,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Photographer Fizzle"
+        },
+        {
+          "dbf_id": 91252,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Pozzik, Audio Engineer"
+        },
+        {
+          "dbf_id": 96946,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Taste of Chaos"
+        },
+        {
+          "dbf_id": 92240,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Festival Security"
+        },
+        {
+          "dbf_id": 94205,
+          "popularity": 100.0,
+          "win_rate": 0.0,
+          "name": "Summer Flowerchild"
+        },
+        {
+          "dbf_id": 90608,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Snakebite"
+        },
+        {
+          "dbf_id": 90586,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Mic Drop"
+        },
+        {
+          "dbf_id": 91511,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Worgen Roadie"
+        },
+        {
+          "dbf_id": 91080,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Ghost Writer"
+        },
+        {
+          "dbf_id": 97403,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Fan Club"
+        },
+        {
+          "dbf_id": 87648,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Keyboard Soloist"
+        },
+        {
+          "dbf_id": 91067,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Power Chord: Synchronize"
+        },
+        {
+          "dbf_id": 94225,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Spread the Word"
+        },
+        {
+          "dbf_id": 90972,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Freebird"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

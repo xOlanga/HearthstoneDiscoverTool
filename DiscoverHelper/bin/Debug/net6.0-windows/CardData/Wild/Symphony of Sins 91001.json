@@ -1,0 +1,53 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 94743,
+          "popularity": 34.18,
+          "win_rate": 65.23,
+          "name": "Movement of Gluttony"
+        },
+        {
+          "dbf_id": 91963,
+          "popularity": 57.73,
+          "win_rate": 53.69,
+          "name": "Movement of Envy"
+        },
+        {
+          "dbf_id": 94744,
+          "popularity": 6.84,
+          "win_rate": 57.72,
+          "name": "Movement of Greed"
+        },
+        {
+          "dbf_id": 91965,
+          "popularity": 28.17,
+          "win_rate": 46.12,
+          "name": "Movement of Wrath"
+        },
+        {
+          "dbf_id": 94745,
+          "popularity": 49.46,
+          "win_rate": 57.7,
+          "name": "Movement of Sloth"
+        },
+        {
+          "dbf_id": 91964,
+          "popularity": 28.28,
+          "win_rate": 58.33,
+          "name": "Movement of Pride"
+        },
+        {
+          "dbf_id": 92042,
+          "popularity": 28.49,
+          "win_rate": 56.15,
+          "name": "Movement of Desire"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

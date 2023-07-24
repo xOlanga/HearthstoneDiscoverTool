@@ -1,0 +1,227 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 61683,
+          "popularity": 22.82,
+          "win_rate": 57.14,
+          "name": "Open the Cages"
+        },
+        {
+          "dbf_id": 1091,
+          "popularity": 25.55,
+          "win_rate": 34.78,
+          "name": "Misdirection"
+        },
+        {
+          "dbf_id": 72340,
+          "popularity": 25.0,
+          "win_rate": 40.9,
+          "name": "Emergency Maneuvers"
+        },
+        {
+          "dbf_id": 39160,
+          "popularity": 40.0,
+          "win_rate": 61.76,
+          "name": "Cat Trick"
+        },
+        {
+          "dbf_id": 43359,
+          "popularity": 42.85,
+          "win_rate": 47.22,
+          "name": "Wandering Monster"
+        },
+        {
+          "dbf_id": 47128,
+          "popularity": 41.46,
+          "win_rate": 47.05,
+          "name": "Rat Trap"
+        },
+        {
+          "dbf_id": 86567,
+          "popularity": 29.87,
+          "win_rate": 65.21,
+          "name": "ZOMBEEEES!!!"
+        },
+        {
+          "dbf_id": 53919,
+          "popularity": 40.25,
+          "win_rate": 54.83,
+          "name": "Pressure Plate"
+        },
+        {
+          "dbf_id": 2641,
+          "popularity": 28.94,
+          "win_rate": 13.63,
+          "name": "Bear Trap"
+        },
+        {
+          "dbf_id": 40339,
+          "popularity": 9.33,
+          "win_rate": 57.14,
+          "name": "Hidden Cache"
+        },
+        {
+          "dbf_id": 2893,
+          "popularity": 41.09,
+          "win_rate": 63.33,
+          "name": "Dart Trap"
+        },
+        {
+          "dbf_id": 67243,
+          "popularity": 34.72,
+          "win_rate": 56.0,
+          "name": "Ice Trap"
+        },
+        {
+          "dbf_id": 79555,
+          "popularity": 35.21,
+          "win_rate": 52.0,
+          "name": "Motion Denied"
+        },
+        {
+          "dbf_id": 42525,
+          "popularity": 28.57,
+          "win_rate": 61.11,
+          "name": "Venomstrike Trap"
+        },
+        {
+          "dbf_id": 814,
+          "popularity": 50.0,
+          "win_rate": 50.0,
+          "name": "Snipe"
+        },
+        {
+          "dbf_id": 56484,
+          "popularity": 31.66,
+          "win_rate": 63.15,
+          "name": "Pack Tactics"
+        },
+        {
+          "dbf_id": 69603,
+          "popularity": 52.63,
+          "win_rate": 50.0,
+          "name": "Explosive Trap"
+        },
+        {
+          "dbf_id": 69604,
+          "popularity": 22.5,
+          "win_rate": 55.55,
+          "name": "Freezing Trap"
+        },
+        {
+          "dbf_id": 519,
+          "popularity": 27.58,
+          "win_rate": 37.5,
+          "name": "Freezing Trap"
+        },
+        {
+          "dbf_id": 585,
+          "popularity": 52.94,
+          "win_rate": 55.55,
+          "name": "Explosive Trap"
+        },
+        {
+          "dbf_id": 77151,
+          "popularity": 25.0,
+          "win_rate": 0.0,
+          "name": "Kidnap"
+        },
+        {
+          "dbf_id": 77148,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Double Cross"
+        },
+        {
+          "dbf_id": 45529,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Sudden Betrayal"
+        },
+        {
+          "dbf_id": 56526,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Dirty Tricks"
+        },
+        {
+          "dbf_id": 2899,
+          "popularity": 33.33,
+          "win_rate": 0.0,
+          "name": "Sacred Trial"
+        },
+        {
+          "dbf_id": 57145,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Bamboozle"
+        },
+        {
+          "dbf_id": 56524,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Ambush"
+        },
+        {
+          "dbf_id": 48984,
+          "popularity": 33.33,
+          "win_rate": 100.0,
+          "name": "Autodefense Matrix"
+        },
+        {
+          "dbf_id": 45520,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Cheat Death"
+        },
+        {
+          "dbf_id": 61156,
+          "popularity": 50.0,
+          "win_rate": 0.0,
+          "name": "Shadow Clone"
+        },
+        {
+          "dbf_id": 52494,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Never Surrender!"
+        },
+        {
+          "dbf_id": 79607,
+          "popularity": 100.0,
+          "win_rate": 100.0,
+          "name": "Perjury"
+        },
+        {
+          "dbf_id": 59877,
+          "popularity": 100.0,
+          "win_rate": 50.0,
+          "name": "Plagiarize"
+        },
+        {
+          "dbf_id": 77150,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Sticky Situation"
+        },
+        {
+          "dbf_id": 63323,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Galloping Savior"
+        },
+        {
+          "dbf_id": 45535,
+          "popularity": 50.0,
+          "win_rate": 100.0,
+          "name": "Evasion"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}

@@ -1,0 +1,503 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 102200,
+          "popularity": 31.25,
+          "win_rate": 68.67,
+          "name": "Shard of the Naaru"
+        },
+        {
+          "dbf_id": 90683,
+          "popularity": 31.23,
+          "win_rate": 64.42,
+          "name": "Harmonic Pop"
+        },
+        {
+          "dbf_id": 86624,
+          "popularity": 50.32,
+          "win_rate": 66.01,
+          "name": "Cannibalize"
+        },
+        {
+          "dbf_id": 82310,
+          "popularity": 20.9,
+          "win_rate": 74.21,
+          "name": "Cathedral of Atonement"
+        },
+        {
+          "dbf_id": 77305,
+          "popularity": 33.85,
+          "win_rate": 68.64,
+          "name": "The Light! It Burns!"
+        },
+        {
+          "dbf_id": 77368,
+          "popularity": 48.01,
+          "win_rate": 68.86,
+          "name": "Identity Theft"
+        },
+        {
+          "dbf_id": 91067,
+          "popularity": 34.65,
+          "win_rate": 70.37,
+          "name": "Power Chord: Synchronize"
+        },
+        {
+          "dbf_id": 77370,
+          "popularity": 24.72,
+          "win_rate": 67.32,
+          "name": "Clean the Scene"
+        },
+        {
+          "dbf_id": 97403,
+          "popularity": 22.4,
+          "win_rate": 69.36,
+          "name": "Fan Club"
+        },
+        {
+          "dbf_id": 91989,
+          "popularity": 30.04,
+          "win_rate": 62.61,
+          "name": "Hipster"
+        },
+        {
+          "dbf_id": 72481,
+          "popularity": 28.51,
+          "win_rate": 60.86,
+          "name": "Whirlpool"
+        },
+        {
+          "dbf_id": 72598,
+          "popularity": 32.79,
+          "win_rate": 73.33,
+          "name": "School Teacher"
+        },
+        {
+          "dbf_id": 85154,
+          "popularity": 34.7,
+          "win_rate": 72.41,
+          "name": "Nerubian Vizier"
+        },
+        {
+          "dbf_id": 79767,
+          "popularity": 2.12,
+          "win_rate": 58.33,
+          "name": "Prince Renathal"
+        },
+        {
+          "dbf_id": 75876,
+          "popularity": 38.75,
+          "win_rate": 70.96,
+          "name": "Dispossessed Soul"
+        },
+        {
+          "dbf_id": 84207,
+          "popularity": 38.32,
+          "win_rate": 71.57,
+          "name": "Sister Svalna"
+        },
+        {
+          "dbf_id": 66861,
+          "popularity": 21.32,
+          "win_rate": 62.26,
+          "name": "Thrive in the Shadows"
+        },
+        {
+          "dbf_id": 102225,
+          "popularity": 45.03,
+          "win_rate": 66.21,
+          "name": "Dirty Rat"
+        },
+        {
+          "dbf_id": 72488,
+          "popularity": 64.56,
+          "win_rate": 69.67,
+          "name": "Blackwater Behemoth"
+        },
+        {
+          "dbf_id": 90959,
+          "popularity": 38.62,
+          "win_rate": 66.25,
+          "name": "Love Everlasting"
+        },
+        {
+          "dbf_id": 90644,
+          "popularity": 24.93,
+          "win_rate": 64.28,
+          "name": "Mind Eater"
+        },
+        {
+          "dbf_id": 72923,
+          "popularity": 52.07,
+          "win_rate": 72.13,
+          "name": "Queen Azshara"
+        },
+        {
+          "dbf_id": 69707,
+          "popularity": 28.96,
+          "win_rate": 60.37,
+          "name": "Flash Heal"
+        },
+        {
+          "dbf_id": 69566,
+          "popularity": 29.94,
+          "win_rate": 63.2,
+          "name": "Psychic Conjurer"
+        },
+        {
+          "dbf_id": 86626,
+          "popularity": 67.97,
+          "win_rate": 73.33,
+          "name": "Astalor Bloodsworn"
+        },
+        {
+          "dbf_id": 90749,
+          "popularity": 41.39,
+          "win_rate": 69.6,
+          "name": "E.T.C., Band Manager"
+        },
+        {
+          "dbf_id": 90687,
+          "popularity": 28.47,
+          "win_rate": 53.57,
+          "name": "Fight Over Me"
+        },
+        {
+          "dbf_id": 71781,
+          "popularity": 13.3,
+          "win_rate": 75.86,
+          "name": "Sir Finley, Sea Guide"
+        },
+        {
+          "dbf_id": 91080,
+          "popularity": 31.62,
+          "win_rate": 60.29,
+          "name": "Ghost Writer"
+        },
+        {
+          "dbf_id": 97112,
+          "popularity": 35.54,
+          "win_rate": 69.49,
+          "name": "Zilliax"
+        },
+        {
+          "dbf_id": 84586,
+          "popularity": 29.09,
+          "win_rate": 58.33,
+          "name": "Grave Digging"
+        },
+        {
+          "dbf_id": 91079,
+          "popularity": 36.84,
+          "win_rate": 73.21,
+          "name": "Heartthrob"
+        },
+        {
+          "dbf_id": 69508,
+          "popularity": 32.14,
+          "win_rate": 71.11,
+          "name": "Holy Nova"
+        },
+        {
+          "dbf_id": 62498,
+          "popularity": 13.95,
+          "win_rate": 55.55,
+          "name": "Crimson Clergy"
+        },
+        {
+          "dbf_id": 90700,
+          "popularity": 33.33,
+          "win_rate": 66.66,
+          "name": "Paparazzi"
+        },
+        {
+          "dbf_id": 77298,
+          "popularity": 25.4,
+          "win_rate": 61.29,
+          "name": "Mysterious Visitor"
+        },
+        {
+          "dbf_id": 76984,
+          "popularity": 29.91,
+          "win_rate": 77.14,
+          "name": "Theotar, the Mad Duke"
+        },
+        {
+          "dbf_id": 79742,
+          "popularity": 47.41,
+          "win_rate": 63.63,
+          "name": "Incriminating Psychic"
+        },
+        {
+          "dbf_id": 84206,
+          "popularity": 51.4,
+          "win_rate": 52.72,
+          "name": "Shadow Word: Undeath"
+        },
+        {
+          "dbf_id": 97608,
+          "popularity": 6.6,
+          "win_rate": 42.85,
+          "name": "Mana Geode"
+        },
+        {
+          "dbf_id": 85152,
+          "popularity": 13.48,
+          "win_rate": 75.0,
+          "name": "Foul Egg"
+        },
+        {
+          "dbf_id": 84370,
+          "popularity": 5.61,
+          "win_rate": 80.0,
+          "name": "Arms Dealer"
+        },
+        {
+          "dbf_id": 62497,
+          "popularity": 44.31,
+          "win_rate": 53.84,
+          "name": "Shadowed Spirit"
+        },
+        {
+          "dbf_id": 95746,
+          "popularity": 31.03,
+          "win_rate": 74.07,
+          "name": "Shadow Ascendant"
+        },
+        {
+          "dbf_id": 86619,
+          "popularity": 60.24,
+          "win_rate": 84.0,
+          "name": "Rotting Necromancer"
+        },
+        {
+          "dbf_id": 77299,
+          "popularity": 45.56,
+          "win_rate": 75.0,
+          "name": "Partner in Crime"
+        },
+        {
+          "dbf_id": 73906,
+          "popularity": 28.57,
+          "win_rate": 72.72,
+          "name": "Amalgam of the Deep"
+        },
+        {
+          "dbf_id": 86621,
+          "popularity": 44.15,
+          "win_rate": 58.82,
+          "name": "Mind Sear"
+        },
+        {
+          "dbf_id": 78405,
+          "popularity": 48.05,
+          "win_rate": 64.86,
+          "name": "The Harvester of Envy"
+        },
+        {
+          "dbf_id": 102223,
+          "popularity": 10.81,
+          "win_rate": 37.5,
+          "name": "Armor Vendor"
+        },
+        {
+          "dbf_id": 84361,
+          "popularity": 29.72,
+          "win_rate": 77.27,
+          "name": "Undying Allies"
+        },
+        {
+          "dbf_id": 80120,
+          "popularity": 43.66,
+          "win_rate": 54.83,
+          "name": "Drown"
+        },
+        {
+          "dbf_id": 86534,
+          "popularity": 20.96,
+          "win_rate": 46.15,
+          "name": "Lightbomb"
+        },
+        {
+          "dbf_id": 102718,
+          "popularity": 3.38,
+          "win_rate": 50.0,
+          "name": "Darkbishop Benedictus"
+        },
+        {
+          "dbf_id": 69616,
+          "popularity": 23.21,
+          "win_rate": 38.46,
+          "name": "Shadow Word: Ruin"
+        },
+        {
+          "dbf_id": 91078,
+          "popularity": 20.0,
+          "win_rate": 90.9,
+          "name": "Audio Amplifier"
+        },
+        {
+          "dbf_id": 90956,
+          "popularity": 46.29,
+          "win_rate": 56.0,
+          "name": "Heartbreaker Hedanis"
+        },
+        {
+          "dbf_id": 85651,
+          "popularity": 20.75,
+          "win_rate": 45.45,
+          "name": "Banshee"
+        },
+        {
+          "dbf_id": 86725,
+          "popularity": 43.13,
+          "win_rate": 45.45,
+          "name": "Rivendare, Warrider"
+        },
+        {
+          "dbf_id": 92332,
+          "popularity": 38.0,
+          "win_rate": 78.94,
+          "name": "Photographer Fizzle"
+        },
+        {
+          "dbf_id": 84857,
+          "popularity": 57.14,
+          "win_rate": 75.0,
+          "name": "High Cultist Basaleph"
+        },
+        {
+          "dbf_id": 86551,
+          "popularity": 27.5,
+          "win_rate": 90.9,
+          "name": "Vulpera Scoundrel"
+        },
+        {
+          "dbf_id": 76583,
+          "popularity": 27.02,
+          "win_rate": 40.0,
+          "name": "Herald of Light"
+        },
+        {
+          "dbf_id": 76310,
+          "popularity": 34.28,
+          "win_rate": 75.0,
+          "name": "Zola the Gorgon"
+        },
+        {
+          "dbf_id": 87326,
+          "popularity": 11.42,
+          "win_rate": 50.0,
+          "name": "Construct Quarter"
+        },
+        {
+          "dbf_id": 77714,
+          "popularity": 34.28,
+          "win_rate": 58.33,
+          "name": "Sketchy Stranger"
+        },
+        {
+          "dbf_id": 80647,
+          "popularity": 14.28,
+          "win_rate": 20.0,
+          "name": "Chillfallen Baron"
+        },
+        {
+          "dbf_id": 69569,
+          "popularity": 18.75,
+          "win_rate": 66.66,
+          "name": "Shadow Word: Death"
+        },
+        {
+          "dbf_id": 74907,
+          "popularity": 18.75,
+          "win_rate": 83.33,
+          "name": "Ambassador Faelin"
+        },
+        {
+          "dbf_id": 78469,
+          "popularity": 56.25,
+          "win_rate": 61.11,
+          "name": "Relic of Extinction"
+        },
+        {
+          "dbf_id": 80819,
+          "popularity": 70.96,
+          "win_rate": 68.18,
+          "name": "Gnome Muncher"
+        },
+        {
+          "dbf_id": 86228,
+          "popularity": 45.16,
+          "win_rate": 57.14,
+          "name": "The Sunwell"
+        },
+        {
+          "dbf_id": 66856,
+          "popularity": 34.48,
+          "win_rate": 60.0,
+          "name": "Taelan Fordring"
+        },
+        {
+          "dbf_id": 77616,
+          "popularity": 62.06,
+          "win_rate": 77.77,
+          "name": "Relic of Phantasms"
+        },
+        {
+          "dbf_id": 92333,
+          "popularity": 60.71,
+          "win_rate": 70.58,
+          "name": "Fizzle's Snapshot"
+        },
+        {
+          "dbf_id": 90648,
+          "popularity": 14.28,
+          "win_rate": 50.0,
+          "name": "Mosh Pit"
+        },
+        {
+          "dbf_id": 84133,
+          "popularity": 39.28,
+          "win_rate": 45.45,
+          "name": "Bonecaller"
+        },
+        {
+          "dbf_id": 90591,
+          "popularity": 57.69,
+          "win_rate": 53.33,
+          "name": "Breakdance"
+        },
+        {
+          "dbf_id": 90681,
+          "popularity": 26.92,
+          "win_rate": 71.42,
+          "name": "Idol's Adoration"
+        },
+        {
+          "dbf_id": 79780,
+          "popularity": 65.38,
+          "win_rate": 41.17,
+          "name": "Sylvanas, the Accused"
+        },
+        {
+          "dbf_id": 87267,
+          "popularity": 0.0,
+          "win_rate": 0.0,
+          "name": "Grain Crate"
+        },
+        {
+          "dbf_id": 90952,
+          "popularity": 24.0,
+          "win_rate": 66.66,
+          "name": "Dreamboat"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:57:59Z"
+}

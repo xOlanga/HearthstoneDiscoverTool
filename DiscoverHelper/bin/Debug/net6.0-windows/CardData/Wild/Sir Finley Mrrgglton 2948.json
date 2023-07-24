@@ -1,0 +1,77 @@
+{
+  "render_as": "table",
+  "series": {
+    "metadata": {},
+    "data": {
+      "ALL": [
+        {
+          "dbf_id": 229,
+          "popularity": 50.7,
+          "win_rate": 62.5,
+          "name": "Steady Shot"
+        },
+        {
+          "dbf_id": 78162,
+          "popularity": 28.67,
+          "win_rate": 58.97,
+          "name": "Ghoul Charge"
+        },
+        {
+          "dbf_id": 1123,
+          "popularity": 33.83,
+          "win_rate": 48.88,
+          "name": "Shapeshift"
+        },
+        {
+          "dbf_id": 479,
+          "popularity": 32.3,
+          "win_rate": 50.0,
+          "name": "Lesser Heal"
+        },
+        {
+          "dbf_id": 807,
+          "popularity": 42.18,
+          "win_rate": 59.25,
+          "name": "Fireblast"
+        },
+        {
+          "dbf_id": 60224,
+          "popularity": 37.79,
+          "win_rate": 52.08,
+          "name": "Demon Claws"
+        },
+        {
+          "dbf_id": 300,
+          "popularity": 43.3,
+          "win_rate": 60.0,
+          "name": "Life Tap"
+        },
+        {
+          "dbf_id": 472,
+          "popularity": 11.96,
+          "win_rate": 78.57,
+          "name": "Reinforce"
+        },
+        {
+          "dbf_id": 730,
+          "popularity": 26.12,
+          "win_rate": 65.51,
+          "name": "Dagger Mastery"
+        },
+        {
+          "dbf_id": 725,
+          "popularity": 30.33,
+          "win_rate": 51.85,
+          "name": "Armor Up!"
+        },
+        {
+          "dbf_id": 687,
+          "popularity": 19.27,
+          "win_rate": 31.25,
+          "name": "Totemic Call"
+        }
+      ]
+    }
+  },
+  "as_of": "2023-05-29T17:56:03Z"
+}
